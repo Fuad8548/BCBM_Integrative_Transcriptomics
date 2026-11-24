@@ -1,0 +1,159 @@
+"group","sample","cell_type","n_nuclei"
+"NCH724Y__Tumor cells","NCH724Y","Tumor cells",1448
+"NCH724Y__Endothelial cells","NCH724Y","Endothelial cells",211
+"NCH724Y__Pericytes","NCH724Y","Pericytes",127
+"NCH724Y__Stromal cells","NCH724Y","Stromal cells",179
+"NCH724Y__Tumor cells (prol.)","NCH724Y","Tumor cells (prol.)",535
+"NCH724Y__Astrocytes","NCH724Y","Astrocytes",61
+"NCH631b__Tumor cells","NCH631b","Tumor cells",4330
+"NCH631b__Tumor cells (prol.)","NCH631b","Tumor cells (prol.)",172
+"NCH631b__Stromal cells","NCH631b","Stromal cells",92
+"NCH631b__Endothelial cells","NCH631b","Endothelial cells",86
+"NCH631b__Pericytes","NCH631b","Pericytes",75
+"NCH631b__Astrocytes","NCH631b","Astrocytes",35
+"NCH698g__Tumor cells","NCH698g","Tumor cells",2789
+"NCH698g__Pericytes","NCH698g","Pericytes",162
+"NCH698g__Endothelial cells","NCH698g","Endothelial cells",134
+"NCH698g__Stromal cells","NCH698g","Stromal cells",463
+"NCH698g__Tumor cells (prol.)","NCH698g","Tumor cells (prol.)",392
+"NCH1475__Tumor cells","NCH1475","Tumor cells",739
+"NCH1475__Endothelial cells","NCH1475","Endothelial cells",40
+"NCH1475__Pericytes","NCH1475","Pericytes",64
+"NCH1475__Stromal cells","NCH1475","Stromal cells",98
+"NCH1475__Tumor cells (prol.)","NCH1475","Tumor cells (prol.)",105
+"NCH7023__Tumor cells","NCH7023","Tumor cells",869
+"NCH7023__Tumor cells (prol.)","NCH7023","Tumor cells (prol.)",657
+"NCH7023__Stromal cells","NCH7023","Stromal cells",10
+"NCH7023__Endothelial cells","NCH7023","Endothelial cells",10
+"NCH7023__Pericytes","NCH7023","Pericytes",11
+"NCH7023__Astrocytes","NCH7023","Astrocytes",3
+"NCH4160__Pericytes","NCH4160","Pericytes",48
+"NCH4160__Stromal cells","NCH4160","Stromal cells",281
+"NCH4160__Tumor cells","NCH4160","Tumor cells",115
+"NCH4160__Tumor cells (prol.)","NCH4160","Tumor cells (prol.)",19
+"NCH4160__Endothelial cells","NCH4160","Endothelial cells",4
+"NCH4464__Tumor cells (prol.)","NCH4464","Tumor cells (prol.)",346
+"NCH4464__Tumor cells","NCH4464","Tumor cells",526
+"NCH4464__Endothelial cells","NCH4464","Endothelial cells",54
+"NCH4464__Pericytes","NCH4464","Pericytes",4
+"NCH4464__Stromal cells","NCH4464","Stromal cells",16
+"NCH2972__Tumor cells","NCH2972","Tumor cells",4407
+"NCH2972__Tumor cells (prol.)","NCH2972","Tumor cells (prol.)",1515
+"NCH2972__Endothelial cells","NCH2972","Endothelial cells",7
+"NCH2972__Stromal cells","NCH2972","Stromal cells",17
+"NCH2972__Pericytes","NCH2972","Pericytes",3
+"NCH5119__Tumor cells","NCH5119","Tumor cells",2868
+"NCH5119__Tumor cells (prol.)","NCH5119","Tumor cells (prol.)",229
+"NCH5119__Stromal cells","NCH5119","Stromal cells",3
+"NCH5119__Pericytes","NCH5119","Pericytes",63
+"NCH6239__Tumor cells","NCH6239","Tumor cells",387
+"NCH6239__Tumor cells (prol.)","NCH6239","Tumor cells (prol.)",84
+"NCH6239__Pericytes","NCH6239","Pericytes",25
+"NCH6239__Stromal cells","NCH6239","Stromal cells",27
+"NCH1367__Tumor cells","NCH1367","Tumor cells",1191
+"NCH1367__Pericytes","NCH1367","Pericytes",529
+"NCH1367__Tumor cells (prol.)","NCH1367","Tumor cells (prol.)",281
+"NCH1367__Endothelial cells","NCH1367","Endothelial cells",422
+"NCH1367__Astrocytes","NCH1367","Astrocytes",97
+"NCH1367__Stromal cells","NCH1367","Stromal cells",156
+"NCH1098__Tumor cells","NCH1098","Tumor cells",3111
+"NCH1098__Tumor cells (prol.)","NCH1098","Tumor cells (prol.)",1457
+"NCH1098__Stromal cells","NCH1098","Stromal cells",43
+"NCH1098__Endothelial cells","NCH1098","Endothelial cells",89
+"NCH1098__Pericytes","NCH1098","Pericytes",62
+"NCH1098__Astrocytes","NCH1098","Astrocytes",31
+"NCH5475__Tumor cells","NCH5475","Tumor cells",799
+"NCH5475__Tumor cells (prol.)","NCH5475","Tumor cells (prol.)",48
+"NCH5475__Astrocytes","NCH5475","Astrocytes",13
+"NCH5475__Pericytes","NCH5475","Pericytes",2
+"NCH5475__Stromal cells","NCH5475","Stromal cells",1
+"NCH5475__Endothelial cells","NCH5475","Endothelial cells",10
+"NCH5597__Tumor cells (prol.)","NCH5597","Tumor cells (prol.)",59
+"NCH5597__Tumor cells","NCH5597","Tumor cells",102
+"NCH5597__Stromal cells","NCH5597","Stromal cells",29
+"NCH5597__Pericytes","NCH5597","Pericytes",23
+"NCH5597__Endothelial cells","NCH5597","Endothelial cells",16
+"NCH5597__Astrocytes","NCH5597","Astrocytes",5
+"NCH5474__Tumor cells","NCH5474","Tumor cells",2785
+"NCH5474__Tumor cells (prol.)","NCH5474","Tumor cells (prol.)",192
+"NCH5474__Endothelial cells","NCH5474","Endothelial cells",25
+"NCH5474__Pericytes","NCH5474","Pericytes",8
+"NCH5474__Astrocytes","NCH5474","Astrocytes",20
+"NCH5474__Stromal cells","NCH5474","Stromal cells",12
+"NCH6248__Stromal cells","NCH6248","Stromal cells",31
+"NCH6248__Tumor cells","NCH6248","Tumor cells",346
+"NCH6248__Tumor cells (prol.)","NCH6248","Tumor cells (prol.)",44
+"NCH6248__Pericytes","NCH6248","Pericytes",14
+"NCH6248__Astrocytes","NCH6248","Astrocytes",11
+"NCH6248__Endothelial cells","NCH6248","Endothelial cells",16
+"NCH767__Pericytes","NCH767","Pericytes",34
+"NCH767__Tumor cells","NCH767","Tumor cells",233
+"NCH767__Endothelial cells","NCH767","Endothelial cells",30
+"NCH767__Tumor cells (prol.)","NCH767","Tumor cells (prol.)",47
+"NCH767__Stromal cells","NCH767","Stromal cells",21
+"NCH767__Astrocytes","NCH767","Astrocytes",10
+"NCH576b__Tumor cells (prol.)","NCH576b","Tumor cells (prol.)",122
+"NCH576b__Tumor cells","NCH576b","Tumor cells",953
+"NCH576b__Pericytes","NCH576b","Pericytes",77
+"NCH576b__Stromal cells","NCH576b","Stromal cells",116
+"NCH576b__Endothelial cells","NCH576b","Endothelial cells",39
+"NCH576b__Astrocytes","NCH576b","Astrocytes",1
+"NCH4033__Tumor cells","NCH4033","Tumor cells",1035
+"NCH4033__Astrocytes","NCH4033","Astrocytes",18
+"NCH4033__Tumor cells (prol.)","NCH4033","Tumor cells (prol.)",90
+"NCH4033__Stromal cells","NCH4033","Stromal cells",46
+"NCH4033__Endothelial cells","NCH4033","Endothelial cells",31
+"NCH4033__Pericytes","NCH4033","Pericytes",20
+"NCH7592__Tumor cells","NCH7592","Tumor cells",998
+"NCH7592__Endothelial cells","NCH7592","Endothelial cells",35
+"NCH7592__Tumor cells (prol.)","NCH7592","Tumor cells (prol.)",24
+"NCH7592__Stromal cells","NCH7592","Stromal cells",5
+"NCH7592__Astrocytes","NCH7592","Astrocytes",36
+"NCH7592__Pericytes","NCH7592","Pericytes",5
+"NCH998__Tumor cells","NCH998","Tumor cells",773
+"NCH998__Pericytes","NCH998","Pericytes",84
+"NCH998__Endothelial cells","NCH998","Endothelial cells",95
+"NCH998__Tumor cells (prol.)","NCH998","Tumor cells (prol.)",79
+"NCH998__Stromal cells","NCH998","Stromal cells",106
+"NCH998__Astrocytes","NCH998","Astrocytes",56
+"NCH7611__Tumor cells","NCH7611","Tumor cells",155
+"NCH7611__Pericytes","NCH7611","Pericytes",67
+"NCH7611__Endothelial cells","NCH7611","Endothelial cells",66
+"NCH7611__Tumor cells (prol.)","NCH7611","Tumor cells (prol.)",87
+"NCH7611__Stromal cells","NCH7611","Stromal cells",48
+"NCH7611__Astrocytes","NCH7611","Astrocytes",9
+"NCH6115__Stromal cells","NCH6115","Stromal cells",9
+"NCH6115__Tumor cells","NCH6115","Tumor cells",86
+"NCH6115__Tumor cells (prol.)","NCH6115","Tumor cells (prol.)",23
+"NCH6115__Pericytes","NCH6115","Pericytes",4
+"NCH6115__Endothelial cells","NCH6115","Endothelial cells",1
+"NCH747q__Pericytes","NCH747q","Pericytes",27
+"NCH747q__Tumor cells","NCH747q","Tumor cells",700
+"NCH747q__Endothelial cells","NCH747q","Endothelial cells",53
+"NCH747q__Tumor cells (prol.)","NCH747q","Tumor cells (prol.)",133
+"NCH747q__Stromal cells","NCH747q","Stromal cells",57
+"NCH747q__Astrocytes","NCH747q","Astrocytes",8
+"NCH1638__Tumor cells","NCH1638","Tumor cells",288
+"NCH1638__Tumor cells (prol.)","NCH1638","Tumor cells (prol.)",240
+"NCH1638__Pericytes","NCH1638","Pericytes",17
+"NCH1638__Endothelial cells","NCH1638","Endothelial cells",15
+"NCH1638__Stromal cells","NCH1638","Stromal cells",19
+"NCH1638__Astrocytes","NCH1638","Astrocytes",1
+"NCH5557__Tumor cells","NCH5557","Tumor cells",486
+"NCH5557__Endothelial cells","NCH5557","Endothelial cells",79
+"NCH5557__Tumor cells (prol.)","NCH5557","Tumor cells (prol.)",35
+"NCH5557__Stromal cells","NCH5557","Stromal cells",62
+"NCH5557__Pericytes","NCH5557","Pericytes",22
+"NCH5557__Astrocytes","NCH5557","Astrocytes",1
+"NCH6077__Tumor cells","NCH6077","Tumor cells",278
+"NCH6077__Tumor cells (prol.)","NCH6077","Tumor cells (prol.)",118
+"NCH6077__Pericytes","NCH6077","Pericytes",37
+"NCH6077__Endothelial cells","NCH6077","Endothelial cells",7
+"NCH6077__Astrocytes","NCH6077","Astrocytes",6
+"NCH6077__Stromal cells","NCH6077","Stromal cells",9
+"NCH5616__Tumor cells","NCH5616","Tumor cells",90
+"NCH5616__Stromal cells","NCH5616","Stromal cells",21
+"NCH5616__Pericytes","NCH5616","Pericytes",2
+"NCH5616__Astrocytes","NCH5616","Astrocytes",19
+"NCH5616__Tumor cells (prol.)","NCH5616","Tumor cells (prol.)",24
+"NCH5616__Endothelial cells","NCH5616","Endothelial cells",9

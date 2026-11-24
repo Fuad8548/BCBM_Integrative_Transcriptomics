@@ -1,0 +1,19 @@
+"cell_type","signature","genes_available","genes_in_signature","genes_missing"
+"Astrocytes","Broad_ECM",13,13,0
+"Astrocytes","Core_stromal_ECM",7,7,0
+"Astrocytes","Vascular_ECM",3,3,0
+"Endothelial cells","Broad_ECM",13,13,0
+"Endothelial cells","Core_stromal_ECM",7,7,0
+"Endothelial cells","Vascular_ECM",3,3,0
+"Pericytes","Broad_ECM",13,13,0
+"Pericytes","Core_stromal_ECM",7,7,0
+"Pericytes","Vascular_ECM",3,3,0
+"Stromal cells","Broad_ECM",13,13,0
+"Stromal cells","Core_stromal_ECM",7,7,0
+"Stromal cells","Vascular_ECM",3,3,0
+"Tumor cells","Broad_ECM",13,13,0
+"Tumor cells","Core_stromal_ECM",7,7,0
+"Tumor cells","Vascular_ECM",3,3,0
+"Tumor cells (prol.)","Broad_ECM",13,13,0
+"Tumor cells (prol.)","Core_stromal_ECM",7,7,0
+"Tumor cells (prol.)","Vascular_ECM",3,3,0

@@ -1,0 +1,2055 @@
+"gene","group","logCPM","sample","cell_type","n_nuclei"
+"CTSK","NCH724Y__Tumor cells",2.93159731819268,"NCH724Y","Tumor cells",1448
+"DPT","NCH724Y__Tumor cells",-0.333698074974244,"NCH724Y","Tumor cells",1448
+"COL6A3","NCH724Y__Tumor cells",4.39483981403797,"NCH724Y","Tumor cells",1448
+"THBS4","NCH724Y__Tumor cells",0.931739775637897,"NCH724Y","Tumor cells",1448
+"THBS2","NCH724Y__Tumor cells",1.78995850888379,"NCH724Y","Tumor cells",1448
+"AEBP1","NCH724Y__Tumor cells",3.13053409858863,"NCH724Y","Tumor cells",1448
+"SULF1","NCH724Y__Tumor cells",3.97277420040302,"NCH724Y","Tumor cells",1448
+"COL14A1","NCH724Y__Tumor cells",3.85504140872325,"NCH724Y","Tumor cells",1448
+"COL15A1","NCH724Y__Tumor cells",3.85275639091944,"NCH724Y","Tumor cells",1448
+"CXCL12","NCH724Y__Tumor cells",1.12313393101361,"NCH724Y","Tumor cells",1448
+"LUM","NCH724Y__Tumor cells",0.227178013512128,"NCH724Y","Tumor cells",1448
+"POSTN","NCH724Y__Tumor cells",2.22475025938553,"NCH724Y","Tumor cells",1448
+"MMP2","NCH724Y__Tumor cells",-0.467130226112518,"NCH724Y","Tumor cells",1448
+"CTSK","NCH724Y__Endothelial cells",0.467606892663503,"NCH724Y","Endothelial cells",211
+"DPT","NCH724Y__Endothelial cells",-1,"NCH724Y","Endothelial cells",211
+"COL6A3","NCH724Y__Endothelial cells",0.18828155757514,"NCH724Y","Endothelial cells",211
+"THBS4","NCH724Y__Endothelial cells",0.798482824111292,"NCH724Y","Endothelial cells",211
+"THBS2","NCH724Y__Endothelial cells",0.782743903338058,"NCH724Y","Endothelial cells",211
+"AEBP1","NCH724Y__Endothelial cells",4.87796226958492,"NCH724Y","Endothelial cells",211
+"SULF1","NCH724Y__Endothelial cells",4.30156965541697,"NCH724Y","Endothelial cells",211
+"COL14A1","NCH724Y__Endothelial cells",0.994684220440269,"NCH724Y","Endothelial cells",211
+"COL15A1","NCH724Y__Endothelial cells",7.54083980657939,"NCH724Y","Endothelial cells",211
+"CXCL12","NCH724Y__Endothelial cells",5.63452820577122,"NCH724Y","Endothelial cells",211
+"LUM","NCH724Y__Endothelial cells",0.711638088275873,"NCH724Y","Endothelial cells",211
+"POSTN","NCH724Y__Endothelial cells",7.13282828461041,"NCH724Y","Endothelial cells",211
+"MMP2","NCH724Y__Endothelial cells",3.93728050783042,"NCH724Y","Endothelial cells",211
+"CTSK","NCH724Y__Pericytes",4.15544286036032,"NCH724Y","Pericytes",127
+"DPT","NCH724Y__Pericytes",-1,"NCH724Y","Pericytes",127
+"COL6A3","NCH724Y__Pericytes",8.21662705862936,"NCH724Y","Pericytes",127
+"THBS4","NCH724Y__Pericytes",1.32992136628519,"NCH724Y","Pericytes",127
+"THBS2","NCH724Y__Pericytes",2.40401149225895,"NCH724Y","Pericytes",127
+"AEBP1","NCH724Y__Pericytes",6.35992236683152,"NCH724Y","Pericytes",127
+"SULF1","NCH724Y__Pericytes",6.79956851639277,"NCH724Y","Pericytes",127
+"COL14A1","NCH724Y__Pericytes",4.04561172153536,"NCH724Y","Pericytes",127
+"COL15A1","NCH724Y__Pericytes",6.07215194260666,"NCH724Y","Pericytes",127
+"CXCL12","NCH724Y__Pericytes",3.25659162060304,"NCH724Y","Pericytes",127
+"LUM","NCH724Y__Pericytes",3.24459098659953,"NCH724Y","Pericytes",127
+"POSTN","NCH724Y__Pericytes",2.47126673359195,"NCH724Y","Pericytes",127
+"MMP2","NCH724Y__Pericytes",0.0419275409230515,"NCH724Y","Pericytes",127
+"CTSK","NCH724Y__Stromal cells",4.95681614437808,"NCH724Y","Stromal cells",179
+"DPT","NCH724Y__Stromal cells",3.09334132876302,"NCH724Y","Stromal cells",179
+"COL6A3","NCH724Y__Stromal cells",11.8240263088578,"NCH724Y","Stromal cells",179
+"THBS4","NCH724Y__Stromal cells",3.33970403050134,"NCH724Y","Stromal cells",179
+"THBS2","NCH724Y__Stromal cells",9.4763078604068,"NCH724Y","Stromal cells",179
+"AEBP1","NCH724Y__Stromal cells",7.87828072226257,"NCH724Y","Stromal cells",179
+"SULF1","NCH724Y__Stromal cells",9.55370136735825,"NCH724Y","Stromal cells",179
+"COL14A1","NCH724Y__Stromal cells",6.7625263628845,"NCH724Y","Stromal cells",179
+"COL15A1","NCH724Y__Stromal cells",7.05833503322226,"NCH724Y","Stromal cells",179
+"CXCL12","NCH724Y__Stromal cells",7.24528770161942,"NCH724Y","Stromal cells",179
+"LUM","NCH724Y__Stromal cells",6.58818945001064,"NCH724Y","Stromal cells",179
+"POSTN","NCH724Y__Stromal cells",10.2350631344241,"NCH724Y","Stromal cells",179
+"MMP2","NCH724Y__Stromal cells",6.35486933115055,"NCH724Y","Stromal cells",179
+"CTSK","NCH724Y__Tumor cells (prol.)",2.06574858200402,"NCH724Y","Tumor cells (prol.)",535
+"DPT","NCH724Y__Tumor cells (prol.)",0.0643023663357185,"NCH724Y","Tumor cells (prol.)",535
+"COL6A3","NCH724Y__Tumor cells (prol.)",3.17632772096259,"NCH724Y","Tumor cells (prol.)",535
+"THBS4","NCH724Y__Tumor cells (prol.)",1.03868012910284,"NCH724Y","Tumor cells (prol.)",535
+"THBS2","NCH724Y__Tumor cells (prol.)",-0.0911894666589575,"NCH724Y","Tumor cells (prol.)",535
+"AEBP1","NCH724Y__Tumor cells (prol.)",1.38831806070912,"NCH724Y","Tumor cells (prol.)",535
+"SULF1","NCH724Y__Tumor cells (prol.)",3.39497620877395,"NCH724Y","Tumor cells (prol.)",535
+"COL14A1","NCH724Y__Tumor cells (prol.)",4.5520309181091,"NCH724Y","Tumor cells (prol.)",535
+"COL15A1","NCH724Y__Tumor cells (prol.)",1.03148813578072,"NCH724Y","Tumor cells (prol.)",535
+"CXCL12","NCH724Y__Tumor cells (prol.)",-1,"NCH724Y","Tumor cells (prol.)",535
+"LUM","NCH724Y__Tumor cells (prol.)",-1,"NCH724Y","Tumor cells (prol.)",535
+"POSTN","NCH724Y__Tumor cells (prol.)",-0.654287673026967,"NCH724Y","Tumor cells (prol.)",535
+"MMP2","NCH724Y__Tumor cells (prol.)",-1,"NCH724Y","Tumor cells (prol.)",535
+"CTSK","NCH724Y__Astrocytes",3.72567239435584,"NCH724Y","Astrocytes",61
+"DPT","NCH724Y__Astrocytes",-1,"NCH724Y","Astrocytes",61
+"COL6A3","NCH724Y__Astrocytes",5.37416101648805,"NCH724Y","Astrocytes",61
+"THBS4","NCH724Y__Astrocytes",6.38695413397017,"NCH724Y","Astrocytes",61
+"THBS2","NCH724Y__Astrocytes",4.31214584944826,"NCH724Y","Astrocytes",61
+"AEBP1","NCH724Y__Astrocytes",6.78743242471028,"NCH724Y","Astrocytes",61
+"SULF1","NCH724Y__Astrocytes",5.87328298711152,"NCH724Y","Astrocytes",61
+"COL14A1","NCH724Y__Astrocytes",5.89525601312398,"NCH724Y","Astrocytes",61
+"COL15A1","NCH724Y__Astrocytes",3.23740930237985,"NCH724Y","Astrocytes",61
+"CXCL12","NCH724Y__Astrocytes",2.62545299685523,"NCH724Y","Astrocytes",61
+"LUM","NCH724Y__Astrocytes",-0.811805111056762,"NCH724Y","Astrocytes",61
+"POSTN","NCH724Y__Astrocytes",-1,"NCH724Y","Astrocytes",61
+"MMP2","NCH724Y__Astrocytes",1.02725597968997,"NCH724Y","Astrocytes",61
+"CTSK","NCH631b__Tumor cells",1.38042017804329,"NCH631b","Tumor cells",4330
+"DPT","NCH631b__Tumor cells",-0.352461861993036,"NCH631b","Tumor cells",4330
+"COL6A3","NCH631b__Tumor cells",-1,"NCH631b","Tumor cells",4330
+"THBS4","NCH631b__Tumor cells",3.55315730097519,"NCH631b","Tumor cells",4330
+"THBS2","NCH631b__Tumor cells",0.534502215411626,"NCH631b","Tumor cells",4330
+"AEBP1","NCH631b__Tumor cells",-0.418366297155935,"NCH631b","Tumor cells",4330
+"SULF1","NCH631b__Tumor cells",-1,"NCH631b","Tumor cells",4330
+"COL14A1","NCH631b__Tumor cells",-0.803546522340895,"NCH631b","Tumor cells",4330
+"COL15A1","NCH631b__Tumor cells",-0.955808075603568,"NCH631b","Tumor cells",4330
+"CXCL12","NCH631b__Tumor cells",-1,"NCH631b","Tumor cells",4330
+"LUM","NCH631b__Tumor cells",-0.415791067911536,"NCH631b","Tumor cells",4330
+"POSTN","NCH631b__Tumor cells",-1,"NCH631b","Tumor cells",4330
+"MMP2","NCH631b__Tumor cells",3.87892747293378,"NCH631b","Tumor cells",4330
+"CTSK","NCH631b__Tumor cells (prol.)",-0.409138550563799,"NCH631b","Tumor cells (prol.)",172
+"DPT","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"COL6A3","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"THBS4","NCH631b__Tumor cells (prol.)",2.55928895701002,"NCH631b","Tumor cells (prol.)",172
+"THBS2","NCH631b__Tumor cells (prol.)",-0.479709497768645,"NCH631b","Tumor cells (prol.)",172
+"AEBP1","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"SULF1","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"COL14A1","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"COL15A1","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"CXCL12","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"LUM","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"POSTN","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"MMP2","NCH631b__Tumor cells (prol.)",-1,"NCH631b","Tumor cells (prol.)",172
+"CTSK","NCH631b__Stromal cells",6.95960948111556,"NCH631b","Stromal cells",92
+"DPT","NCH631b__Stromal cells",4.78167096525425,"NCH631b","Stromal cells",92
+"COL6A3","NCH631b__Stromal cells",12.2493713574552,"NCH631b","Stromal cells",92
+"THBS4","NCH631b__Stromal cells",2.83618628319193,"NCH631b","Stromal cells",92
+"THBS2","NCH631b__Stromal cells",11.391579830321,"NCH631b","Stromal cells",92
+"AEBP1","NCH631b__Stromal cells",10.4192933947897,"NCH631b","Stromal cells",92
+"SULF1","NCH631b__Stromal cells",11.3797666443032,"NCH631b","Stromal cells",92
+"COL14A1","NCH631b__Stromal cells",7.861373532842,"NCH631b","Stromal cells",92
+"COL15A1","NCH631b__Stromal cells",6.31303000746062,"NCH631b","Stromal cells",92
+"CXCL12","NCH631b__Stromal cells",5.32264244600483,"NCH631b","Stromal cells",92
+"LUM","NCH631b__Stromal cells",10.1009033740553,"NCH631b","Stromal cells",92
+"POSTN","NCH631b__Stromal cells",10.8888066955605,"NCH631b","Stromal cells",92
+"MMP2","NCH631b__Stromal cells",7.68458554370349,"NCH631b","Stromal cells",92
+"CTSK","NCH631b__Endothelial cells",3.60091763525105,"NCH631b","Endothelial cells",86
+"DPT","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"COL6A3","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"THBS4","NCH631b__Endothelial cells",3.09056629738639,"NCH631b","Endothelial cells",86
+"THBS2","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"AEBP1","NCH631b__Endothelial cells",5.22821606573379,"NCH631b","Endothelial cells",86
+"SULF1","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"COL14A1","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"COL15A1","NCH631b__Endothelial cells",8.7256077172588,"NCH631b","Endothelial cells",86
+"CXCL12","NCH631b__Endothelial cells",10.614725111359,"NCH631b","Endothelial cells",86
+"LUM","NCH631b__Endothelial cells",-1,"NCH631b","Endothelial cells",86
+"POSTN","NCH631b__Endothelial cells",8.55622676874042,"NCH631b","Endothelial cells",86
+"MMP2","NCH631b__Endothelial cells",7.07335420353779,"NCH631b","Endothelial cells",86
+"CTSK","NCH631b__Pericytes",5.86067531235172,"NCH631b","Pericytes",75
+"DPT","NCH631b__Pericytes",-1,"NCH631b","Pericytes",75
+"COL6A3","NCH631b__Pericytes",4.05430380262994,"NCH631b","Pericytes",75
+"THBS4","NCH631b__Pericytes",1.57048269120059,"NCH631b","Pericytes",75
+"THBS2","NCH631b__Pericytes",3.94146891704124,"NCH631b","Pericytes",75
+"AEBP1","NCH631b__Pericytes",7.78921038848227,"NCH631b","Pericytes",75
+"SULF1","NCH631b__Pericytes",-1,"NCH631b","Pericytes",75
+"COL14A1","NCH631b__Pericytes",8.68976296136832,"NCH631b","Pericytes",75
+"COL15A1","NCH631b__Pericytes",4.79374939364033,"NCH631b","Pericytes",75
+"CXCL12","NCH631b__Pericytes",-1,"NCH631b","Pericytes",75
+"LUM","NCH631b__Pericytes",4.83698506994865,"NCH631b","Pericytes",75
+"POSTN","NCH631b__Pericytes",-1,"NCH631b","Pericytes",75
+"MMP2","NCH631b__Pericytes",-1,"NCH631b","Pericytes",75
+"CTSK","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"DPT","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"COL6A3","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"THBS4","NCH631b__Astrocytes",7.83590413915562,"NCH631b","Astrocytes",35
+"THBS2","NCH631b__Astrocytes",4.78863439557941,"NCH631b","Astrocytes",35
+"AEBP1","NCH631b__Astrocytes",7.15550000110361,"NCH631b","Astrocytes",35
+"SULF1","NCH631b__Astrocytes",8.55788368253956,"NCH631b","Astrocytes",35
+"COL14A1","NCH631b__Astrocytes",6.48180214838932,"NCH631b","Astrocytes",35
+"COL15A1","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"CXCL12","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"LUM","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"POSTN","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"MMP2","NCH631b__Astrocytes",-1,"NCH631b","Astrocytes",35
+"CTSK","NCH698g__Tumor cells",3.19483457059757,"NCH698g","Tumor cells",2789
+"DPT","NCH698g__Tumor cells",-0.479928096878162,"NCH698g","Tumor cells",2789
+"COL6A3","NCH698g__Tumor cells",0.0784331787031211,"NCH698g","Tumor cells",2789
+"THBS4","NCH698g__Tumor cells",-0.899540883237542,"NCH698g","Tumor cells",2789
+"THBS2","NCH698g__Tumor cells",4.60760076067892,"NCH698g","Tumor cells",2789
+"AEBP1","NCH698g__Tumor cells",-0.354129129383001,"NCH698g","Tumor cells",2789
+"SULF1","NCH698g__Tumor cells",-0.274839873944566,"NCH698g","Tumor cells",2789
+"COL14A1","NCH698g__Tumor cells",-0.155667248690732,"NCH698g","Tumor cells",2789
+"COL15A1","NCH698g__Tumor cells",3.22919800608613,"NCH698g","Tumor cells",2789
+"CXCL12","NCH698g__Tumor cells",-0.93928037309192,"NCH698g","Tumor cells",2789
+"LUM","NCH698g__Tumor cells",-1,"NCH698g","Tumor cells",2789
+"POSTN","NCH698g__Tumor cells",-1,"NCH698g","Tumor cells",2789
+"MMP2","NCH698g__Tumor cells",-1,"NCH698g","Tumor cells",2789
+"CTSK","NCH698g__Pericytes",5.09986811621462,"NCH698g","Pericytes",162
+"DPT","NCH698g__Pericytes",-1,"NCH698g","Pericytes",162
+"COL6A3","NCH698g__Pericytes",9.82215819717172,"NCH698g","Pericytes",162
+"THBS4","NCH698g__Pericytes",2.69534425260474,"NCH698g","Pericytes",162
+"THBS2","NCH698g__Pericytes",6.05369497646817,"NCH698g","Pericytes",162
+"AEBP1","NCH698g__Pericytes",7.19739859244233,"NCH698g","Pericytes",162
+"SULF1","NCH698g__Pericytes",7.86199985734008,"NCH698g","Pericytes",162
+"COL14A1","NCH698g__Pericytes",9.09678791902945,"NCH698g","Pericytes",162
+"COL15A1","NCH698g__Pericytes",5.38260599480696,"NCH698g","Pericytes",162
+"CXCL12","NCH698g__Pericytes",1.73171444228024,"NCH698g","Pericytes",162
+"LUM","NCH698g__Pericytes",4.90002674462698,"NCH698g","Pericytes",162
+"POSTN","NCH698g__Pericytes",-1,"NCH698g","Pericytes",162
+"MMP2","NCH698g__Pericytes",0.548794664175616,"NCH698g","Pericytes",162
+"CTSK","NCH698g__Endothelial cells",3.00699949388192,"NCH698g","Endothelial cells",134
+"DPT","NCH698g__Endothelial cells",-1,"NCH698g","Endothelial cells",134
+"COL6A3","NCH698g__Endothelial cells",4.01203165952618,"NCH698g","Endothelial cells",134
+"THBS4","NCH698g__Endothelial cells",-1,"NCH698g","Endothelial cells",134
+"THBS2","NCH698g__Endothelial cells",-1,"NCH698g","Endothelial cells",134
+"AEBP1","NCH698g__Endothelial cells",3.51255095421378,"NCH698g","Endothelial cells",134
+"SULF1","NCH698g__Endothelial cells",7.15921183505625,"NCH698g","Endothelial cells",134
+"COL14A1","NCH698g__Endothelial cells",-1,"NCH698g","Endothelial cells",134
+"COL15A1","NCH698g__Endothelial cells",8.95273139321589,"NCH698g","Endothelial cells",134
+"CXCL12","NCH698g__Endothelial cells",8.84464924432756,"NCH698g","Endothelial cells",134
+"LUM","NCH698g__Endothelial cells",-1,"NCH698g","Endothelial cells",134
+"POSTN","NCH698g__Endothelial cells",10.0743913415508,"NCH698g","Endothelial cells",134
+"MMP2","NCH698g__Endothelial cells",6.77770845964867,"NCH698g","Endothelial cells",134
+"CTSK","NCH698g__Stromal cells",5.79375578415726,"NCH698g","Stromal cells",463
+"DPT","NCH698g__Stromal cells",1.98754382061814,"NCH698g","Stromal cells",463
+"COL6A3","NCH698g__Stromal cells",11.8562420585342,"NCH698g","Stromal cells",463
+"THBS4","NCH698g__Stromal cells",2.04489665722306,"NCH698g","Stromal cells",463
+"THBS2","NCH698g__Stromal cells",10.2728102625597,"NCH698g","Stromal cells",463
+"AEBP1","NCH698g__Stromal cells",8.41899219725347,"NCH698g","Stromal cells",463
+"SULF1","NCH698g__Stromal cells",11.7949351830411,"NCH698g","Stromal cells",463
+"COL14A1","NCH698g__Stromal cells",5.44762725510433,"NCH698g","Stromal cells",463
+"COL15A1","NCH698g__Stromal cells",3.81452375157171,"NCH698g","Stromal cells",463
+"CXCL12","NCH698g__Stromal cells",8.18205715402978,"NCH698g","Stromal cells",463
+"LUM","NCH698g__Stromal cells",9.01218178561489,"NCH698g","Stromal cells",463
+"POSTN","NCH698g__Stromal cells",5.45790980145895,"NCH698g","Stromal cells",463
+"MMP2","NCH698g__Stromal cells",7.7905047514516,"NCH698g","Stromal cells",463
+"CTSK","NCH698g__Tumor cells (prol.)",2.87922814771731,"NCH698g","Tumor cells (prol.)",392
+"DPT","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"COL6A3","NCH698g__Tumor cells (prol.)",0.748457107809951,"NCH698g","Tumor cells (prol.)",392
+"THBS4","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"THBS2","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"AEBP1","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"SULF1","NCH698g__Tumor cells (prol.)",1.22436152017332,"NCH698g","Tumor cells (prol.)",392
+"COL14A1","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"COL15A1","NCH698g__Tumor cells (prol.)",4.82083086529779,"NCH698g","Tumor cells (prol.)",392
+"CXCL12","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"LUM","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"POSTN","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"MMP2","NCH698g__Tumor cells (prol.)",-1,"NCH698g","Tumor cells (prol.)",392
+"CTSK","NCH1475__Tumor cells",2.8519482779844,"NCH1475","Tumor cells",739
+"DPT","NCH1475__Tumor cells",-1,"NCH1475","Tumor cells",739
+"COL6A3","NCH1475__Tumor cells",0.884331686659667,"NCH1475","Tumor cells",739
+"THBS4","NCH1475__Tumor cells",3.42908637070479,"NCH1475","Tumor cells",739
+"THBS2","NCH1475__Tumor cells",-0.721765327386861,"NCH1475","Tumor cells",739
+"AEBP1","NCH1475__Tumor cells",2.67628793039343,"NCH1475","Tumor cells",739
+"SULF1","NCH1475__Tumor cells",2.45466341403198,"NCH1475","Tumor cells",739
+"COL14A1","NCH1475__Tumor cells",3.97426350919728,"NCH1475","Tumor cells",739
+"COL15A1","NCH1475__Tumor cells",0.174051985107008,"NCH1475","Tumor cells",739
+"CXCL12","NCH1475__Tumor cells",-0.882131043038445,"NCH1475","Tumor cells",739
+"LUM","NCH1475__Tumor cells",-1,"NCH1475","Tumor cells",739
+"POSTN","NCH1475__Tumor cells",-1,"NCH1475","Tumor cells",739
+"MMP2","NCH1475__Tumor cells",-1,"NCH1475","Tumor cells",739
+"CTSK","NCH1475__Endothelial cells",3.70365761667177,"NCH1475","Endothelial cells",40
+"DPT","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"COL6A3","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"THBS4","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"THBS2","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"AEBP1","NCH1475__Endothelial cells",5.3917399879033,"NCH1475","Endothelial cells",40
+"SULF1","NCH1475__Endothelial cells",5.66356931187157,"NCH1475","Endothelial cells",40
+"COL14A1","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"COL15A1","NCH1475__Endothelial cells",7.871238774588,"NCH1475","Endothelial cells",40
+"CXCL12","NCH1475__Endothelial cells",7.95426172461207,"NCH1475","Endothelial cells",40
+"LUM","NCH1475__Endothelial cells",-1,"NCH1475","Endothelial cells",40
+"POSTN","NCH1475__Endothelial cells",6.92921796539249,"NCH1475","Endothelial cells",40
+"MMP2","NCH1475__Endothelial cells",7.44227401711434,"NCH1475","Endothelial cells",40
+"CTSK","NCH1475__Pericytes",4.26926063861059,"NCH1475","Pericytes",64
+"DPT","NCH1475__Pericytes",-1,"NCH1475","Pericytes",64
+"COL6A3","NCH1475__Pericytes",8.67636280058584,"NCH1475","Pericytes",64
+"THBS4","NCH1475__Pericytes",-1,"NCH1475","Pericytes",64
+"THBS2","NCH1475__Pericytes",4.29200231251866,"NCH1475","Pericytes",64
+"AEBP1","NCH1475__Pericytes",8.0121914339796,"NCH1475","Pericytes",64
+"SULF1","NCH1475__Pericytes",7.70546246722986,"NCH1475","Pericytes",64
+"COL14A1","NCH1475__Pericytes",8.97929320941332,"NCH1475","Pericytes",64
+"COL15A1","NCH1475__Pericytes",4.34143204504037,"NCH1475","Pericytes",64
+"CXCL12","NCH1475__Pericytes",1.40839406498868,"NCH1475","Pericytes",64
+"LUM","NCH1475__Pericytes",4.72855805205923,"NCH1475","Pericytes",64
+"POSTN","NCH1475__Pericytes",5.3077149830236,"NCH1475","Pericytes",64
+"MMP2","NCH1475__Pericytes",1.90938370726847,"NCH1475","Pericytes",64
+"CTSK","NCH1475__Stromal cells",4.61478905325399,"NCH1475","Stromal cells",98
+"DPT","NCH1475__Stromal cells",4.25321299171069,"NCH1475","Stromal cells",98
+"COL6A3","NCH1475__Stromal cells",11.8493107113338,"NCH1475","Stromal cells",98
+"THBS4","NCH1475__Stromal cells",3.92142251820465,"NCH1475","Stromal cells",98
+"THBS2","NCH1475__Stromal cells",10.6131270216261,"NCH1475","Stromal cells",98
+"AEBP1","NCH1475__Stromal cells",9.7657396592197,"NCH1475","Stromal cells",98
+"SULF1","NCH1475__Stromal cells",12.1416373566247,"NCH1475","Stromal cells",98
+"COL14A1","NCH1475__Stromal cells",6.30819376954766,"NCH1475","Stromal cells",98
+"COL15A1","NCH1475__Stromal cells",8.01631979124812,"NCH1475","Stromal cells",98
+"CXCL12","NCH1475__Stromal cells",6.27358734441733,"NCH1475","Stromal cells",98
+"LUM","NCH1475__Stromal cells",7.98736264802627,"NCH1475","Stromal cells",98
+"POSTN","NCH1475__Stromal cells",10.9760963286389,"NCH1475","Stromal cells",98
+"MMP2","NCH1475__Stromal cells",5.17921029744274,"NCH1475","Stromal cells",98
+"CTSK","NCH1475__Tumor cells (prol.)",3.19794581105718,"NCH1475","Tumor cells (prol.)",105
+"DPT","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"COL6A3","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"THBS4","NCH1475__Tumor cells (prol.)",3.79204183919879,"NCH1475","Tumor cells (prol.)",105
+"THBS2","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"AEBP1","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"SULF1","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"COL14A1","NCH1475__Tumor cells (prol.)",2.53011732157485,"NCH1475","Tumor cells (prol.)",105
+"COL15A1","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"CXCL12","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"LUM","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"POSTN","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"MMP2","NCH1475__Tumor cells (prol.)",-1,"NCH1475","Tumor cells (prol.)",105
+"CTSK","NCH7023__Tumor cells",-0.0170117205677956,"NCH7023","Tumor cells",869
+"DPT","NCH7023__Tumor cells",-1,"NCH7023","Tumor cells",869
+"COL6A3","NCH7023__Tumor cells",-0.78228491529128,"NCH7023","Tumor cells",869
+"THBS4","NCH7023__Tumor cells",0.843655252087556,"NCH7023","Tumor cells",869
+"THBS2","NCH7023__Tumor cells",-0.830837639272813,"NCH7023","Tumor cells",869
+"AEBP1","NCH7023__Tumor cells",0.00990216203146059,"NCH7023","Tumor cells",869
+"SULF1","NCH7023__Tumor cells",-1,"NCH7023","Tumor cells",869
+"COL14A1","NCH7023__Tumor cells",-0.714404659772014,"NCH7023","Tumor cells",869
+"COL15A1","NCH7023__Tumor cells",-0.624368429950946,"NCH7023","Tumor cells",869
+"CXCL12","NCH7023__Tumor cells",-1,"NCH7023","Tumor cells",869
+"LUM","NCH7023__Tumor cells",-1,"NCH7023","Tumor cells",869
+"POSTN","NCH7023__Tumor cells",-1,"NCH7023","Tumor cells",869
+"MMP2","NCH7023__Tumor cells",-0.422652155485876,"NCH7023","Tumor cells",869
+"CTSK","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"DPT","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"COL6A3","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"THBS4","NCH7023__Tumor cells (prol.)",0.811942590503942,"NCH7023","Tumor cells (prol.)",657
+"THBS2","NCH7023__Tumor cells (prol.)",0.0859169984728173,"NCH7023","Tumor cells (prol.)",657
+"AEBP1","NCH7023__Tumor cells (prol.)",-0.60359490788604,"NCH7023","Tumor cells (prol.)",657
+"SULF1","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"COL14A1","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"COL15A1","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"CXCL12","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"LUM","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"POSTN","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"MMP2","NCH7023__Tumor cells (prol.)",-1,"NCH7023","Tumor cells (prol.)",657
+"CTSK","NCH7023__Stromal cells",-1,"NCH7023","Stromal cells",10
+"DPT","NCH7023__Stromal cells",-1,"NCH7023","Stromal cells",10
+"COL6A3","NCH7023__Stromal cells",11.0063078663751,"NCH7023","Stromal cells",10
+"THBS4","NCH7023__Stromal cells",3.28793615506146,"NCH7023","Stromal cells",10
+"THBS2","NCH7023__Stromal cells",8.71643391237954,"NCH7023","Stromal cells",10
+"AEBP1","NCH7023__Stromal cells",8.98081602648622,"NCH7023","Stromal cells",10
+"SULF1","NCH7023__Stromal cells",11.6377652831907,"NCH7023","Stromal cells",10
+"COL14A1","NCH7023__Stromal cells",7.04475758227815,"NCH7023","Stromal cells",10
+"COL15A1","NCH7023__Stromal cells",6.07892340878436,"NCH7023","Stromal cells",10
+"CXCL12","NCH7023__Stromal cells",8.28038790594016,"NCH7023","Stromal cells",10
+"LUM","NCH7023__Stromal cells",8.62249580558962,"NCH7023","Stromal cells",10
+"POSTN","NCH7023__Stromal cells",5.54092763768822,"NCH7023","Stromal cells",10
+"MMP2","NCH7023__Stromal cells",6.18486239818776,"NCH7023","Stromal cells",10
+"CTSK","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"DPT","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"COL6A3","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"THBS4","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"THBS2","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"AEBP1","NCH7023__Endothelial cells",5.36369467271254,"NCH7023","Endothelial cells",10
+"SULF1","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"COL14A1","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"COL15A1","NCH7023__Endothelial cells",7.91957307526855,"NCH7023","Endothelial cells",10
+"CXCL12","NCH7023__Endothelial cells",6.10325713610006,"NCH7023","Endothelial cells",10
+"LUM","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"POSTN","NCH7023__Endothelial cells",-1,"NCH7023","Endothelial cells",10
+"MMP2","NCH7023__Endothelial cells",6.25831046108887,"NCH7023","Endothelial cells",10
+"CTSK","NCH7023__Pericytes",3.26159376053229,"NCH7023","Pericytes",11
+"DPT","NCH7023__Pericytes",-1,"NCH7023","Pericytes",11
+"COL6A3","NCH7023__Pericytes",8.32348097359901,"NCH7023","Pericytes",11
+"THBS4","NCH7023__Pericytes",4.45457186613382,"NCH7023","Pericytes",11
+"THBS2","NCH7023__Pericytes",5.54969044946339,"NCH7023","Pericytes",11
+"AEBP1","NCH7023__Pericytes",7.92421790838516,"NCH7023","Pericytes",11
+"SULF1","NCH7023__Pericytes",5.38948444765268,"NCH7023","Pericytes",11
+"COL14A1","NCH7023__Pericytes",7.09056393602642,"NCH7023","Pericytes",11
+"COL15A1","NCH7023__Pericytes",7.2274553965332,"NCH7023","Pericytes",11
+"CXCL12","NCH7023__Pericytes",5.75181341219974,"NCH7023","Pericytes",11
+"LUM","NCH7023__Pericytes",4.57936035688661,"NCH7023","Pericytes",11
+"POSTN","NCH7023__Pericytes",-0.29933153468896,"NCH7023","Pericytes",11
+"MMP2","NCH7023__Pericytes",3.43544626070789,"NCH7023","Pericytes",11
+"CTSK","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"DPT","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"COL6A3","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"THBS4","NCH7023__Astrocytes",7.59095885452084,"NCH7023","Astrocytes",3
+"THBS2","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"AEBP1","NCH7023__Astrocytes",4.85777351795229,"NCH7023","Astrocytes",3
+"SULF1","NCH7023__Astrocytes",3.82324648867399,"NCH7023","Astrocytes",3
+"COL14A1","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"COL15A1","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"CXCL12","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"LUM","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"POSTN","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"MMP2","NCH7023__Astrocytes",-1,"NCH7023","Astrocytes",3
+"CTSK","NCH4160__Pericytes",6.3083856226694,"NCH4160","Pericytes",48
+"DPT","NCH4160__Pericytes",-1,"NCH4160","Pericytes",48
+"COL6A3","NCH4160__Pericytes",10.578950216264,"NCH4160","Pericytes",48
+"THBS4","NCH4160__Pericytes",-1,"NCH4160","Pericytes",48
+"THBS2","NCH4160__Pericytes",9.05549875938369,"NCH4160","Pericytes",48
+"AEBP1","NCH4160__Pericytes",9.04358684269508,"NCH4160","Pericytes",48
+"SULF1","NCH4160__Pericytes",11.9157862412185,"NCH4160","Pericytes",48
+"COL14A1","NCH4160__Pericytes",6.91667261651093,"NCH4160","Pericytes",48
+"COL15A1","NCH4160__Pericytes",6.62849219153233,"NCH4160","Pericytes",48
+"CXCL12","NCH4160__Pericytes",3.20949771951323,"NCH4160","Pericytes",48
+"LUM","NCH4160__Pericytes",7.01755110851434,"NCH4160","Pericytes",48
+"POSTN","NCH4160__Pericytes",10.6236426303947,"NCH4160","Pericytes",48
+"MMP2","NCH4160__Pericytes",5.94841374027881,"NCH4160","Pericytes",48
+"CTSK","NCH4160__Stromal cells",7.45919290952155,"NCH4160","Stromal cells",281
+"DPT","NCH4160__Stromal cells",0.681305729701745,"NCH4160","Stromal cells",281
+"COL6A3","NCH4160__Stromal cells",11.6011000290517,"NCH4160","Stromal cells",281
+"THBS4","NCH4160__Stromal cells",3.13371613259038,"NCH4160","Stromal cells",281
+"THBS2","NCH4160__Stromal cells",10.8251582723945,"NCH4160","Stromal cells",281
+"AEBP1","NCH4160__Stromal cells",10.4176928035103,"NCH4160","Stromal cells",281
+"SULF1","NCH4160__Stromal cells",11.1119173637575,"NCH4160","Stromal cells",281
+"COL14A1","NCH4160__Stromal cells",7.14730239837775,"NCH4160","Stromal cells",281
+"COL15A1","NCH4160__Stromal cells",4.42413057347012,"NCH4160","Stromal cells",281
+"CXCL12","NCH4160__Stromal cells",3.65986691066232,"NCH4160","Stromal cells",281
+"LUM","NCH4160__Stromal cells",9.31075933393469,"NCH4160","Stromal cells",281
+"POSTN","NCH4160__Stromal cells",12.1050839194427,"NCH4160","Stromal cells",281
+"MMP2","NCH4160__Stromal cells",8.49183141038508,"NCH4160","Stromal cells",281
+"CTSK","NCH4160__Tumor cells",1.43780594074054,"NCH4160","Tumor cells",115
+"DPT","NCH4160__Tumor cells",-1,"NCH4160","Tumor cells",115
+"COL6A3","NCH4160__Tumor cells",4.86879104537468,"NCH4160","Tumor cells",115
+"THBS4","NCH4160__Tumor cells",1.93116423282667,"NCH4160","Tumor cells",115
+"THBS2","NCH4160__Tumor cells",2.12627897775807,"NCH4160","Tumor cells",115
+"AEBP1","NCH4160__Tumor cells",1.43780594074054,"NCH4160","Tumor cells",115
+"SULF1","NCH4160__Tumor cells",6.3323382691063,"NCH4160","Tumor cells",115
+"COL14A1","NCH4160__Tumor cells",0.682162240124535,"NCH4160","Tumor cells",115
+"COL15A1","NCH4160__Tumor cells",-1,"NCH4160","Tumor cells",115
+"CXCL12","NCH4160__Tumor cells",0.682162240124535,"NCH4160","Tumor cells",115
+"LUM","NCH4160__Tumor cells",1.43780594074054,"NCH4160","Tumor cells",115
+"POSTN","NCH4160__Tumor cells",3.66106210381152,"NCH4160","Tumor cells",115
+"MMP2","NCH4160__Tumor cells",0.0735068249701535,"NCH4160","Tumor cells",115
+"CTSK","NCH4160__Tumor cells (prol.)",2.07381211572801,"NCH4160","Tumor cells (prol.)",19
+"DPT","NCH4160__Tumor cells (prol.)",-1,"NCH4160","Tumor cells (prol.)",19
+"COL6A3","NCH4160__Tumor cells (prol.)",6.65348084334507,"NCH4160","Tumor cells (prol.)",19
+"THBS4","NCH4160__Tumor cells (prol.)",2.07381211572801,"NCH4160","Tumor cells (prol.)",19
+"THBS2","NCH4160__Tumor cells (prol.)",5.94754014092029,"NCH4160","Tumor cells (prol.)",19
+"AEBP1","NCH4160__Tumor cells (prol.)",3.53977037614786,"NCH4160","Tumor cells (prol.)",19
+"SULF1","NCH4160__Tumor cells (prol.)",3.28908796202347,"NCH4160","Tumor cells (prol.)",19
+"COL14A1","NCH4160__Tumor cells (prol.)",2.98549180026724,"NCH4160","Tumor cells (prol.)",19
+"COL15A1","NCH4160__Tumor cells (prol.)",1.23571980401368,"NCH4160","Tumor cells (prol.)",19
+"CXCL12","NCH4160__Tumor cells (prol.)",1.23571980401368,"NCH4160","Tumor cells (prol.)",19
+"LUM","NCH4160__Tumor cells (prol.)",2.98549180026724,"NCH4160","Tumor cells (prol.)",19
+"POSTN","NCH4160__Tumor cells (prol.)",5.94754014092029,"NCH4160","Tumor cells (prol.)",19
+"MMP2","NCH4160__Tumor cells (prol.)",2.98549180026724,"NCH4160","Tumor cells (prol.)",19
+"CTSK","NCH4160__Endothelial cells",8.0785922434378,"NCH4160","Endothelial cells",4
+"DPT","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"COL6A3","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"THBS4","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"THBS2","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"AEBP1","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"SULF1","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"COL14A1","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"COL15A1","NCH4160__Endothelial cells",8.0785922434378,"NCH4160","Endothelial cells",4
+"CXCL12","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"LUM","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"POSTN","NCH4160__Endothelial cells",-1,"NCH4160","Endothelial cells",4
+"MMP2","NCH4160__Endothelial cells",8.0785922434378,"NCH4160","Endothelial cells",4
+"CTSK","NCH4464__Tumor cells (prol.)",2.71896608483305,"NCH4464","Tumor cells (prol.)",346
+"DPT","NCH4464__Tumor cells (prol.)",-1,"NCH4464","Tumor cells (prol.)",346
+"COL6A3","NCH4464__Tumor cells (prol.)",5.0421208528128,"NCH4464","Tumor cells (prol.)",346
+"THBS4","NCH4464__Tumor cells (prol.)",3.41142804959548,"NCH4464","Tumor cells (prol.)",346
+"THBS2","NCH4464__Tumor cells (prol.)",7.27265966225105,"NCH4464","Tumor cells (prol.)",346
+"AEBP1","NCH4464__Tumor cells (prol.)",3.41142804959548,"NCH4464","Tumor cells (prol.)",346
+"SULF1","NCH4464__Tumor cells (prol.)",4.95047027635898,"NCH4464","Tumor cells (prol.)",346
+"COL14A1","NCH4464__Tumor cells (prol.)",8.6728797716958,"NCH4464","Tumor cells (prol.)",346
+"COL15A1","NCH4464__Tumor cells (prol.)",2.18776943213533,"NCH4464","Tumor cells (prol.)",346
+"CXCL12","NCH4464__Tumor cells (prol.)",-1,"NCH4464","Tumor cells (prol.)",346
+"LUM","NCH4464__Tumor cells (prol.)",4.51146989059844,"NCH4464","Tumor cells (prol.)",346
+"POSTN","NCH4464__Tumor cells (prol.)",6.23909436322981,"NCH4464","Tumor cells (prol.)",346
+"MMP2","NCH4464__Tumor cells (prol.)",2.18776943213533,"NCH4464","Tumor cells (prol.)",346
+"CTSK","NCH4464__Tumor cells",3.8271698966892,"NCH4464","Tumor cells",526
+"DPT","NCH4464__Tumor cells",-1,"NCH4464","Tumor cells",526
+"COL6A3","NCH4464__Tumor cells",5.25389224205166,"NCH4464","Tumor cells",526
+"THBS4","NCH4464__Tumor cells",2.49444239078836,"NCH4464","Tumor cells",526
+"THBS2","NCH4464__Tumor cells",7.85536502791161,"NCH4464","Tumor cells",526
+"AEBP1","NCH4464__Tumor cells",4.50792907043277,"NCH4464","Tumor cells",526
+"SULF1","NCH4464__Tumor cells",4.88747292718111,"NCH4464","Tumor cells",526
+"COL14A1","NCH4464__Tumor cells",8.5910841239301,"NCH4464","Tumor cells",526
+"COL15A1","NCH4464__Tumor cells",2.49444239078836,"NCH4464","Tumor cells",526
+"CXCL12","NCH4464__Tumor cells",2.877117206001,"NCH4464","Tumor cells",526
+"LUM","NCH4464__Tumor cells",5.25389224205166,"NCH4464","Tumor cells",526
+"POSTN","NCH4464__Tumor cells",6.42769125544789,"NCH4464","Tumor cells",526
+"MMP2","NCH4464__Tumor cells",3.42897436843476,"NCH4464","Tumor cells",526
+"CTSK","NCH4464__Endothelial cells",3.96905593900268,"NCH4464","Endothelial cells",54
+"DPT","NCH4464__Endothelial cells",-1,"NCH4464","Endothelial cells",54
+"COL6A3","NCH4464__Endothelial cells",-1,"NCH4464","Endothelial cells",54
+"THBS4","NCH4464__Endothelial cells",-1,"NCH4464","Endothelial cells",54
+"THBS2","NCH4464__Endothelial cells",6.92817829328097,"NCH4464","Endothelial cells",54
+"AEBP1","NCH4464__Endothelial cells",6.25365592709826,"NCH4464","Endothelial cells",54
+"SULF1","NCH4464__Endothelial cells",6.25365592709826,"NCH4464","Endothelial cells",54
+"COL14A1","NCH4464__Endothelial cells",6.25365592709826,"NCH4464","Endothelial cells",54
+"COL15A1","NCH4464__Endothelial cells",4.94583929605926,"NCH4464","Endothelial cells",54
+"CXCL12","NCH4464__Endothelial cells",3.96905593900268,"NCH4464","Endothelial cells",54
+"LUM","NCH4464__Endothelial cells",-1,"NCH4464","Endothelial cells",54
+"POSTN","NCH4464__Endothelial cells",8.17267251421949,"NCH4464","Endothelial cells",54
+"MMP2","NCH4464__Endothelial cells",3.96905593900268,"NCH4464","Endothelial cells",54
+"CTSK","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"DPT","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"COL6A3","NCH4464__Pericytes",7.64803418081965,"NCH4464","Pericytes",4
+"THBS4","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"THBS2","NCH4464__Pericytes",8.64623490542431,"NCH4464","Pericytes",4
+"AEBP1","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"SULF1","NCH4464__Pericytes",7.64803418081965,"NCH4464","Pericytes",4
+"COL14A1","NCH4464__Pericytes",7.64803418081965,"NCH4464","Pericytes",4
+"COL15A1","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"CXCL12","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"LUM","NCH4464__Pericytes",7.06486871429957,"NCH4464","Pericytes",4
+"POSTN","NCH4464__Pericytes",7.64803418081965,"NCH4464","Pericytes",4
+"MMP2","NCH4464__Pericytes",-1,"NCH4464","Pericytes",4
+"CTSK","NCH4464__Stromal cells",7.31524091113983,"NCH4464","Stromal cells",16
+"DPT","NCH4464__Stromal cells",-1,"NCH4464","Stromal cells",16
+"COL6A3","NCH4464__Stromal cells",10.605788138224,"NCH4464","Stromal cells",16
+"THBS4","NCH4464__Stromal cells",-1,"NCH4464","Stromal cells",16
+"THBS2","NCH4464__Stromal cells",9.95528740616301,"NCH4464","Stromal cells",16
+"AEBP1","NCH4464__Stromal cells",9.65145164978466,"NCH4464","Stromal cells",16
+"SULF1","NCH4464__Stromal cells",8.83584590332768,"NCH4464","Stromal cells",16
+"COL14A1","NCH4464__Stromal cells",7.22243343301661,"NCH4464","Stromal cells",16
+"COL15A1","NCH4464__Stromal cells",3.3816301915469,"NCH4464","Stromal cells",16
+"CXCL12","NCH4464__Stromal cells",3.3816301915469,"NCH4464","Stromal cells",16
+"LUM","NCH4464__Stromal cells",8.63444882242664,"NCH4464","Stromal cells",16
+"POSTN","NCH4464__Stromal cells",10.605788138224,"NCH4464","Stromal cells",16
+"MMP2","NCH4464__Stromal cells",7.63626284791561,"NCH4464","Stromal cells",16
+"CTSK","NCH2972__Tumor cells",3.13906175560791,"NCH2972","Tumor cells",4407
+"DPT","NCH2972__Tumor cells",-0.0513855951472536,"NCH2972","Tumor cells",4407
+"COL6A3","NCH2972__Tumor cells",2.88245663091885,"NCH2972","Tumor cells",4407
+"THBS4","NCH2972__Tumor cells",2.62788642039912,"NCH2972","Tumor cells",4407
+"THBS2","NCH2972__Tumor cells",3.36252714958351,"NCH2972","Tumor cells",4407
+"AEBP1","NCH2972__Tumor cells",2.16443352749938,"NCH2972","Tumor cells",4407
+"SULF1","NCH2972__Tumor cells",4.11446677771545,"NCH2972","Tumor cells",4407
+"COL14A1","NCH2972__Tumor cells",2.38707624174352,"NCH2972","Tumor cells",4407
+"COL15A1","NCH2972__Tumor cells",1.71811144317955,"NCH2972","Tumor cells",4407
+"CXCL12","NCH2972__Tumor cells",-0.316048874715582,"NCH2972","Tumor cells",4407
+"LUM","NCH2972__Tumor cells",2.14478071777894,"NCH2972","Tumor cells",4407
+"POSTN","NCH2972__Tumor cells",3.37382627386948,"NCH2972","Tumor cells",4407
+"MMP2","NCH2972__Tumor cells",0.859298569085852,"NCH2972","Tumor cells",4407
+"CTSK","NCH2972__Tumor cells (prol.)",3.04903980026265,"NCH2972","Tumor cells (prol.)",1515
+"DPT","NCH2972__Tumor cells (prol.)",-0.460958993748808,"NCH2972","Tumor cells (prol.)",1515
+"COL6A3","NCH2972__Tumor cells (prol.)",2.82910723919333,"NCH2972","Tumor cells (prol.)",1515
+"THBS4","NCH2972__Tumor cells (prol.)",2.8214228820942,"NCH2972","Tumor cells (prol.)",1515
+"THBS2","NCH2972__Tumor cells (prol.)",3.93529070480912,"NCH2972","Tumor cells (prol.)",1515
+"AEBP1","NCH2972__Tumor cells (prol.)",2.34136357882064,"NCH2972","Tumor cells (prol.)",1515
+"SULF1","NCH2972__Tumor cells (prol.)",4.18326795655414,"NCH2972","Tumor cells (prol.)",1515
+"COL14A1","NCH2972__Tumor cells (prol.)",2.00388973947787,"NCH2972","Tumor cells (prol.)",1515
+"COL15A1","NCH2972__Tumor cells (prol.)",1.63449406654472,"NCH2972","Tumor cells (prol.)",1515
+"CXCL12","NCH2972__Tumor cells (prol.)",-0.251960024617657,"NCH2972","Tumor cells (prol.)",1515
+"LUM","NCH2972__Tumor cells (prol.)",1.73608081104619,"NCH2972","Tumor cells (prol.)",1515
+"POSTN","NCH2972__Tumor cells (prol.)",3.06214071927369,"NCH2972","Tumor cells (prol.)",1515
+"MMP2","NCH2972__Tumor cells (prol.)",0.894541550202908,"NCH2972","Tumor cells (prol.)",1515
+"CTSK","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"DPT","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"COL6A3","NCH2972__Endothelial cells",4.25647947487233,"NCH2972","Endothelial cells",7
+"THBS4","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"THBS2","NCH2972__Endothelial cells",4.25647947487233,"NCH2972","Endothelial cells",7
+"AEBP1","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"SULF1","NCH2972__Endothelial cells",4.25647947487233,"NCH2972","Endothelial cells",7
+"COL14A1","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"COL15A1","NCH2972__Endothelial cells",6.22789214948411,"NCH2972","Endothelial cells",7
+"CXCL12","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"LUM","NCH2972__Endothelial cells",-1,"NCH2972","Endothelial cells",7
+"POSTN","NCH2972__Endothelial cells",5.23748433630424,"NCH2972","Endothelial cells",7
+"MMP2","NCH2972__Endothelial cells",4.25647947487233,"NCH2972","Endothelial cells",7
+"CTSK","NCH2972__Stromal cells",5.27008516360428,"NCH2972","Stromal cells",17
+"DPT","NCH2972__Stromal cells",-1,"NCH2972","Stromal cells",17
+"COL6A3","NCH2972__Stromal cells",9.09053652250673,"NCH2972","Stromal cells",17
+"THBS4","NCH2972__Stromal cells",2.1072904311317,"NCH2972","Stromal cells",17
+"THBS2","NCH2972__Stromal cells",8.72546246022411,"NCH2972","Stromal cells",17
+"AEBP1","NCH2972__Stromal cells",8.28920117481418,"NCH2972","Stromal cells",17
+"SULF1","NCH2972__Stromal cells",8.83780936939258,"NCH2972","Stromal cells",17
+"COL14A1","NCH2972__Stromal cells",3.97592831653198,"NCH2972","Stromal cells",17
+"COL15A1","NCH2972__Stromal cells",2.1072904311317,"NCH2972","Stromal cells",17
+"CXCL12","NCH2972__Stromal cells",-1,"NCH2972","Stromal cells",17
+"LUM","NCH2972__Stromal cells",7.14390432439893,"NCH2972","Stromal cells",17
+"POSTN","NCH2972__Stromal cells",9.93570267766758,"NCH2972","Stromal cells",17
+"MMP2","NCH2972__Stromal cells",6.33064927286108,"NCH2972","Stromal cells",17
+"CTSK","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"DPT","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"COL6A3","NCH2972__Pericytes",5.37727609752306,"NCH2972","Pericytes",3
+"THBS4","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"THBS2","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"AEBP1","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"SULF1","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"COL14A1","NCH2972__Pericytes",5.37727609752306,"NCH2972","Pericytes",3
+"COL15A1","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"CXCL12","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"LUM","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"POSTN","NCH2972__Pericytes",5.37727609752306,"NCH2972","Pericytes",3
+"MMP2","NCH2972__Pericytes",-1,"NCH2972","Pericytes",3
+"CTSK","NCH5119__Tumor cells",2.62132081443693,"NCH5119","Tumor cells",2868
+"DPT","NCH5119__Tumor cells",-0.807785733059783,"NCH5119","Tumor cells",2868
+"COL6A3","NCH5119__Tumor cells",3.82352270627374,"NCH5119","Tumor cells",2868
+"THBS4","NCH5119__Tumor cells",0.671403933387582,"NCH5119","Tumor cells",2868
+"THBS2","NCH5119__Tumor cells",0.582663354025527,"NCH5119","Tumor cells",2868
+"AEBP1","NCH5119__Tumor cells",1.9445301849117,"NCH5119","Tumor cells",2868
+"SULF1","NCH5119__Tumor cells",1.01447656208728,"NCH5119","Tumor cells",2868
+"COL14A1","NCH5119__Tumor cells",4.08006778928103,"NCH5119","Tumor cells",2868
+"COL15A1","NCH5119__Tumor cells",-0.692540544091547,"NCH5119","Tumor cells",2868
+"CXCL12","NCH5119__Tumor cells",-0.0720270945506735,"NCH5119","Tumor cells",2868
+"LUM","NCH5119__Tumor cells",0.0976966494101082,"NCH5119","Tumor cells",2868
+"POSTN","NCH5119__Tumor cells",1.53556427634269,"NCH5119","Tumor cells",2868
+"MMP2","NCH5119__Tumor cells",3.80157274483312,"NCH5119","Tumor cells",2868
+"CTSK","NCH5119__Tumor cells (prol.)",1.75205523048792,"NCH5119","Tumor cells (prol.)",229
+"DPT","NCH5119__Tumor cells (prol.)",-0.436291787192304,"NCH5119","Tumor cells (prol.)",229
+"COL6A3","NCH5119__Tumor cells (prol.)",3.86818024045663,"NCH5119","Tumor cells (prol.)",229
+"THBS4","NCH5119__Tumor cells (prol.)",0.951729805712101,"NCH5119","Tumor cells (prol.)",229
+"THBS2","NCH5119__Tumor cells (prol.)",-1,"NCH5119","Tumor cells (prol.)",229
+"AEBP1","NCH5119__Tumor cells (prol.)",1.64586257900233,"NCH5119","Tumor cells (prol.)",229
+"SULF1","NCH5119__Tumor cells (prol.)",1.11983563117664,"NCH5119","Tumor cells (prol.)",229
+"COL14A1","NCH5119__Tumor cells (prol.)",2.93940561654886,"NCH5119","Tumor cells (prol.)",229
+"COL15A1","NCH5119__Tumor cells (prol.)",-1,"NCH5119","Tumor cells (prol.)",229
+"CXCL12","NCH5119__Tumor cells (prol.)",-0.436291787192304,"NCH5119","Tumor cells (prol.)",229
+"LUM","NCH5119__Tumor cells (prol.)",1.11983563117664,"NCH5119","Tumor cells (prol.)",229
+"POSTN","NCH5119__Tumor cells (prol.)",-0.0320000190477534,"NCH5119","Tumor cells (prol.)",229
+"MMP2","NCH5119__Tumor cells (prol.)",4.36307751218749,"NCH5119","Tumor cells (prol.)",229
+"CTSK","NCH5119__Stromal cells",-1,"NCH5119","Stromal cells",3
+"DPT","NCH5119__Stromal cells",-1,"NCH5119","Stromal cells",3
+"COL6A3","NCH5119__Stromal cells",10.8224064806582,"NCH5119","Stromal cells",3
+"THBS4","NCH5119__Stromal cells",-1,"NCH5119","Stromal cells",3
+"THBS2","NCH5119__Stromal cells",9.05284875726358,"NCH5119","Stromal cells",3
+"AEBP1","NCH5119__Stromal cells",4.98695516203123,"NCH5119","Stromal cells",3
+"SULF1","NCH5119__Stromal cells",8.28826444169502,"NCH5119","Stromal cells",3
+"COL14A1","NCH5119__Stromal cells",6.55667282701199,"NCH5119","Stromal cells",3
+"COL15A1","NCH5119__Stromal cells",-1,"NCH5119","Stromal cells",3
+"CXCL12","NCH5119__Stromal cells",4.98695516203123,"NCH5119","Stromal cells",3
+"LUM","NCH5119__Stromal cells",6.55667282701199,"NCH5119","Stromal cells",3
+"POSTN","NCH5119__Stromal cells",6.55667282701199,"NCH5119","Stromal cells",3
+"MMP2","NCH5119__Stromal cells",4.98695516203123,"NCH5119","Stromal cells",3
+"CTSK","NCH5119__Pericytes",4.1336407405223,"NCH5119","Pericytes",63
+"DPT","NCH5119__Pericytes",-1,"NCH5119","Pericytes",63
+"COL6A3","NCH5119__Pericytes",6.51489565133052,"NCH5119","Pericytes",63
+"THBS4","NCH5119__Pericytes",3.56908105727256,"NCH5119","Pericytes",63
+"THBS2","NCH5119__Pericytes",4.53836759846923,"NCH5119","Pericytes",63
+"AEBP1","NCH5119__Pericytes",5.60930173597922,"NCH5119","Pericytes",63
+"SULF1","NCH5119__Pericytes",6.32337698713086,"NCH5119","Pericytes",63
+"COL14A1","NCH5119__Pericytes",7.25318921614591,"NCH5119","Pericytes",63
+"COL15A1","NCH5119__Pericytes",2.92702250146886,"NCH5119","Pericytes",63
+"CXCL12","NCH5119__Pericytes",3.38509248191653,"NCH5119","Pericytes",63
+"LUM","NCH5119__Pericytes",5.05245069913952,"NCH5119","Pericytes",63
+"POSTN","NCH5119__Pericytes",4.62400324077696,"NCH5119","Pericytes",63
+"MMP2","NCH5119__Pericytes",2.25194168436722,"NCH5119","Pericytes",63
+"CTSK","NCH6239__Tumor cells",2.77997300572652,"NCH6239","Tumor cells",387
+"DPT","NCH6239__Tumor cells",-1,"NCH6239","Tumor cells",387
+"COL6A3","NCH6239__Tumor cells",8.12158214824467,"NCH6239","Tumor cells",387
+"THBS4","NCH6239__Tumor cells",3.32116296990245,"NCH6239","Tumor cells",387
+"THBS2","NCH6239__Tumor cells",1.36971884152942,"NCH6239","Tumor cells",387
+"AEBP1","NCH6239__Tumor cells",6.46381961190133,"NCH6239","Tumor cells",387
+"SULF1","NCH6239__Tumor cells",5.30876428854973,"NCH6239","Tumor cells",387
+"COL14A1","NCH6239__Tumor cells",2.18669545554436,"NCH6239","Tumor cells",387
+"COL15A1","NCH6239__Tumor cells",-0.450916405587237,"NCH6239","Tumor cells",387
+"CXCL12","NCH6239__Tumor cells",2.42307737113455,"NCH6239","Tumor cells",387
+"LUM","NCH6239__Tumor cells",-0.450916405587237,"NCH6239","Tumor cells",387
+"POSTN","NCH6239__Tumor cells",1.36971884152942,"NCH6239","Tumor cells",387
+"MMP2","NCH6239__Tumor cells",2.82781353319088,"NCH6239","Tumor cells",387
+"CTSK","NCH6239__Tumor cells (prol.)",2.99892331831738,"NCH6239","Tumor cells (prol.)",84
+"DPT","NCH6239__Tumor cells (prol.)",-1,"NCH6239","Tumor cells (prol.)",84
+"COL6A3","NCH6239__Tumor cells (prol.)",8.02706676249593,"NCH6239","Tumor cells (prol.)",84
+"THBS4","NCH6239__Tumor cells (prol.)",2.84023392175901,"NCH6239","Tumor cells (prol.)",84
+"THBS2","NCH6239__Tumor cells (prol.)",0.916693451560529,"NCH6239","Tumor cells (prol.)",84
+"AEBP1","NCH6239__Tumor cells (prol.)",6.14408418832694,"NCH6239","Tumor cells (prol.)",84
+"SULF1","NCH6239__Tumor cells (prol.)",4.73282994281056,"NCH6239","Tumor cells (prol.)",84
+"COL14A1","NCH6239__Tumor cells (prol.)",2.84023392175901,"NCH6239","Tumor cells (prol.)",84
+"COL15A1","NCH6239__Tumor cells (prol.)",-1,"NCH6239","Tumor cells (prol.)",84
+"CXCL12","NCH6239__Tumor cells (prol.)",2.03851960509265,"NCH6239","Tumor cells (prol.)",84
+"LUM","NCH6239__Tumor cells (prol.)",0.687264030130746,"NCH6239","Tumor cells (prol.)",84
+"POSTN","NCH6239__Tumor cells (prol.)",-1,"NCH6239","Tumor cells (prol.)",84
+"MMP2","NCH6239__Tumor cells (prol.)",0.916693451560529,"NCH6239","Tumor cells (prol.)",84
+"CTSK","NCH6239__Pericytes",2.35452234716952,"NCH6239","Pericytes",25
+"DPT","NCH6239__Pericytes",-1,"NCH6239","Pericytes",25
+"COL6A3","NCH6239__Pericytes",8.04172584595211,"NCH6239","Pericytes",25
+"THBS4","NCH6239__Pericytes",2.35452234716952,"NCH6239","Pericytes",25
+"THBS2","NCH6239__Pericytes",3.2822170227314,"NCH6239","Pericytes",25
+"AEBP1","NCH6239__Pericytes",7.01902317234347,"NCH6239","Pericytes",25
+"SULF1","NCH6239__Pericytes",10.0771284399605,"NCH6239","Pericytes",25
+"COL14A1","NCH6239__Pericytes",8.27451639196293,"NCH6239","Pericytes",25
+"COL15A1","NCH6239__Pericytes",2.35452234716952,"NCH6239","Pericytes",25
+"CXCL12","NCH6239__Pericytes",-1,"NCH6239","Pericytes",25
+"LUM","NCH6239__Pericytes",3.2822170227314,"NCH6239","Pericytes",25
+"POSTN","NCH6239__Pericytes",3.2822170227314,"NCH6239","Pericytes",25
+"MMP2","NCH6239__Pericytes",-1,"NCH6239","Pericytes",25
+"CTSK","NCH6239__Stromal cells",3.01456002311959,"NCH6239","Stromal cells",27
+"DPT","NCH6239__Stromal cells",1.59791198098861,"NCH6239","Stromal cells",27
+"COL6A3","NCH6239__Stromal cells",10.9607824979962,"NCH6239","Stromal cells",27
+"THBS4","NCH6239__Stromal cells",3.71537114980885,"NCH6239","Stromal cells",27
+"THBS2","NCH6239__Stromal cells",5.26324979820862,"NCH6239","Stromal cells",27
+"AEBP1","NCH6239__Stromal cells",8.48920951693824,"NCH6239","Stromal cells",27
+"SULF1","NCH6239__Stromal cells",5.00396696781687,"NCH6239","Stromal cells",27
+"COL14A1","NCH6239__Stromal cells",5.8733733527018,"NCH6239","Stromal cells",27
+"COL15A1","NCH6239__Stromal cells",0.818461577694291,"NCH6239","Stromal cells",27
+"CXCL12","NCH6239__Stromal cells",2.47355258107303,"NCH6239","Stromal cells",27
+"LUM","NCH6239__Stromal cells",2.76926866483767,"NCH6239","Stromal cells",27
+"POSTN","NCH6239__Stromal cells",3.01456002311959,"NCH6239","Stromal cells",27
+"MMP2","NCH6239__Stromal cells",4.75670380392732,"NCH6239","Stromal cells",27
+"CTSK","NCH1367__Tumor cells",2.65181219161056,"NCH1367","Tumor cells",1191
+"DPT","NCH1367__Tumor cells",-0.856964077391222,"NCH1367","Tumor cells",1191
+"COL6A3","NCH1367__Tumor cells",3.16065137984897,"NCH1367","Tumor cells",1191
+"THBS4","NCH1367__Tumor cells",0.970241691924953,"NCH1367","Tumor cells",1191
+"THBS2","NCH1367__Tumor cells",5.62286968807269,"NCH1367","Tumor cells",1191
+"AEBP1","NCH1367__Tumor cells",0.0301689609952189,"NCH1367","Tumor cells",1191
+"SULF1","NCH1367__Tumor cells",3.28155452800993,"NCH1367","Tumor cells",1191
+"COL14A1","NCH1367__Tumor cells",3.06507055463859,"NCH1367","Tumor cells",1191
+"COL15A1","NCH1367__Tumor cells",3.28926559620528,"NCH1367","Tumor cells",1191
+"CXCL12","NCH1367__Tumor cells",-0.125155253142919,"NCH1367","Tumor cells",1191
+"LUM","NCH1367__Tumor cells",-0.299242435620438,"NCH1367","Tumor cells",1191
+"POSTN","NCH1367__Tumor cells",0.0301689609952189,"NCH1367","Tumor cells",1191
+"MMP2","NCH1367__Tumor cells",-0.045403829905047,"NCH1367","Tumor cells",1191
+"CTSK","NCH1367__Pericytes",3.85959013455574,"NCH1367","Pericytes",529
+"DPT","NCH1367__Pericytes",-1,"NCH1367","Pericytes",529
+"COL6A3","NCH1367__Pericytes",7.77215147124977,"NCH1367","Pericytes",529
+"THBS4","NCH1367__Pericytes",3.29926242946611,"NCH1367","Pericytes",529
+"THBS2","NCH1367__Pericytes",4.72294137238633,"NCH1367","Pericytes",529
+"AEBP1","NCH1367__Pericytes",6.71110800654018,"NCH1367","Pericytes",529
+"SULF1","NCH1367__Pericytes",7.19999432151759,"NCH1367","Pericytes",529
+"COL14A1","NCH1367__Pericytes",5.95620197845101,"NCH1367","Pericytes",529
+"COL15A1","NCH1367__Pericytes",3.83832812801796,"NCH1367","Pericytes",529
+"CXCL12","NCH1367__Pericytes",2.11189769182844,"NCH1367","Pericytes",529
+"LUM","NCH1367__Pericytes",4.45608367653353,"NCH1367","Pericytes",529
+"POSTN","NCH1367__Pericytes",4.32464559799036,"NCH1367","Pericytes",529
+"MMP2","NCH1367__Pericytes",1.70520963081777,"NCH1367","Pericytes",529
+"CTSK","NCH1367__Tumor cells (prol.)",2.21026610779115,"NCH1367","Tumor cells (prol.)",281
+"DPT","NCH1367__Tumor cells (prol.)",-1,"NCH1367","Tumor cells (prol.)",281
+"COL6A3","NCH1367__Tumor cells (prol.)",3.26441631906313,"NCH1367","Tumor cells (prol.)",281
+"THBS4","NCH1367__Tumor cells (prol.)",1.23284874914055,"NCH1367","Tumor cells (prol.)",281
+"THBS2","NCH1367__Tumor cells (prol.)",5.41379883453016,"NCH1367","Tumor cells (prol.)",281
+"AEBP1","NCH1367__Tumor cells (prol.)",-0.349855844087605,"NCH1367","Tumor cells (prol.)",281
+"SULF1","NCH1367__Tumor cells (prol.)",2.4915773477643,"NCH1367","Tumor cells (prol.)",281
+"COL14A1","NCH1367__Tumor cells (prol.)",4.46821509490301,"NCH1367","Tumor cells (prol.)",281
+"COL15A1","NCH1367__Tumor cells (prol.)",3.26441631906313,"NCH1367","Tumor cells (prol.)",281
+"CXCL12","NCH1367__Tumor cells (prol.)",-0.349855844087605,"NCH1367","Tumor cells (prol.)",281
+"LUM","NCH1367__Tumor cells (prol.)",-1,"NCH1367","Tumor cells (prol.)",281
+"POSTN","NCH1367__Tumor cells (prol.)",-0.109368486599387,"NCH1367","Tumor cells (prol.)",281
+"MMP2","NCH1367__Tumor cells (prol.)",-0.349855844087605,"NCH1367","Tumor cells (prol.)",281
+"CTSK","NCH1367__Endothelial cells",2.55295073873799,"NCH1367","Endothelial cells",422
+"DPT","NCH1367__Endothelial cells",-1,"NCH1367","Endothelial cells",422
+"COL6A3","NCH1367__Endothelial cells",3.71192569652272,"NCH1367","Endothelial cells",422
+"THBS4","NCH1367__Endothelial cells",-0.447316453961607,"NCH1367","Endothelial cells",422
+"THBS2","NCH1367__Endothelial cells",2.49439697550651,"NCH1367","Endothelial cells",422
+"AEBP1","NCH1367__Endothelial cells",4.47292556761504,"NCH1367","Endothelial cells",422
+"SULF1","NCH1367__Endothelial cells",2.15959634776445,"NCH1367","Endothelial cells",422
+"COL14A1","NCH1367__Endothelial cells",2.60922041831819,"NCH1367","Endothelial cells",422
+"COL15A1","NCH1367__Endothelial cells",8.05591025343467,"NCH1367","Endothelial cells",422
+"CXCL12","NCH1367__Endothelial cells",7.84216848713197,"NCH1367","Endothelial cells",422
+"LUM","NCH1367__Endothelial cells",0.737279126204148,"NCH1367","Endothelial cells",422
+"POSTN","NCH1367__Endothelial cells",6.94569479770373,"NCH1367","Endothelial cells",422
+"MMP2","NCH1367__Endothelial cells",6.4598769563012,"NCH1367","Endothelial cells",422
+"CTSK","NCH1367__Astrocytes",1.96901315516775,"NCH1367","Astrocytes",97
+"DPT","NCH1367__Astrocytes",0.561414069541078,"NCH1367","Astrocytes",97
+"COL6A3","NCH1367__Astrocytes",3.21434779742297,"NCH1367","Astrocytes",97
+"THBS4","NCH1367__Astrocytes",5.810333888491,"NCH1367","Astrocytes",97
+"THBS2","NCH1367__Astrocytes",4.05305019951147,"NCH1367","Astrocytes",97
+"AEBP1","NCH1367__Astrocytes",6.26853962405319,"NCH1367","Astrocytes",97
+"SULF1","NCH1367__Astrocytes",5.95349902711482,"NCH1367","Astrocytes",97
+"COL14A1","NCH1367__Astrocytes",2.8738141038312,"NCH1367","Astrocytes",97
+"COL15A1","NCH1367__Astrocytes",2.8738141038312,"NCH1367","Astrocytes",97
+"CXCL12","NCH1367__Astrocytes",0.561414069541078,"NCH1367","Astrocytes",97
+"LUM","NCH1367__Astrocytes",0.973480803992487,"NCH1367","Astrocytes",97
+"POSTN","NCH1367__Astrocytes",2.55248335984034,"NCH1367","Astrocytes",97
+"MMP2","NCH1367__Astrocytes",0.561414069541078,"NCH1367","Astrocytes",97
+"CTSK","NCH1367__Stromal cells",4.26902185669241,"NCH1367","Stromal cells",156
+"DPT","NCH1367__Stromal cells",3.11870658236646,"NCH1367","Stromal cells",156
+"COL6A3","NCH1367__Stromal cells",10.8742439165312,"NCH1367","Stromal cells",156
+"THBS4","NCH1367__Stromal cells",3.47167665077261,"NCH1367","Stromal cells",156
+"THBS2","NCH1367__Stromal cells",9.1244239323041,"NCH1367","Stromal cells",156
+"AEBP1","NCH1367__Stromal cells",7.08545886868065,"NCH1367","Stromal cells",156
+"SULF1","NCH1367__Stromal cells",9.34021514450112,"NCH1367","Stromal cells",156
+"COL14A1","NCH1367__Stromal cells",7.10577610964124,"NCH1367","Stromal cells",156
+"COL15A1","NCH1367__Stromal cells",5.97955660159318,"NCH1367","Stromal cells",156
+"CXCL12","NCH1367__Stromal cells",4.47047547820995,"NCH1367","Stromal cells",156
+"LUM","NCH1367__Stromal cells",7.44171961680322,"NCH1367","Stromal cells",156
+"POSTN","NCH1367__Stromal cells",9.60930356039542,"NCH1367","Stromal cells",156
+"MMP2","NCH1367__Stromal cells",5.03398753453451,"NCH1367","Stromal cells",156
+"CTSK","NCH1098__Tumor cells",2.09482817298298,"NCH1098","Tumor cells",3111
+"DPT","NCH1098__Tumor cells",-0.797274979397327,"NCH1098","Tumor cells",3111
+"COL6A3","NCH1098__Tumor cells",3.45752506652923,"NCH1098","Tumor cells",3111
+"THBS4","NCH1098__Tumor cells",2.1571538397294,"NCH1098","Tumor cells",3111
+"THBS2","NCH1098__Tumor cells",5.42904980291646,"NCH1098","Tumor cells",3111
+"AEBP1","NCH1098__Tumor cells",1.0594495541313,"NCH1098","Tumor cells",3111
+"SULF1","NCH1098__Tumor cells",1.90446769448923,"NCH1098","Tumor cells",3111
+"COL14A1","NCH1098__Tumor cells",3.66908111161511,"NCH1098","Tumor cells",3111
+"COL15A1","NCH1098__Tumor cells",3.54869627477032,"NCH1098","Tumor cells",3111
+"CXCL12","NCH1098__Tumor cells",1.18442238583375,"NCH1098","Tumor cells",3111
+"LUM","NCH1098__Tumor cells",0.237460326873841,"NCH1098","Tumor cells",3111
+"POSTN","NCH1098__Tumor cells",1.1357244850466,"NCH1098","Tumor cells",3111
+"MMP2","NCH1098__Tumor cells",1.42632736843191,"NCH1098","Tumor cells",3111
+"CTSK","NCH1098__Tumor cells (prol.)",2.35053371045318,"NCH1098","Tumor cells (prol.)",1457
+"DPT","NCH1098__Tumor cells (prol.)",-1,"NCH1098","Tumor cells (prol.)",1457
+"COL6A3","NCH1098__Tumor cells (prol.)",3.31396346638784,"NCH1098","Tumor cells (prol.)",1457
+"THBS4","NCH1098__Tumor cells (prol.)",2.18960823957052,"NCH1098","Tumor cells (prol.)",1457
+"THBS2","NCH1098__Tumor cells (prol.)",5.05481441731307,"NCH1098","Tumor cells (prol.)",1457
+"AEBP1","NCH1098__Tumor cells (prol.)",1.08061596419702,"NCH1098","Tumor cells (prol.)",1457
+"SULF1","NCH1098__Tumor cells (prol.)",1.26817333060979,"NCH1098","Tumor cells (prol.)",1457
+"COL14A1","NCH1098__Tumor cells (prol.)",3.78774705740782,"NCH1098","Tumor cells (prol.)",1457
+"COL15A1","NCH1098__Tumor cells (prol.)",3.84782274947364,"NCH1098","Tumor cells (prol.)",1457
+"CXCL12","NCH1098__Tumor cells (prol.)",0.303416190516618,"NCH1098","Tumor cells (prol.)",1457
+"LUM","NCH1098__Tumor cells (prol.)",0.0542413500757055,"NCH1098","Tumor cells (prol.)",1457
+"POSTN","NCH1098__Tumor cells (prol.)",0.465583509952336,"NCH1098","Tumor cells (prol.)",1457
+"MMP2","NCH1098__Tumor cells (prol.)",0.564378978428269,"NCH1098","Tumor cells (prol.)",1457
+"CTSK","NCH1098__Stromal cells",3.38408287252225,"NCH1098","Stromal cells",43
+"DPT","NCH1098__Stromal cells",-1,"NCH1098","Stromal cells",43
+"COL6A3","NCH1098__Stromal cells",10.6302435879356,"NCH1098","Stromal cells",43
+"THBS4","NCH1098__Stromal cells",2.69245924075492,"NCH1098","Stromal cells",43
+"THBS2","NCH1098__Stromal cells",9.46404942889098,"NCH1098","Stromal cells",43
+"AEBP1","NCH1098__Stromal cells",6.67087489442943,"NCH1098","Stromal cells",43
+"SULF1","NCH1098__Stromal cells",10.0768289365274,"NCH1098","Stromal cells",43
+"COL14A1","NCH1098__Stromal cells",5.86179133588185,"NCH1098","Stromal cells",43
+"COL15A1","NCH1098__Stromal cells",5.81160820272969,"NCH1098","Stromal cells",43
+"CXCL12","NCH1098__Stromal cells",3.84963253560972,"NCH1098","Stromal cells",43
+"LUM","NCH1098__Stromal cells",6.61344833248818,"NCH1098","Stromal cells",43
+"POSTN","NCH1098__Stromal cells",9.63611549591996,"NCH1098","Stromal cells",43
+"MMP2","NCH1098__Stromal cells",5.01385373092468,"NCH1098","Stromal cells",43
+"CTSK","NCH1098__Endothelial cells",2.29322631289911,"NCH1098","Endothelial cells",89
+"DPT","NCH1098__Endothelial cells",-1,"NCH1098","Endothelial cells",89
+"COL6A3","NCH1098__Endothelial cells",3.65582725967462,"NCH1098","Endothelial cells",89
+"THBS4","NCH1098__Endothelial cells",0.678412286463882,"NCH1098","Endothelial cells",89
+"THBS2","NCH1098__Endothelial cells",2.29322631289911,"NCH1098","Endothelial cells",89
+"AEBP1","NCH1098__Endothelial cells",3.77658099628345,"NCH1098","Endothelial cells",89
+"SULF1","NCH1098__Endothelial cells",1.43336281339895,"NCH1098","Endothelial cells",89
+"COL14A1","NCH1098__Endothelial cells",4.34389070401044,"NCH1098","Endothelial cells",89
+"COL15A1","NCH1098__Endothelial cells",7.32242162165021,"NCH1098","Endothelial cells",89
+"CXCL12","NCH1098__Endothelial cells",7.1204719040023,"NCH1098","Endothelial cells",89
+"LUM","NCH1098__Endothelial cells",0.678412286463882,"NCH1098","Endothelial cells",89
+"POSTN","NCH1098__Endothelial cells",7.96107529140226,"NCH1098","Endothelial cells",89
+"MMP2","NCH1098__Endothelial cells",4.34389070401044,"NCH1098","Endothelial cells",89
+"CTSK","NCH1098__Pericytes",3.88764959405679,"NCH1098","Pericytes",62
+"DPT","NCH1098__Pericytes",-1,"NCH1098","Pericytes",62
+"COL6A3","NCH1098__Pericytes",8.17447160946915,"NCH1098","Pericytes",62
+"THBS4","NCH1098__Pericytes",1.52784399020864,"NCH1098","Pericytes",62
+"THBS2","NCH1098__Pericytes",6.07123248624513,"NCH1098","Pericytes",62
+"AEBP1","NCH1098__Pericytes",6.43141657893367,"NCH1098","Pericytes",62
+"SULF1","NCH1098__Pericytes",8.73861490422437,"NCH1098","Pericytes",62
+"COL14A1","NCH1098__Pericytes",7.1408727923275,"NCH1098","Pericytes",62
+"COL15A1","NCH1098__Pericytes",5.90902054789386,"NCH1098","Pericytes",62
+"CXCL12","NCH1098__Pericytes",1.52784399020864,"NCH1098","Pericytes",62
+"LUM","NCH1098__Pericytes",4.29045147974275,"NCH1098","Pericytes",62
+"POSTN","NCH1098__Pericytes",5.65976658446108,"NCH1098","Pericytes",62
+"MMP2","NCH1098__Pericytes",3.32685133938254,"NCH1098","Pericytes",62
+"CTSK","NCH1098__Astrocytes",2.66229009445486,"NCH1098","Astrocytes",31
+"DPT","NCH1098__Astrocytes",2.13320646404306,"NCH1098","Astrocytes",31
+"COL6A3","NCH1098__Astrocytes",3.81805287334778,"NCH1098","Astrocytes",31
+"THBS4","NCH1098__Astrocytes",4.31720062443792,"NCH1098","Astrocytes",31
+"THBS2","NCH1098__Astrocytes",4.16921257845606,"NCH1098","Astrocytes",31
+"AEBP1","NCH1098__Astrocytes",4.68733742759181,"NCH1098","Astrocytes",31
+"SULF1","NCH1098__Astrocytes",5.67327044488338,"NCH1098","Astrocytes",31
+"COL14A1","NCH1098__Astrocytes",4.16921257845606,"NCH1098","Astrocytes",31
+"COL15A1","NCH1098__Astrocytes",-1,"NCH1098","Astrocytes",31
+"CXCL12","NCH1098__Astrocytes",-1,"NCH1098","Astrocytes",31
+"LUM","NCH1098__Astrocytes",-1,"NCH1098","Astrocytes",31
+"POSTN","NCH1098__Astrocytes",1.28892375183079,"NCH1098","Astrocytes",31
+"MMP2","NCH1098__Astrocytes",-1,"NCH1098","Astrocytes",31
+"CTSK","NCH5475__Tumor cells",1.71622838007319,"NCH5475","Tumor cells",799
+"DPT","NCH5475__Tumor cells",-0.855792882174277,"NCH5475","Tumor cells",799
+"COL6A3","NCH5475__Tumor cells",4.56877463194545,"NCH5475","Tumor cells",799
+"THBS4","NCH5475__Tumor cells",2.73328990792981,"NCH5475","Tumor cells",799
+"THBS2","NCH5475__Tumor cells",2.08129566978757,"NCH5475","Tumor cells",799
+"AEBP1","NCH5475__Tumor cells",2.09910416364094,"NCH5475","Tumor cells",799
+"SULF1","NCH5475__Tumor cells",5.55188083395656,"NCH5475","Tumor cells",799
+"COL14A1","NCH5475__Tumor cells",4.35567840877561,"NCH5475","Tumor cells",799
+"COL15A1","NCH5475__Tumor cells",-0.855792882174277,"NCH5475","Tumor cells",799
+"CXCL12","NCH5475__Tumor cells",-0.855792882174277,"NCH5475","Tumor cells",799
+"LUM","NCH5475__Tumor cells",0.108594314582293,"NCH5475","Tumor cells",799
+"POSTN","NCH5475__Tumor cells",-0.294474306376095,"NCH5475","Tumor cells",799
+"MMP2","NCH5475__Tumor cells",-0.855792882174277,"NCH5475","Tumor cells",799
+"CTSK","NCH5475__Tumor cells (prol.)",1.79123916525483,"NCH5475","Tumor cells (prol.)",48
+"DPT","NCH5475__Tumor cells (prol.)",-1,"NCH5475","Tumor cells (prol.)",48
+"COL6A3","NCH5475__Tumor cells (prol.)",4.19114593084241,"NCH5475","Tumor cells (prol.)",48
+"THBS4","NCH5475__Tumor cells (prol.)",2.15320889366408,"NCH5475","Tumor cells (prol.)",48
+"THBS2","NCH5475__Tumor cells (prol.)",2.30500180523264,"NCH5475","Tumor cells (prol.)",48
+"AEBP1","NCH5475__Tumor cells (prol.)",1.56929684325915,"NCH5475","Tumor cells (prol.)",48
+"SULF1","NCH5475__Tumor cells (prol.)",3.56693225356226,"NCH5475","Tumor cells (prol.)",48
+"COL14A1","NCH5475__Tumor cells (prol.)",4.50515438689308,"NCH5475","Tumor cells (prol.)",48
+"COL15A1","NCH5475__Tumor cells (prol.)",-1,"NCH5475","Tumor cells (prol.)",48
+"CXCL12","NCH5475__Tumor cells (prol.)",-1,"NCH5475","Tumor cells (prol.)",48
+"LUM","NCH5475__Tumor cells (prol.)",-1,"NCH5475","Tumor cells (prol.)",48
+"POSTN","NCH5475__Tumor cells (prol.)",0.57244361288732,"NCH5475","Tumor cells (prol.)",48
+"MMP2","NCH5475__Tumor cells (prol.)",-1,"NCH5475","Tumor cells (prol.)",48
+"CTSK","NCH5475__Astrocytes",2.84789105427118,"NCH5475","Astrocytes",13
+"DPT","NCH5475__Astrocytes",-1,"NCH5475","Astrocytes",13
+"COL6A3","NCH5475__Astrocytes",4.10841400204501,"NCH5475","Astrocytes",13
+"THBS4","NCH5475__Astrocytes",6.45274586198942,"NCH5475","Astrocytes",13
+"THBS2","NCH5475__Astrocytes",4.58184237370233,"NCH5475","Astrocytes",13
+"AEBP1","NCH5475__Astrocytes",5.22292410872648,"NCH5475","Astrocytes",13
+"SULF1","NCH5475__Astrocytes",5.22292410872648,"NCH5475","Astrocytes",13
+"COL14A1","NCH5475__Astrocytes",-1,"NCH5475","Astrocytes",13
+"COL15A1","NCH5475__Astrocytes",1.94475946728448,"NCH5475","Astrocytes",13
+"CXCL12","NCH5475__Astrocytes",-1,"NCH5475","Astrocytes",13
+"LUM","NCH5475__Astrocytes",1.94475946728448,"NCH5475","Astrocytes",13
+"POSTN","NCH5475__Astrocytes",-1,"NCH5475","Astrocytes",13
+"MMP2","NCH5475__Astrocytes",-1,"NCH5475","Astrocytes",13
+"CTSK","NCH5475__Pericytes",3.9483590302971,"NCH5475","Pericytes",2
+"DPT","NCH5475__Pericytes",-1,"NCH5475","Pericytes",2
+"COL6A3","NCH5475__Pericytes",10.8437653965468,"NCH5475","Pericytes",2
+"THBS4","NCH5475__Pericytes",3.9483590302971,"NCH5475","Pericytes",2
+"THBS2","NCH5475__Pericytes",7.48983950820756,"NCH5475","Pericytes",2
+"AEBP1","NCH5475__Pericytes",8.94671508352769,"NCH5475","Pericytes",2
+"SULF1","NCH5475__Pericytes",9.90161268696829,"NCH5475","Pericytes",2
+"COL14A1","NCH5475__Pericytes",7.48983950820756,"NCH5475","Pericytes",2
+"COL15A1","NCH5475__Pericytes",8.15132525838903,"NCH5475","Pericytes",2
+"CXCL12","NCH5475__Pericytes",3.9483590302971,"NCH5475","Pericytes",2
+"LUM","NCH5475__Pericytes",-1,"NCH5475","Pericytes",2
+"POSTN","NCH5475__Pericytes",10.8081512994235,"NCH5475","Pericytes",2
+"MMP2","NCH5475__Pericytes",3.9483590302971,"NCH5475","Pericytes",2
+"CTSK","NCH5475__Stromal cells",5.98463406497041,"NCH5475","Stromal cells",1
+"DPT","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"COL6A3","NCH5475__Stromal cells",9.14439736933695,"NCH5475","Stromal cells",1
+"THBS4","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"THBS2","NCH5475__Stromal cells",7.56198201086201,"NCH5475","Stromal cells",1
+"AEBP1","NCH5475__Stromal cells",5.98463406497041,"NCH5475","Stromal cells",1
+"SULF1","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"COL14A1","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"COL15A1","NCH5475__Stromal cells",8.29741985939509,"NCH5475","Stromal cells",1
+"CXCL12","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"LUM","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"POSTN","NCH5475__Stromal cells",-1,"NCH5475","Stromal cells",1
+"MMP2","NCH5475__Stromal cells",6.9789269199436,"NCH5475","Stromal cells",1
+"CTSK","NCH5475__Endothelial cells",-1,"NCH5475","Endothelial cells",10
+"DPT","NCH5475__Endothelial cells",-1,"NCH5475","Endothelial cells",10
+"COL6A3","NCH5475__Endothelial cells",4.67787264928233,"NCH5475","Endothelial cells",10
+"THBS4","NCH5475__Endothelial cells",4.67787264928233,"NCH5475","Endothelial cells",10
+"THBS2","NCH5475__Endothelial cells",2.76003272027619,"NCH5475","Endothelial cells",10
+"AEBP1","NCH5475__Endothelial cells",4.27219854214315,"NCH5475","Endothelial cells",10
+"SULF1","NCH5475__Endothelial cells",4.99415339957896,"NCH5475","Endothelial cells",10
+"COL14A1","NCH5475__Endothelial cells",2.76003272027619,"NCH5475","Endothelial cells",10
+"COL15A1","NCH5475__Endothelial cells",6.5639473385574,"NCH5475","Endothelial cells",10
+"CXCL12","NCH5475__Endothelial cells",6.82571046915867,"NCH5475","Endothelial cells",10
+"LUM","NCH5475__Endothelial cells",2.76003272027619,"NCH5475","Endothelial cells",10
+"POSTN","NCH5475__Endothelial cells",2.76003272027619,"NCH5475","Endothelial cells",10
+"MMP2","NCH5475__Endothelial cells",5.47309893323694,"NCH5475","Endothelial cells",10
+"CTSK","NCH5597__Tumor cells (prol.)",3.45562423141545,"NCH5597","Tumor cells (prol.)",59
+"DPT","NCH5597__Tumor cells (prol.)",0.319536053277275,"NCH5597","Tumor cells (prol.)",59
+"COL6A3","NCH5597__Tumor cells (prol.)",4.20557237777213,"NCH5597","Tumor cells (prol.)",59
+"THBS4","NCH5597__Tumor cells (prol.)",1.35434225911053,"NCH5597","Tumor cells (prol.)",59
+"THBS2","NCH5597__Tumor cells (prol.)",2.85426750671307,"NCH5597","Tumor cells (prol.)",59
+"AEBP1","NCH5597__Tumor cells (prol.)",0.319536053277275,"NCH5597","Tumor cells (prol.)",59
+"SULF1","NCH5597__Tumor cells (prol.)",6.18339053694948,"NCH5597","Tumor cells (prol.)",59
+"COL14A1","NCH5597__Tumor cells (prol.)",2.81647278621768,"NCH5597","Tumor cells (prol.)",59
+"COL15A1","NCH5597__Tumor cells (prol.)",2.61104694354528,"NCH5597","Tumor cells (prol.)",59
+"CXCL12","NCH5597__Tumor cells (prol.)",-0.541655181363957,"NCH5597","Tumor cells (prol.)",59
+"LUM","NCH5597__Tumor cells (prol.)",0.0853524222398718,"NCH5597","Tumor cells (prol.)",59
+"POSTN","NCH5597__Tumor cells (prol.)",-1,"NCH5597","Tumor cells (prol.)",59
+"MMP2","NCH5597__Tumor cells (prol.)",0.520961723273465,"NCH5597","Tumor cells (prol.)",59
+"CTSK","NCH5597__Tumor cells",4.0792719222987,"NCH5597","Tumor cells",102
+"DPT","NCH5597__Tumor cells",-1,"NCH5597","Tumor cells",102
+"COL6A3","NCH5597__Tumor cells",4.4455930255988,"NCH5597","Tumor cells",102
+"THBS4","NCH5597__Tumor cells",1.79353664331984,"NCH5597","Tumor cells",102
+"THBS2","NCH5597__Tumor cells",2.96889026857875,"NCH5597","Tumor cells",102
+"AEBP1","NCH5597__Tumor cells",1.05002962138465,"NCH5597","Tumor cells",102
+"SULF1","NCH5597__Tumor cells",7.71002202728987,"NCH5597","Tumor cells",102
+"COL14A1","NCH5597__Tumor cells",3.12132677076433,"NCH5597","Tumor cells",102
+"COL15A1","NCH5597__Tumor cells",1.99644688712769,"NCH5597","Tumor cells",102
+"CXCL12","NCH5597__Tumor cells",-1,"NCH5597","Tumor cells",102
+"LUM","NCH5597__Tumor cells",0.629518183672084,"NCH5597","Tumor cells",102
+"POSTN","NCH5597__Tumor cells",0.0335451008842067,"NCH5597","Tumor cells",102
+"MMP2","NCH5597__Tumor cells",0.260666636486331,"NCH5597","Tumor cells",102
+"CTSK","NCH5597__Stromal cells",5.18610981044423,"NCH5597","Stromal cells",29
+"DPT","NCH5597__Stromal cells",1.04344001280792,"NCH5597","Stromal cells",29
+"COL6A3","NCH5597__Stromal cells",11.2089554344379,"NCH5597","Stromal cells",29
+"THBS4","NCH5597__Stromal cells",3.69922862890458,"NCH5597","Stromal cells",29
+"THBS2","NCH5597__Stromal cells",8.87775059825575,"NCH5597","Stromal cells",29
+"AEBP1","NCH5597__Stromal cells",7.04893396761764,"NCH5597","Stromal cells",29
+"SULF1","NCH5597__Stromal cells",10.3676565624626,"NCH5597","Stromal cells",29
+"COL14A1","NCH5597__Stromal cells",4.91464069601277,"NCH5597","Stromal cells",29
+"COL15A1","NCH5597__Stromal cells",5.41449697389191,"NCH5597","Stromal cells",29
+"CXCL12","NCH5597__Stromal cells",5.05675108205632,"NCH5597","Stromal cells",29
+"LUM","NCH5597__Stromal cells",7.65740135626815,"NCH5597","Stromal cells",29
+"POSTN","NCH5597__Stromal cells",9.3179195884228,"NCH5597","Stromal cells",29
+"MMP2","NCH5597__Stromal cells",5.24668453970445,"NCH5597","Stromal cells",29
+"CTSK","NCH5597__Pericytes",3.94732377009866,"NCH5597","Pericytes",23
+"DPT","NCH5597__Pericytes",-1,"NCH5597","Pericytes",23
+"COL6A3","NCH5597__Pericytes",5.83006234578444,"NCH5597","Pericytes",23
+"THBS4","NCH5597__Pericytes",3.59805242915292,"NCH5597","Pericytes",23
+"THBS2","NCH5597__Pericytes",5.27221312122614,"NCH5597","Pericytes",23
+"AEBP1","NCH5597__Pericytes",6.57036391371842,"NCH5597","Pericytes",23
+"SULF1","NCH5597__Pericytes",5.44693550984152,"NCH5597","Pericytes",23
+"COL14A1","NCH5597__Pericytes",6.59532401879732,"NCH5597","Pericytes",23
+"COL15A1","NCH5597__Pericytes",4.9237518594836,"NCH5597","Pericytes",23
+"CXCL12","NCH5597__Pericytes",2.45297652919662,"NCH5597","Pericytes",23
+"LUM","NCH5597__Pericytes",4.84268699488711,"NCH5597","Pericytes",23
+"POSTN","NCH5597__Pericytes",3.94732377009866,"NCH5597","Pericytes",23
+"MMP2","NCH5597__Pericytes",-1,"NCH5597","Pericytes",23
+"CTSK","NCH5597__Endothelial cells",4.35543834875417,"NCH5597","Endothelial cells",16
+"DPT","NCH5597__Endothelial cells",-1,"NCH5597","Endothelial cells",16
+"COL6A3","NCH5597__Endothelial cells",3.17928272794091,"NCH5597","Endothelial cells",16
+"THBS4","NCH5597__Endothelial cells",3.17928272794091,"NCH5597","Endothelial cells",16
+"THBS2","NCH5597__Endothelial cells",-1,"NCH5597","Endothelial cells",16
+"AEBP1","NCH5597__Endothelial cells",3.88403881619588,"NCH5597","Endothelial cells",16
+"SULF1","NCH5597__Endothelial cells",4.99464351512912,"NCH5597","Endothelial cells",16
+"COL14A1","NCH5597__Endothelial cells",3.57427371174591,"NCH5597","Endothelial cells",16
+"COL15A1","NCH5597__Endothelial cells",6.80427769090858,"NCH5597","Endothelial cells",16
+"CXCL12","NCH5597__Endothelial cells",6.1078663154668,"NCH5597","Endothelial cells",16
+"LUM","NCH5597__Endothelial cells",2.63359647630894,"NCH5597","Endothelial cells",16
+"POSTN","NCH5597__Endothelial cells",-1,"NCH5597","Endothelial cells",16
+"MMP2","NCH5597__Endothelial cells",6.16634158056387,"NCH5597","Endothelial cells",16
+"CTSK","NCH5597__Astrocytes",3.99835740552534,"NCH5597","Astrocytes",5
+"DPT","NCH5597__Astrocytes",-1,"NCH5597","Astrocytes",5
+"COL6A3","NCH5597__Astrocytes",5.29294674904472,"NCH5597","Astrocytes",5
+"THBS4","NCH5597__Astrocytes",4.97561124101279,"NCH5597","Astrocytes",5
+"THBS2","NCH5597__Astrocytes",3.99835740552534,"NCH5597","Astrocytes",5
+"AEBP1","NCH5597__Astrocytes",5.77310694112424,"NCH5597","Astrocytes",5
+"SULF1","NCH5597__Astrocytes",6.66009086352232,"NCH5597","Astrocytes",5
+"COL14A1","NCH5597__Astrocytes",4.56819571343755,"NCH5597","Astrocytes",5
+"COL15A1","NCH5597__Astrocytes",4.56819571343755,"NCH5597","Astrocytes",5
+"CXCL12","NCH5597__Astrocytes",-1,"NCH5597","Astrocytes",5
+"LUM","NCH5597__Astrocytes",-1,"NCH5597","Astrocytes",5
+"POSTN","NCH5597__Astrocytes",-1,"NCH5597","Astrocytes",5
+"MMP2","NCH5597__Astrocytes",3.0428013279613,"NCH5597","Astrocytes",5
+"CTSK","NCH5474__Tumor cells",1.4215696786166,"NCH5474","Tumor cells",2785
+"DPT","NCH5474__Tumor cells",-0.84338074547784,"NCH5474","Tumor cells",2785
+"COL6A3","NCH5474__Tumor cells",4.13322686093156,"NCH5474","Tumor cells",2785
+"THBS4","NCH5474__Tumor cells",3.20996738731975,"NCH5474","Tumor cells",2785
+"THBS2","NCH5474__Tumor cells",1.89173650909371,"NCH5474","Tumor cells",2785
+"AEBP1","NCH5474__Tumor cells",2.64006562718298,"NCH5474","Tumor cells",2785
+"SULF1","NCH5474__Tumor cells",5.67441414574824,"NCH5474","Tumor cells",2785
+"COL14A1","NCH5474__Tumor cells",3.77878726757454,"NCH5474","Tumor cells",2785
+"COL15A1","NCH5474__Tumor cells",-0.346151171192727,"NCH5474","Tumor cells",2785
+"CXCL12","NCH5474__Tumor cells",0.0498203518888037,"NCH5474","Tumor cells",2785
+"LUM","NCH5474__Tumor cells",-0.455328647735605,"NCH5474","Tumor cells",2785
+"POSTN","NCH5474__Tumor cells",-0.31152059415782,"NCH5474","Tumor cells",2785
+"MMP2","NCH5474__Tumor cells",0.271597813638621,"NCH5474","Tumor cells",2785
+"CTSK","NCH5474__Tumor cells (prol.)",0.805906544098762,"NCH5474","Tumor cells (prol.)",192
+"DPT","NCH5474__Tumor cells (prol.)",-1,"NCH5474","Tumor cells (prol.)",192
+"COL6A3","NCH5474__Tumor cells (prol.)",3.77565343471109,"NCH5474","Tumor cells (prol.)",192
+"THBS4","NCH5474__Tumor cells (prol.)",3.20753493102278,"NCH5474","Tumor cells (prol.)",192
+"THBS2","NCH5474__Tumor cells (prol.)",2.02375617859953,"NCH5474","Tumor cells (prol.)",192
+"AEBP1","NCH5474__Tumor cells (prol.)",2.3097624160487,"NCH5474","Tumor cells (prol.)",192
+"SULF1","NCH5474__Tumor cells (prol.)",3.88417252983573,"NCH5474","Tumor cells (prol.)",192
+"COL14A1","NCH5474__Tumor cells (prol.)",3.46217192068574,"NCH5474","Tumor cells (prol.)",192
+"COL15A1","NCH5474__Tumor cells (prol.)",-1,"NCH5474","Tumor cells (prol.)",192
+"CXCL12","NCH5474__Tumor cells (prol.)",0.0495773929087078,"NCH5474","Tumor cells (prol.)",192
+"LUM","NCH5474__Tumor cells (prol.)",-1,"NCH5474","Tumor cells (prol.)",192
+"POSTN","NCH5474__Tumor cells (prol.)",-0.223237131757749,"NCH5474","Tumor cells (prol.)",192
+"MMP2","NCH5474__Tumor cells (prol.)",0.278915243027186,"NCH5474","Tumor cells (prol.)",192
+"CTSK","NCH5474__Endothelial cells",2.02179445855957,"NCH5474","Endothelial cells",25
+"DPT","NCH5474__Endothelial cells",-1,"NCH5474","Endothelial cells",25
+"COL6A3","NCH5474__Endothelial cells",4.8573384272932,"NCH5474","Endothelial cells",25
+"THBS4","NCH5474__Endothelial cells",-1,"NCH5474","Endothelial cells",25
+"THBS2","NCH5474__Endothelial cells",2.02179445855957,"NCH5474","Endothelial cells",25
+"AEBP1","NCH5474__Endothelial cells",3.88201137489234,"NCH5474","Endothelial cells",25
+"SULF1","NCH5474__Endothelial cells",3.48319116213812,"NCH5474","Endothelial cells",25
+"COL14A1","NCH5474__Endothelial cells",4.8573384272932,"NCH5474","Endothelial cells",25
+"COL15A1","NCH5474__Endothelial cells",5.65398867623688,"NCH5474","Endothelial cells",25
+"CXCL12","NCH5474__Endothelial cells",7.32858393162137,"NCH5474","Endothelial cells",25
+"LUM","NCH5474__Endothelial cells",-1,"NCH5474","Endothelial cells",25
+"POSTN","NCH5474__Endothelial cells",-1,"NCH5474","Endothelial cells",25
+"MMP2","NCH5474__Endothelial cells",2.93012637811768,"NCH5474","Endothelial cells",25
+"CTSK","NCH5474__Pericytes",3.83911129066361,"NCH5474","Pericytes",8
+"DPT","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"COL6A3","NCH5474__Pericytes",5.39007425309247,"NCH5474","Pericytes",8
+"THBS4","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"THBS2","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"AEBP1","NCH5474__Pericytes",6.38144768012344,"NCH5474","Pericytes",8
+"SULF1","NCH5474__Pericytes",7.11494815000718,"NCH5474","Pericytes",8
+"COL14A1","NCH5474__Pericytes",8.95918175613489,"NCH5474","Pericytes",8
+"COL15A1","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"CXCL12","NCH5474__Pericytes",3.83911129066361,"NCH5474","Pericytes",8
+"LUM","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"POSTN","NCH5474__Pericytes",-1,"NCH5474","Pericytes",8
+"MMP2","NCH5474__Pericytes",4.81368704933124,"NCH5474","Pericytes",8
+"CTSK","NCH5474__Astrocytes",3.3633007030074,"NCH5474","Astrocytes",20
+"DPT","NCH5474__Astrocytes",-1,"NCH5474","Astrocytes",20
+"COL6A3","NCH5474__Astrocytes",4.17980276628705,"NCH5474","Astrocytes",20
+"THBS4","NCH5474__Astrocytes",4.90075929789091,"NCH5474","Astrocytes",20
+"THBS2","NCH5474__Astrocytes",2.67232457784837,"NCH5474","Astrocytes",20
+"AEBP1","NCH5474__Astrocytes",4.32782021765185,"NCH5474","Astrocytes",20
+"SULF1","NCH5474__Astrocytes",6.18889227695507,"NCH5474","Astrocytes",20
+"COL14A1","NCH5474__Astrocytes",2.67232457784837,"NCH5474","Astrocytes",20
+"COL15A1","NCH5474__Astrocytes",1.29759344786196,"NCH5474","Astrocytes",20
+"CXCL12","NCH5474__Astrocytes",-1,"NCH5474","Astrocytes",20
+"LUM","NCH5474__Astrocytes",-1,"NCH5474","Astrocytes",20
+"POSTN","NCH5474__Astrocytes",-1,"NCH5474","Astrocytes",20
+"MMP2","NCH5474__Astrocytes",2.14286099226644,"NCH5474","Astrocytes",20
+"CTSK","NCH5474__Stromal cells",3.5571147270427,"NCH5474","Stromal cells",12
+"DPT","NCH5474__Stromal cells",-1,"NCH5474","Stromal cells",12
+"COL6A3","NCH5474__Stromal cells",9.48418338070277,"NCH5474","Stromal cells",12
+"THBS4","NCH5474__Stromal cells",-1,"NCH5474","Stromal cells",12
+"THBS2","NCH5474__Stromal cells",7.19984574702054,"NCH5474","Stromal cells",12
+"AEBP1","NCH5474__Stromal cells",7.19984574702054,"NCH5474","Stromal cells",12
+"SULF1","NCH5474__Stromal cells",8.32962510507675,"NCH5474","Stromal cells",12
+"COL14A1","NCH5474__Stromal cells",6.74914008201768,"NCH5474","Stromal cells",12
+"COL15A1","NCH5474__Stromal cells",7.70739995661198,"NCH5474","Stromal cells",12
+"CXCL12","NCH5474__Stromal cells",4.84179578418694,"NCH5474","Stromal cells",12
+"LUM","NCH5474__Stromal cells",6.5024693594702,"NCH5474","Stromal cells",12
+"POSTN","NCH5474__Stromal cells",-1,"NCH5474","Stromal cells",12
+"MMP2","NCH5474__Stromal cells",5.96551291185635,"NCH5474","Stromal cells",12
+"CTSK","NCH6248__Stromal cells",2.90863419002394,"NCH6248","Stromal cells",31
+"DPT","NCH6248__Stromal cells",4.35937452731269,"NCH6248","Stromal cells",31
+"COL6A3","NCH6248__Stromal cells",11.2875588737133,"NCH6248","Stromal cells",31
+"THBS4","NCH6248__Stromal cells",3.08922107879493,"NCH6248","Stromal cells",31
+"THBS2","NCH6248__Stromal cells",8.10252699482674,"NCH6248","Stromal cells",31
+"AEBP1","NCH6248__Stromal cells",8.69709409584327,"NCH6248","Stromal cells",31
+"SULF1","NCH6248__Stromal cells",8.73148660094956,"NCH6248","Stromal cells",31
+"COL14A1","NCH6248__Stromal cells",4.13109773373844,"NCH6248","Stromal cells",31
+"COL15A1","NCH6248__Stromal cells",4.21127096568812,"NCH6248","Stromal cells",31
+"CXCL12","NCH6248__Stromal cells",4.35937452731269,"NCH6248","Stromal cells",31
+"LUM","NCH6248__Stromal cells",4.9791183469736,"NCH6248","Stromal cells",31
+"POSTN","NCH6248__Stromal cells",8.23308613074875,"NCH6248","Stromal cells",31
+"MMP2","NCH6248__Stromal cells",5.7700352539112,"NCH6248","Stromal cells",31
+"CTSK","NCH6248__Tumor cells",3.18112257851293,"NCH6248","Tumor cells",346
+"DPT","NCH6248__Tumor cells",-0.216170565645246,"NCH6248","Tumor cells",346
+"COL6A3","NCH6248__Tumor cells",8.46408878708223,"NCH6248","Tumor cells",346
+"THBS4","NCH6248__Tumor cells",2.98137261985709,"NCH6248","Tumor cells",346
+"THBS2","NCH6248__Tumor cells",2.37601701475359,"NCH6248","Tumor cells",346
+"AEBP1","NCH6248__Tumor cells",5.24556861941083,"NCH6248","Tumor cells",346
+"SULF1","NCH6248__Tumor cells",5.7402356386796,"NCH6248","Tumor cells",346
+"COL14A1","NCH6248__Tumor cells",2.27207363232464,"NCH6248","Tumor cells",346
+"COL15A1","NCH6248__Tumor cells",-0.555494694911972,"NCH6248","Tumor cells",346
+"CXCL12","NCH6248__Tumor cells",3.25114116740493,"NCH6248","Tumor cells",346
+"LUM","NCH6248__Tumor cells",-0.760695203888471,"NCH6248","Tumor cells",346
+"POSTN","NCH6248__Tumor cells",0.058345744420693,"NCH6248","Tumor cells",346
+"MMP2","NCH6248__Tumor cells",4.05727015851318,"NCH6248","Tumor cells",346
+"CTSK","NCH6248__Tumor cells (prol.)",3.64930391037897,"NCH6248","Tumor cells (prol.)",44
+"DPT","NCH6248__Tumor cells (prol.)",-1,"NCH6248","Tumor cells (prol.)",44
+"COL6A3","NCH6248__Tumor cells (prol.)",9.17965873523774,"NCH6248","Tumor cells (prol.)",44
+"THBS4","NCH6248__Tumor cells (prol.)",3.3629499916086,"NCH6248","Tumor cells (prol.)",44
+"THBS2","NCH6248__Tumor cells (prol.)",0.704370429975468,"NCH6248","Tumor cells (prol.)",44
+"AEBP1","NCH6248__Tumor cells (prol.)",5.02239508688918,"NCH6248","Tumor cells (prol.)",44
+"SULF1","NCH6248__Tumor cells (prol.)",4.68504385854151,"NCH6248","Tumor cells (prol.)",44
+"COL14A1","NCH6248__Tumor cells (prol.)",2.93604020084462,"NCH6248","Tumor cells (prol.)",44
+"COL15A1","NCH6248__Tumor cells (prol.)",-0.190210517619204,"NCH6248","Tumor cells (prol.)",44
+"CXCL12","NCH6248__Tumor cells (prol.)",4.06078636922879,"NCH6248","Tumor cells (prol.)",44
+"LUM","NCH6248__Tumor cells (prol.)",-1,"NCH6248","Tumor cells (prol.)",44
+"POSTN","NCH6248__Tumor cells (prol.)",1.46407585617004,"NCH6248","Tumor cells (prol.)",44
+"MMP2","NCH6248__Tumor cells (prol.)",3.13463363699509,"NCH6248","Tumor cells (prol.)",44
+"CTSK","NCH6248__Pericytes",3.18694655720389,"NCH6248","Pericytes",14
+"DPT","NCH6248__Pericytes",-1,"NCH6248","Pericytes",14
+"COL6A3","NCH6248__Pericytes",7.83655911817888,"NCH6248","Pericytes",14
+"THBS4","NCH6248__Pericytes",2.26405818706069,"NCH6248","Pericytes",14
+"THBS2","NCH6248__Pericytes",4.14678796415966,"NCH6248","Pericytes",14
+"AEBP1","NCH6248__Pericytes",6.9692289684526,"NCH6248","Pericytes",14
+"SULF1","NCH6248__Pericytes",6.43576440300062,"NCH6248","Pericytes",14
+"COL14A1","NCH6248__Pericytes",7.01794665557405,"NCH6248","Pericytes",14
+"COL15A1","NCH6248__Pericytes",2.26405818706069,"NCH6248","Pericytes",14
+"CXCL12","NCH6248__Pericytes",3.18694655720389,"NCH6248","Pericytes",14
+"LUM","NCH6248__Pericytes",4.9365838606472,"NCH6248","Pericytes",14
+"POSTN","NCH6248__Pericytes",-1,"NCH6248","Pericytes",14
+"MMP2","NCH6248__Pericytes",2.26405818706069,"NCH6248","Pericytes",14
+"CTSK","NCH6248__Astrocytes",4.3665283141306,"NCH6248","Astrocytes",11
+"DPT","NCH6248__Astrocytes",-1,"NCH6248","Astrocytes",11
+"COL6A3","NCH6248__Astrocytes",8.31828289143662,"NCH6248","Astrocytes",11
+"THBS4","NCH6248__Astrocytes",5.22501402408574,"NCH6248","Astrocytes",11
+"THBS2","NCH6248__Astrocytes",1.94660278003072,"NCH6248","Astrocytes",11
+"AEBP1","NCH6248__Astrocytes",5.75954267761695,"NCH6248","Astrocytes",11
+"SULF1","NCH6248__Astrocytes",8.17492852103529,"NCH6248","Astrocytes",11
+"COL14A1","NCH6248__Astrocytes",4.3665283141306,"NCH6248","Astrocytes",11
+"COL15A1","NCH6248__Astrocytes",-1,"NCH6248","Astrocytes",11
+"CXCL12","NCH6248__Astrocytes",2.8498622968191,"NCH6248","Astrocytes",11
+"LUM","NCH6248__Astrocytes",-1,"NCH6248","Astrocytes",11
+"POSTN","NCH6248__Astrocytes",-1,"NCH6248","Astrocytes",11
+"MMP2","NCH6248__Astrocytes",1.94660278003072,"NCH6248","Astrocytes",11
+"CTSK","NCH6248__Endothelial cells",2.96237856039498,"NCH6248","Endothelial cells",16
+"DPT","NCH6248__Endothelial cells",-1,"NCH6248","Endothelial cells",16
+"COL6A3","NCH6248__Endothelial cells",10.8642923247342,"NCH6248","Endothelial cells",16
+"THBS4","NCH6248__Endothelial cells",-1,"NCH6248","Endothelial cells",16
+"THBS2","NCH6248__Endothelial cells",-1,"NCH6248","Endothelial cells",16
+"AEBP1","NCH6248__Endothelial cells",7.62527146739029,"NCH6248","Endothelial cells",16
+"SULF1","NCH6248__Endothelial cells",4.4842823350971,"NCH6248","Endothelial cells",16
+"COL14A1","NCH6248__Endothelial cells",2.96237856039498,"NCH6248","Endothelial cells",16
+"COL15A1","NCH6248__Endothelial cells",6.57475286635294,"NCH6248","Endothelial cells",16
+"CXCL12","NCH6248__Endothelial cells",8.1911241837297,"NCH6248","Endothelial cells",16
+"LUM","NCH6248__Endothelial cells",-1,"NCH6248","Endothelial cells",16
+"POSTN","NCH6248__Endothelial cells",-1,"NCH6248","Endothelial cells",16
+"MMP2","NCH6248__Endothelial cells",5.34402721925133,"NCH6248","Endothelial cells",16
+"CTSK","NCH767__Pericytes",2.94850494598866,"NCH767","Pericytes",34
+"DPT","NCH767__Pericytes",-1,"NCH767","Pericytes",34
+"COL6A3","NCH767__Pericytes",4.11648696890574,"NCH767","Pericytes",34
+"THBS4","NCH767__Pericytes",3.64759980390546,"NCH767","Pericytes",34
+"THBS2","NCH767__Pericytes",2.40952433028953,"NCH767","Pericytes",34
+"AEBP1","NCH767__Pericytes",4.75336127183354,"NCH767","Pericytes",34
+"SULF1","NCH767__Pericytes",2.40952433028953,"NCH767","Pericytes",34
+"COL14A1","NCH767__Pericytes",5.86433213332483,"NCH767","Pericytes",34
+"COL15A1","NCH767__Pericytes",-1,"NCH767","Pericytes",34
+"CXCL12","NCH767__Pericytes",2.40952433028953,"NCH767","Pericytes",34
+"LUM","NCH767__Pericytes",3.33998998408241,"NCH767","Pericytes",34
+"POSTN","NCH767__Pericytes",3.90100913184453,"NCH767","Pericytes",34
+"MMP2","NCH767__Pericytes",3.64759980390546,"NCH767","Pericytes",34
+"CTSK","NCH767__Tumor cells",3.0023664898202,"NCH767","Tumor cells",233
+"DPT","NCH767__Tumor cells",-1,"NCH767","Tumor cells",233
+"COL6A3","NCH767__Tumor cells",3.0023664898202,"NCH767","Tumor cells",233
+"THBS4","NCH767__Tumor cells",3.46910967618617,"NCH767","Tumor cells",233
+"THBS2","NCH767__Tumor cells",1.11741923839721,"NCH767","Tumor cells",233
+"AEBP1","NCH767__Tumor cells",0.416615590393024,"NCH767","Tumor cells",233
+"SULF1","NCH767__Tumor cells",5.10635804765178,"NCH767","Tumor cells",233
+"COL14A1","NCH767__Tumor cells",1.11741923839721,"NCH767","Tumor cells",233
+"COL15A1","NCH767__Tumor cells",-1,"NCH767","Tumor cells",233
+"CXCL12","NCH767__Tumor cells",0.919394238488079,"NCH767","Tumor cells",233
+"LUM","NCH767__Tumor cells",1.71485741619314,"NCH767","Tumor cells",233
+"POSTN","NCH767__Tumor cells",0.919394238488079,"NCH767","Tumor cells",233
+"MMP2","NCH767__Tumor cells",0.416615590393024,"NCH767","Tumor cells",233
+"CTSK","NCH767__Endothelial cells",-1,"NCH767","Endothelial cells",30
+"DPT","NCH767__Endothelial cells",-1,"NCH767","Endothelial cells",30
+"COL6A3","NCH767__Endothelial cells",4.21543256425398,"NCH767","Endothelial cells",30
+"THBS4","NCH767__Endothelial cells",1.62405621064238,"NCH767","Endothelial cells",30
+"THBS2","NCH767__Endothelial cells",1.62405621064238,"NCH767","Endothelial cells",30
+"AEBP1","NCH767__Endothelial cells",5.47251626715658,"NCH767","Endothelial cells",30
+"SULF1","NCH767__Endothelial cells",6.13391121735345,"NCH767","Endothelial cells",30
+"COL14A1","NCH767__Endothelial cells",-1,"NCH767","Endothelial cells",30
+"COL15A1","NCH767__Endothelial cells",8.44759825224643,"NCH767","Endothelial cells",30
+"CXCL12","NCH767__Endothelial cells",8.30174014061623,"NCH767","Endothelial cells",30
+"LUM","NCH767__Endothelial cells",-1,"NCH767","Endothelial cells",30
+"POSTN","NCH767__Endothelial cells",3.74545491872877,"NCH767","Endothelial cells",30
+"MMP2","NCH767__Endothelial cells",5.9652696397455,"NCH767","Endothelial cells",30
+"CTSK","NCH767__Tumor cells (prol.)",2.96747310775857,"NCH767","Tumor cells (prol.)",47
+"DPT","NCH767__Tumor cells (prol.)",-1,"NCH767","Tumor cells (prol.)",47
+"COL6A3","NCH767__Tumor cells (prol.)",1.90845438847167,"NCH767","Tumor cells (prol.)",47
+"THBS4","NCH767__Tumor cells (prol.)",3.66706908337716,"NCH767","Tumor cells (prol.)",47
+"THBS2","NCH767__Tumor cells (prol.)",1.08884274643688,"NCH767","Tumor cells (prol.)",47
+"AEBP1","NCH767__Tumor cells (prol.)",0.393434590619064,"NCH767","Tumor cells (prol.)",47
+"SULF1","NCH767__Tumor cells (prol.)",3.99610109396305,"NCH767","Tumor cells (prol.)",47
+"COL14A1","NCH767__Tumor cells (prol.)",1.08884274643688,"NCH767","Tumor cells (prol.)",47
+"COL15A1","NCH767__Tumor cells (prol.)",0.393434590619064,"NCH767","Tumor cells (prol.)",47
+"CXCL12","NCH767__Tumor cells (prol.)",1.08884274643688,"NCH767","Tumor cells (prol.)",47
+"LUM","NCH767__Tumor cells (prol.)",-1,"NCH767","Tumor cells (prol.)",47
+"POSTN","NCH767__Tumor cells (prol.)",0.393434590619064,"NCH767","Tumor cells (prol.)",47
+"MMP2","NCH767__Tumor cells (prol.)",1.55608613468255,"NCH767","Tumor cells (prol.)",47
+"CTSK","NCH767__Stromal cells",5.85346101933858,"NCH767","Stromal cells",21
+"DPT","NCH767__Stromal cells",3.40803813923479,"NCH767","Stromal cells",21
+"COL6A3","NCH767__Stromal cells",10.9086612664606,"NCH767","Stromal cells",21
+"THBS4","NCH767__Stromal cells",1.95295993298883,"NCH767","Stromal cells",21
+"THBS2","NCH767__Stromal cells",8.81035800110154,"NCH767","Stromal cells",21
+"AEBP1","NCH767__Stromal cells",8.21532861074082,"NCH767","Stromal cells",21
+"SULF1","NCH767__Stromal cells",11.0598675000923,"NCH767","Stromal cells",21
+"COL14A1","NCH767__Stromal cells",6.61880740989686,"NCH767","Stromal cells",21
+"COL15A1","NCH767__Stromal cells",5.35614969108427,"NCH767","Stromal cells",21
+"CXCL12","NCH767__Stromal cells",6.08605365027226,"NCH767","Stromal cells",21
+"LUM","NCH767__Stromal cells",8.00420767791828,"NCH767","Stromal cells",21
+"POSTN","NCH767__Stromal cells",9.83107562867366,"NCH767","Stromal cells",21
+"MMP2","NCH767__Stromal cells",6.66747232920677,"NCH767","Stromal cells",21
+"CTSK","NCH767__Astrocytes",-1,"NCH767","Astrocytes",10
+"DPT","NCH767__Astrocytes",-1,"NCH767","Astrocytes",10
+"COL6A3","NCH767__Astrocytes",3.09440107800713,"NCH767","Astrocytes",10
+"THBS4","NCH767__Astrocytes",6.71469472538711,"NCH767","Astrocytes",10
+"THBS2","NCH767__Astrocytes",5.6072078172943,"NCH767","Astrocytes",10
+"AEBP1","NCH767__Astrocytes",4.05154208570992,"NCH767","Astrocytes",10
+"SULF1","NCH767__Astrocytes",7.14177092701924,"NCH767","Astrocytes",10
+"COL14A1","NCH767__Astrocytes",6.92022960043538,"NCH767","Astrocytes",10
+"COL15A1","NCH767__Astrocytes",2.17647865473727,"NCH767","Astrocytes",10
+"CXCL12","NCH767__Astrocytes",-1,"NCH767","Astrocytes",10
+"LUM","NCH767__Astrocytes",2.17647865473727,"NCH767","Astrocytes",10
+"POSTN","NCH767__Astrocytes",-1,"NCH767","Astrocytes",10
+"MMP2","NCH767__Astrocytes",-1,"NCH767","Astrocytes",10
+"CTSK","NCH576b__Tumor cells (prol.)",3.65213369079382,"NCH576b","Tumor cells (prol.)",122
+"DPT","NCH576b__Tumor cells (prol.)",-1,"NCH576b","Tumor cells (prol.)",122
+"COL6A3","NCH576b__Tumor cells (prol.)",2.8183047103756,"NCH576b","Tumor cells (prol.)",122
+"THBS4","NCH576b__Tumor cells (prol.)",2.95292154647608,"NCH576b","Tumor cells (prol.)",122
+"THBS2","NCH576b__Tumor cells (prol.)",1.15352049451428,"NCH576b","Tumor cells (prol.)",122
+"AEBP1","NCH576b__Tumor cells (prol.)",0.250748546068228,"NCH576b","Tumor cells (prol.)",122
+"SULF1","NCH576b__Tumor cells (prol.)",9.58612549805619,"NCH576b","Tumor cells (prol.)",122
+"COL14A1","NCH576b__Tumor cells (prol.)",-0.243126751803749,"NCH576b","Tumor cells (prol.)",122
+"COL15A1","NCH576b__Tumor cells (prol.)",-0.243126751803749,"NCH576b","Tumor cells (prol.)",122
+"CXCL12","NCH576b__Tumor cells (prol.)",1.54319149663869,"NCH576b","Tumor cells (prol.)",122
+"LUM","NCH576b__Tumor cells (prol.)",-1,"NCH576b","Tumor cells (prol.)",122
+"POSTN","NCH576b__Tumor cells (prol.)",0.617990930124689,"NCH576b","Tumor cells (prol.)",122
+"MMP2","NCH576b__Tumor cells (prol.)",0.617990930124689,"NCH576b","Tumor cells (prol.)",122
+"CTSK","NCH576b__Tumor cells",3.38697277332383,"NCH576b","Tumor cells",953
+"DPT","NCH576b__Tumor cells",-1,"NCH576b","Tumor cells",953
+"COL6A3","NCH576b__Tumor cells",2.77490694951503,"NCH576b","Tumor cells",953
+"THBS4","NCH576b__Tumor cells",3.38697277332383,"NCH576b","Tumor cells",953
+"THBS2","NCH576b__Tumor cells",1.36470938403219,"NCH576b","Tumor cells",953
+"AEBP1","NCH576b__Tumor cells",0.70182517020492,"NCH576b","Tumor cells",953
+"SULF1","NCH576b__Tumor cells",10.344842271208,"NCH576b","Tumor cells",953
+"COL14A1","NCH576b__Tumor cells",1.42965872765949,"NCH576b","Tumor cells",953
+"COL15A1","NCH576b__Tumor cells",-0.838324598436167,"NCH576b","Tumor cells",953
+"CXCL12","NCH576b__Tumor cells",1.02970741601164,"NCH576b","Tumor cells",953
+"LUM","NCH576b__Tumor cells",0.803348292356796,"NCH576b","Tumor cells",953
+"POSTN","NCH576b__Tumor cells",2.23566016119039,"NCH576b","Tumor cells",953
+"MMP2","NCH576b__Tumor cells",0.803348292356796,"NCH576b","Tumor cells",953
+"CTSK","NCH576b__Pericytes",4.95327128256344,"NCH576b","Pericytes",77
+"DPT","NCH576b__Pericytes",-1,"NCH576b","Pericytes",77
+"COL6A3","NCH576b__Pericytes",7.80748985734249,"NCH576b","Pericytes",77
+"THBS4","NCH576b__Pericytes",2.32641504230027,"NCH576b","Pericytes",77
+"THBS2","NCH576b__Pericytes",5.77312330915327,"NCH576b","Pericytes",77
+"AEBP1","NCH576b__Pericytes",7.53635264850972,"NCH576b","Pericytes",77
+"SULF1","NCH576b__Pericytes",8.43908437199123,"NCH576b","Pericytes",77
+"COL14A1","NCH576b__Pericytes",7.95917091482307,"NCH576b","Pericytes",77
+"COL15A1","NCH576b__Pericytes",2.86262241624192,"NCH576b","Pericytes",77
+"CXCL12","NCH576b__Pericytes",1.46351123790073,"NCH576b","Pericytes",77
+"LUM","NCH576b__Pericytes",6.16229671334997,"NCH576b","Pericytes",77
+"POSTN","NCH576b__Pericytes",2.6192882167369,"NCH576b","Pericytes",77
+"MMP2","NCH576b__Pericytes",4.12378250715023,"NCH576b","Pericytes",77
+"CTSK","NCH576b__Stromal cells",5.87389868167745,"NCH576b","Stromal cells",116
+"DPT","NCH576b__Stromal cells",-1,"NCH576b","Stromal cells",116
+"COL6A3","NCH576b__Stromal cells",10.7405583345412,"NCH576b","Stromal cells",116
+"THBS4","NCH576b__Stromal cells",2.46455863555665,"NCH576b","Stromal cells",116
+"THBS2","NCH576b__Stromal cells",9.7802853158387,"NCH576b","Stromal cells",116
+"AEBP1","NCH576b__Stromal cells",8.47764462885816,"NCH576b","Stromal cells",116
+"SULF1","NCH576b__Stromal cells",10.9072584053513,"NCH576b","Stromal cells",116
+"COL14A1","NCH576b__Stromal cells",5.94419229443089,"NCH576b","Stromal cells",116
+"COL15A1","NCH576b__Stromal cells",3.45384143786337,"NCH576b","Stromal cells",116
+"CXCL12","NCH576b__Stromal cells",4.65418370927205,"NCH576b","Stromal cells",116
+"LUM","NCH576b__Stromal cells",8.37595435947942,"NCH576b","Stromal cells",116
+"POSTN","NCH576b__Stromal cells",10.6401455144988,"NCH576b","Stromal cells",116
+"MMP2","NCH576b__Stromal cells",5.68740794146577,"NCH576b","Stromal cells",116
+"CTSK","NCH576b__Endothelial cells",2.17328463249056,"NCH576b","Endothelial cells",39
+"DPT","NCH576b__Endothelial cells",-1,"NCH576b","Endothelial cells",39
+"COL6A3","NCH576b__Endothelial cells",3.39591672836488,"NCH576b","Endothelial cells",39
+"THBS4","NCH576b__Endothelial cells",1.32495211467585,"NCH576b","Endothelial cells",39
+"THBS2","NCH576b__Endothelial cells",1.32495211467585,"NCH576b","Endothelial cells",39
+"AEBP1","NCH576b__Endothelial cells",4.49554826058327,"NCH576b","Endothelial cells",39
+"SULF1","NCH576b__Endothelial cells",7.77525986847586,"NCH576b","Endothelial cells",39
+"COL14A1","NCH576b__Endothelial cells",4.93445450126778,"NCH576b","Endothelial cells",39
+"COL15A1","NCH576b__Endothelial cells",8.24456412934599,"NCH576b","Endothelial cells",39
+"CXCL12","NCH576b__Endothelial cells",6.50360407096848,"NCH576b","Endothelial cells",39
+"LUM","NCH576b__Endothelial cells",-1,"NCH576b","Endothelial cells",39
+"POSTN","NCH576b__Endothelial cells",4.83660283589924,"NCH576b","Endothelial cells",39
+"MMP2","NCH576b__Endothelial cells",7.00938889930634,"NCH576b","Endothelial cells",39
+"CTSK","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"DPT","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"COL6A3","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"THBS4","NCH576b__Astrocytes",5.36225556083808,"NCH576b","Astrocytes",1
+"THBS2","NCH576b__Astrocytes",5.36225556083808,"NCH576b","Astrocytes",1
+"AEBP1","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"SULF1","NCH576b__Astrocytes",15.6426881999961,"NCH576b","Astrocytes",1
+"COL14A1","NCH576b__Astrocytes",6.35346051934837,"NCH576b","Astrocytes",1
+"COL15A1","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"CXCL12","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"LUM","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"POSTN","NCH576b__Astrocytes",5.36225556083808,"NCH576b","Astrocytes",1
+"MMP2","NCH576b__Astrocytes",-1,"NCH576b","Astrocytes",1
+"CTSK","NCH4033__Tumor cells",2.27721329817675,"NCH4033","Tumor cells",1035
+"DPT","NCH4033__Tumor cells",-0.908639283469388,"NCH4033","Tumor cells",1035
+"COL6A3","NCH4033__Tumor cells",2.45113604199129,"NCH4033","Tumor cells",1035
+"THBS4","NCH4033__Tumor cells",4.98715463661534,"NCH4033","Tumor cells",1035
+"THBS2","NCH4033__Tumor cells",5.86682077612764,"NCH4033","Tumor cells",1035
+"AEBP1","NCH4033__Tumor cells",0.397454500936454,"NCH4033","Tumor cells",1035
+"SULF1","NCH4033__Tumor cells",4.80683939136437,"NCH4033","Tumor cells",1035
+"COL14A1","NCH4033__Tumor cells",1.82371527203417,"NCH4033","Tumor cells",1035
+"COL15A1","NCH4033__Tumor cells",-0.522584534318847,"NCH4033","Tumor cells",1035
+"CXCL12","NCH4033__Tumor cells",0.628533530419651,"NCH4033","Tumor cells",1035
+"LUM","NCH4033__Tumor cells",-0.45638354179329,"NCH4033","Tumor cells",1035
+"POSTN","NCH4033__Tumor cells",0.827659411989173,"NCH4033","Tumor cells",1035
+"MMP2","NCH4033__Tumor cells",-0.332452157781078,"NCH4033","Tumor cells",1035
+"CTSK","NCH4033__Astrocytes",2.96112552141029,"NCH4033","Astrocytes",18
+"DPT","NCH4033__Astrocytes",1.7718538933651,"NCH4033","Astrocytes",18
+"COL6A3","NCH4033__Astrocytes",6.28068749913584,"NCH4033","Astrocytes",18
+"THBS4","NCH4033__Astrocytes",5.31656166976691,"NCH4033","Astrocytes",18
+"THBS2","NCH4033__Astrocytes",5.08838067561088,"NCH4033","Astrocytes",18
+"AEBP1","NCH4033__Astrocytes",4.8172030492642,"NCH4033","Astrocytes",18
+"SULF1","NCH4033__Astrocytes",7.36801103610097,"NCH4033","Astrocytes",18
+"COL14A1","NCH4033__Astrocytes",3.20863820716327,"NCH4033","Astrocytes",18
+"COL15A1","NCH4033__Astrocytes",-1,"NCH4033","Astrocytes",18
+"CXCL12","NCH4033__Astrocytes",0.968984669039586,"NCH4033","Astrocytes",18
+"LUM","NCH4033__Astrocytes",5.20697770258934,"NCH4033","Astrocytes",18
+"POSTN","NCH4033__Astrocytes",-1,"NCH4033","Astrocytes",18
+"MMP2","NCH4033__Astrocytes",1.7718538933651,"NCH4033","Astrocytes",18
+"CTSK","NCH4033__Tumor cells (prol.)",1.85973764101376,"NCH4033","Tumor cells (prol.)",90
+"DPT","NCH4033__Tumor cells (prol.)",-1,"NCH4033","Tumor cells (prol.)",90
+"COL6A3","NCH4033__Tumor cells (prol.)",3.19630433766575,"NCH4033","Tumor cells (prol.)",90
+"THBS4","NCH4033__Tumor cells (prol.)",4.74087112805985,"NCH4033","Tumor cells (prol.)",90
+"THBS2","NCH4033__Tumor cells (prol.)",5.32116302088664,"NCH4033","Tumor cells (prol.)",90
+"AEBP1","NCH4033__Tumor cells (prol.)",-0.0270152367839335,"NCH4033","Tumor cells (prol.)",90
+"SULF1","NCH4033__Tumor cells (prol.)",4.19484365698763,"NCH4033","Tumor cells (prol.)",90
+"COL14A1","NCH4033__Tumor cells (prol.)",1.2784575130195,"NCH4033","Tumor cells (prol.)",90
+"COL15A1","NCH4033__Tumor cells (prol.)",-0.432991332430332,"NCH4033","Tumor cells (prol.)",90
+"CXCL12","NCH4033__Tumor cells (prol.)",-0.0270152367839335,"NCH4033","Tumor cells (prol.)",90
+"LUM","NCH4033__Tumor cells (prol.)",-1,"NCH4033","Tumor cells (prol.)",90
+"POSTN","NCH4033__Tumor cells (prol.)",-0.0270152367839335,"NCH4033","Tumor cells (prol.)",90
+"MMP2","NCH4033__Tumor cells (prol.)",-1,"NCH4033","Tumor cells (prol.)",90
+"CTSK","NCH4033__Stromal cells",3.76694107333894,"NCH4033","Stromal cells",46
+"DPT","NCH4033__Stromal cells",0.671539736659462,"NCH4033","Stromal cells",46
+"COL6A3","NCH4033__Stromal cells",9.86347656926627,"NCH4033","Stromal cells",46
+"THBS4","NCH4033__Stromal cells",3.87833647718739,"NCH4033","Stromal cells",46
+"THBS2","NCH4033__Stromal cells",8.10216345451699,"NCH4033","Stromal cells",46
+"AEBP1","NCH4033__Stromal cells",6.91534063148043,"NCH4033","Stromal cells",46
+"SULF1","NCH4033__Stromal cells",9.81178979371514,"NCH4033","Stromal cells",46
+"COL14A1","NCH4033__Stromal cells",5.78499069142283,"NCH4033","Stromal cells",46
+"COL15A1","NCH4033__Stromal cells",1.91774333136844,"NCH4033","Stromal cells",46
+"CXCL12","NCH4033__Stromal cells",3.20823252459856,"NCH4033","Stromal cells",46
+"LUM","NCH4033__Stromal cells",6.5949057944708,"NCH4033","Stromal cells",46
+"POSTN","NCH4033__Stromal cells",8.05551882551665,"NCH4033","Stromal cells",46
+"MMP2","NCH4033__Stromal cells",5.27601341282107,"NCH4033","Stromal cells",46
+"CTSK","NCH4033__Endothelial cells",1.66316751577704,"NCH4033","Endothelial cells",31
+"DPT","NCH4033__Endothelial cells",-1,"NCH4033","Endothelial cells",31
+"COL6A3","NCH4033__Endothelial cells",2.17013875383324,"NCH4033","Endothelial cells",31
+"THBS4","NCH4033__Endothelial cells",4.26076174683559,"NCH4033","Endothelial cells",31
+"THBS2","NCH4033__Endothelial cells",6.18014790095696,"NCH4033","Endothelial cells",31
+"AEBP1","NCH4033__Endothelial cells",2.54454037536058,"NCH4033","Endothelial cells",31
+"SULF1","NCH4033__Endothelial cells",3.79030870887875,"NCH4033","Endothelial cells",31
+"COL14A1","NCH4033__Endothelial cells",1.66316751577704,"NCH4033","Endothelial cells",31
+"COL15A1","NCH4033__Endothelial cells",6.55226779931495,"NCH4033","Endothelial cells",31
+"CXCL12","NCH4033__Endothelial cells",5.91910171930311,"NCH4033","Endothelial cells",31
+"LUM","NCH4033__Endothelial cells",-1,"NCH4033","Endothelial cells",31
+"POSTN","NCH4033__Endothelial cells",-1,"NCH4033","Endothelial cells",31
+"MMP2","NCH4033__Endothelial cells",4.53421385165565,"NCH4033","Endothelial cells",31
+"CTSK","NCH4033__Pericytes",3.65096069907798,"NCH4033","Pericytes",20
+"DPT","NCH4033__Pericytes",-1,"NCH4033","Pericytes",20
+"COL6A3","NCH4033__Pericytes",7.43783093043185,"NCH4033","Pericytes",20
+"THBS4","NCH4033__Pericytes",-1,"NCH4033","Pericytes",20
+"THBS2","NCH4033__Pericytes",5.92620201003671,"NCH4033","Pericytes",20
+"AEBP1","NCH4033__Pericytes",6.18725795948483,"NCH4033","Pericytes",20
+"SULF1","NCH4033__Pericytes",5.92620201003671,"NCH4033","Pericytes",20
+"COL14A1","NCH4033__Pericytes",7.53485677630709,"NCH4033","Pericytes",20
+"COL15A1","NCH4033__Pericytes",-1,"NCH4033","Pericytes",20
+"CXCL12","NCH4033__Pericytes",-1,"NCH4033","Pericytes",20
+"LUM","NCH4033__Pericytes",4.62195897974063,"NCH4033","Pericytes",20
+"POSTN","NCH4033__Pericytes",-1,"NCH4033","Pericytes",20
+"MMP2","NCH4033__Pericytes",3.65096069907798,"NCH4033","Pericytes",20
+"CTSK","NCH7592__Tumor cells",3.63068881858825,"NCH7592","Tumor cells",998
+"DPT","NCH7592__Tumor cells",0.00835154422954278,"NCH7592","Tumor cells",998
+"COL6A3","NCH7592__Tumor cells",3.98882021357816,"NCH7592","Tumor cells",998
+"THBS4","NCH7592__Tumor cells",1.82164239355714,"NCH7592","Tumor cells",998
+"THBS2","NCH7592__Tumor cells",3.40129353151374,"NCH7592","Tumor cells",998
+"AEBP1","NCH7592__Tumor cells",2.24755307840628,"NCH7592","Tumor cells",998
+"SULF1","NCH7592__Tumor cells",2.90306098891243,"NCH7592","Tumor cells",998
+"COL14A1","NCH7592__Tumor cells",4.50492971048013,"NCH7592","Tumor cells",998
+"COL15A1","NCH7592__Tumor cells",0.0791373613423901,"NCH7592","Tumor cells",998
+"CXCL12","NCH7592__Tumor cells",0.00835154422954278,"NCH7592","Tumor cells",998
+"LUM","NCH7592__Tumor cells",0.689542856215982,"NCH7592","Tumor cells",998
+"POSTN","NCH7592__Tumor cells",0.546986503544065,"NCH7592","Tumor cells",998
+"MMP2","NCH7592__Tumor cells",-0.315659908668015,"NCH7592","Tumor cells",998
+"CTSK","NCH7592__Endothelial cells",2.48987383554755,"NCH7592","Endothelial cells",35
+"DPT","NCH7592__Endothelial cells",-1,"NCH7592","Endothelial cells",35
+"COL6A3","NCH7592__Endothelial cells",3.98658065718737,"NCH7592","Endothelial cells",35
+"THBS4","NCH7592__Endothelial cells",1.61289225746533,"NCH7592","Endothelial cells",35
+"THBS2","NCH7592__Endothelial cells",3.73261877095387,"NCH7592","Endothelial cells",35
+"AEBP1","NCH7592__Endothelial cells",3.03138326256875,"NCH7592","Endothelial cells",35
+"SULF1","NCH7592__Endothelial cells",3.42419336916025,"NCH7592","Endothelial cells",35
+"COL14A1","NCH7592__Endothelial cells",1.61289225746533,"NCH7592","Endothelial cells",35
+"COL15A1","NCH7592__Endothelial cells",3.73261877095387,"NCH7592","Endothelial cells",35
+"CXCL12","NCH7592__Endothelial cells",4.705228236988,"NCH7592","Endothelial cells",35
+"LUM","NCH7592__Endothelial cells",-1,"NCH7592","Endothelial cells",35
+"POSTN","NCH7592__Endothelial cells",-1,"NCH7592","Endothelial cells",35
+"MMP2","NCH7592__Endothelial cells",-1,"NCH7592","Endothelial cells",35
+"CTSK","NCH7592__Tumor cells (prol.)",4.03007597320004,"NCH7592","Tumor cells (prol.)",24
+"DPT","NCH7592__Tumor cells (prol.)",-1,"NCH7592","Tumor cells (prol.)",24
+"COL6A3","NCH7592__Tumor cells (prol.)",4.88433414665656,"NCH7592","Tumor cells (prol.)",24
+"THBS4","NCH7592__Tumor cells (prol.)",1.65053897166198,"NCH7592","Tumor cells (prol.)",24
+"THBS2","NCH7592__Tumor cells (prol.)",3.95020877636561,"NCH7592","Tumor cells (prol.)",24
+"AEBP1","NCH7592__Tumor cells (prol.)",0.464497172503149,"NCH7592","Tumor cells (prol.)",24
+"SULF1","NCH7592__Tumor cells (prol.)",3.07356785163391,"NCH7592","Tumor cells (prol.)",24
+"COL14A1","NCH7592__Tumor cells (prol.)",3.86565970057368,"NCH7592","Tumor cells (prol.)",24
+"COL15A1","NCH7592__Tumor cells (prol.)",0.464497172503149,"NCH7592","Tumor cells (prol.)",24
+"CXCL12","NCH7592__Tumor cells (prol.)",-1,"NCH7592","Tumor cells (prol.)",24
+"LUM","NCH7592__Tumor cells (prol.)",-1,"NCH7592","Tumor cells (prol.)",24
+"POSTN","NCH7592__Tumor cells (prol.)",-1,"NCH7592","Tumor cells (prol.)",24
+"MMP2","NCH7592__Tumor cells (prol.)",0.464497172503149,"NCH7592","Tumor cells (prol.)",24
+"CTSK","NCH7592__Stromal cells",-1,"NCH7592","Stromal cells",5
+"DPT","NCH7592__Stromal cells",-1,"NCH7592","Stromal cells",5
+"COL6A3","NCH7592__Stromal cells",8.83163657542628,"NCH7592","Stromal cells",5
+"THBS4","NCH7592__Stromal cells",-1,"NCH7592","Stromal cells",5
+"THBS2","NCH7592__Stromal cells",7.51208144408623,"NCH7592","Stromal cells",5
+"AEBP1","NCH7592__Stromal cells",6.51602773037077,"NCH7592","Stromal cells",5
+"SULF1","NCH7592__Stromal cells",4.53948141520397,"NCH7592","Stromal cells",5
+"COL14A1","NCH7592__Stromal cells",7.8332189847209,"NCH7592","Stromal cells",5
+"COL15A1","NCH7592__Stromal cells",5.52388806632292,"NCH7592","Stromal cells",5
+"CXCL12","NCH7592__Stromal cells",-1,"NCH7592","Stromal cells",5
+"LUM","NCH7592__Stromal cells",6.10361510439894,"NCH7592","Stromal cells",5
+"POSTN","NCH7592__Stromal cells",4.53948141520397,"NCH7592","Stromal cells",5
+"MMP2","NCH7592__Stromal cells",5.52388806632292,"NCH7592","Stromal cells",5
+"CTSK","NCH7592__Astrocytes",0.935364335890132,"NCH7592","Astrocytes",36
+"DPT","NCH7592__Astrocytes",-1,"NCH7592","Astrocytes",36
+"COL6A3","NCH7592__Astrocytes",3.72370726798778,"NCH7592","Astrocytes",36
+"THBS4","NCH7592__Astrocytes",5.64192379892112,"NCH7592","Astrocytes",36
+"THBS2","NCH7592__Astrocytes",3.87023994888637,"NCH7592","Astrocytes",36
+"AEBP1","NCH7592__Astrocytes",5.10420935006708,"NCH7592","Astrocytes",36
+"SULF1","NCH7592__Astrocytes",2.24401039084377,"NCH7592","Astrocytes",36
+"COL14A1","NCH7592__Astrocytes",2.62046772638067,"NCH7592","Astrocytes",36
+"COL15A1","NCH7592__Astrocytes",0.935364335890132,"NCH7592","Astrocytes",36
+"CXCL12","NCH7592__Astrocytes",-1,"NCH7592","Astrocytes",36
+"LUM","NCH7592__Astrocytes",-1,"NCH7592","Astrocytes",36
+"POSTN","NCH7592__Astrocytes",-1,"NCH7592","Astrocytes",36
+"MMP2","NCH7592__Astrocytes",-1,"NCH7592","Astrocytes",36
+"CTSK","NCH7592__Pericytes",2.32681834093444,"NCH7592","Pericytes",5
+"DPT","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"COL6A3","NCH7592__Pericytes",2.32681834093444,"NCH7592","Pericytes",5
+"THBS4","NCH7592__Pericytes",2.32681834093444,"NCH7592","Pericytes",5
+"THBS2","NCH7592__Pericytes",3.25307468225788,"NCH7592","Pericytes",5
+"AEBP1","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"SULF1","NCH7592__Pericytes",4.7866937065266,"NCH7592","Pericytes",5
+"COL14A1","NCH7592__Pericytes",7.08756161737589,"NCH7592","Pericytes",5
+"COL15A1","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"CXCL12","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"LUM","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"POSTN","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"MMP2","NCH7592__Pericytes",-1,"NCH7592","Pericytes",5
+"CTSK","NCH998__Tumor cells",3.34546405534707,"NCH998","Tumor cells",773
+"DPT","NCH998__Tumor cells",-0.723508819154843,"NCH998","Tumor cells",773
+"COL6A3","NCH998__Tumor cells",3.31516498928958,"NCH998","Tumor cells",773
+"THBS4","NCH998__Tumor cells",4.48989747059785,"NCH998","Tumor cells",773
+"THBS2","NCH998__Tumor cells",8.77457756353389,"NCH998","Tumor cells",773
+"AEBP1","NCH998__Tumor cells",0.984565848405322,"NCH998","Tumor cells",773
+"SULF1","NCH998__Tumor cells",5.95968825310577,"NCH998","Tumor cells",773
+"COL14A1","NCH998__Tumor cells",2.66949391310686,"NCH998","Tumor cells",773
+"COL15A1","NCH998__Tumor cells",-0.855140861472044,"NCH998","Tumor cells",773
+"CXCL12","NCH998__Tumor cells",0.112266206989834,"NCH998","Tumor cells",773
+"LUM","NCH998__Tumor cells",1.72202942742875,"NCH998","Tumor cells",773
+"POSTN","NCH998__Tumor cells",1.02256604050244,"NCH998","Tumor cells",773
+"MMP2","NCH998__Tumor cells",-0.491580688019373,"NCH998","Tumor cells",773
+"CTSK","NCH998__Pericytes",4.6382338989726,"NCH998","Pericytes",84
+"DPT","NCH998__Pericytes",-1,"NCH998","Pericytes",84
+"COL6A3","NCH998__Pericytes",7.06503121592639,"NCH998","Pericytes",84
+"THBS4","NCH998__Pericytes",3.11007157420752,"NCH998","Pericytes",84
+"THBS2","NCH998__Pericytes",6.60433269130719,"NCH998","Pericytes",84
+"AEBP1","NCH998__Pericytes",6.21958894338114,"NCH998","Pericytes",84
+"SULF1","NCH998__Pericytes",7.83966074214699,"NCH998","Pericytes",84
+"COL14A1","NCH998__Pericytes",7.09108672557417,"NCH998","Pericytes",84
+"COL15A1","NCH998__Pericytes",2.42775433467986,"NCH998","Pericytes",84
+"CXCL12","NCH998__Pericytes",1.55595171875066,"NCH998","Pericytes",84
+"LUM","NCH998__Pericytes",4.6846049056666,"NCH998","Pericytes",84
+"POSTN","NCH998__Pericytes",3.23996004898642,"NCH998","Pericytes",84
+"MMP2","NCH998__Pericytes",2.80887994948675,"NCH998","Pericytes",84
+"CTSK","NCH998__Endothelial cells",3.25222811999669,"NCH998","Endothelial cells",95
+"DPT","NCH998__Endothelial cells",-1,"NCH998","Endothelial cells",95
+"COL6A3","NCH998__Endothelial cells",3.04239839406128,"NCH998","Endothelial cells",95
+"THBS4","NCH998__Endothelial cells",0.195200108945657,"NCH998","Endothelial cells",95
+"THBS2","NCH998__Endothelial cells",4.16284161411463,"NCH998","Endothelial cells",95
+"AEBP1","NCH998__Endothelial cells",4.71673404005206,"NCH998","Endothelial cells",95
+"SULF1","NCH998__Endothelial cells",3.87650957089399,"NCH998","Endothelial cells",95
+"COL14A1","NCH998__Endothelial cells",3.04239839406128,"NCH998","Endothelial cells",95
+"COL15A1","NCH998__Endothelial cells",7.53088636623049,"NCH998","Endothelial cells",95
+"CXCL12","NCH998__Endothelial cells",7.21118936134295,"NCH998","Endothelial cells",95
+"LUM","NCH998__Endothelial cells",1.62271102684167,"NCH998","Endothelial cells",95
+"POSTN","NCH998__Endothelial cells",7.24837822232704,"NCH998","Endothelial cells",95
+"MMP2","NCH998__Endothelial cells",5.93354897118552,"NCH998","Endothelial cells",95
+"CTSK","NCH998__Tumor cells (prol.)",3.39999394204571,"NCH998","Tumor cells (prol.)",79
+"DPT","NCH998__Tumor cells (prol.)",-1,"NCH998","Tumor cells (prol.)",79
+"COL6A3","NCH998__Tumor cells (prol.)",3.08329223576034,"NCH998","Tumor cells (prol.)",79
+"THBS4","NCH998__Tumor cells (prol.)",3.8794244775172,"NCH998","Tumor cells (prol.)",79
+"THBS2","NCH998__Tumor cells (prol.)",6.62905980183509,"NCH998","Tumor cells (prol.)",79
+"AEBP1","NCH998__Tumor cells (prol.)",0.255220988180835,"NCH998","Tumor cells (prol.)",79
+"SULF1","NCH998__Tumor cells (prol.)",5.1365165570515,"NCH998","Tumor cells (prol.)",79
+"COL14A1","NCH998__Tumor cells (prol.)",2.10914389467877,"NCH998","Tumor cells (prol.)",79
+"COL15A1","NCH998__Tumor cells (prol.)",-1,"NCH998","Tumor cells (prol.)",79
+"CXCL12","NCH998__Tumor cells (prol.)",-1,"NCH998","Tumor cells (prol.)",79
+"LUM","NCH998__Tumor cells (prol.)",0.623190596686362,"NCH998","Tumor cells (prol.)",79
+"POSTN","NCH998__Tumor cells (prol.)",-1,"NCH998","Tumor cells (prol.)",79
+"MMP2","NCH998__Tumor cells (prol.)",-1,"NCH998","Tumor cells (prol.)",79
+"CTSK","NCH998__Stromal cells",4.72062311639533,"NCH998","Stromal cells",106
+"DPT","NCH998__Stromal cells",2.31025476385904,"NCH998","Stromal cells",106
+"COL6A3","NCH998__Stromal cells",10.5920444149082,"NCH998","Stromal cells",106
+"THBS4","NCH998__Stromal cells",4.12489756411545,"NCH998","Stromal cells",106
+"THBS2","NCH998__Stromal cells",9.51020250608684,"NCH998","Stromal cells",106
+"AEBP1","NCH998__Stromal cells",7.1619945672284,"NCH998","Stromal cells",106
+"SULF1","NCH998__Stromal cells",10.0433289180676,"NCH998","Stromal cells",106
+"COL14A1","NCH998__Stromal cells",5.40671494108397,"NCH998","Stromal cells",106
+"COL15A1","NCH998__Stromal cells",1.85670472456425,"NCH998","Stromal cells",106
+"CXCL12","NCH998__Stromal cells",3.54216719777084,"NCH998","Stromal cells",106
+"LUM","NCH998__Stromal cells",6.93894393024391,"NCH998","Stromal cells",106
+"POSTN","NCH998__Stromal cells",9.43968616970313,"NCH998","Stromal cells",106
+"MMP2","NCH998__Stromal cells",4.48236830075478,"NCH998","Stromal cells",106
+"CTSK","NCH998__Astrocytes",3.12090263469097,"NCH998","Astrocytes",56
+"DPT","NCH998__Astrocytes",-1,"NCH998","Astrocytes",56
+"COL6A3","NCH998__Astrocytes",5.83824494936592,"NCH998","Astrocytes",56
+"THBS4","NCH998__Astrocytes",5.48906065136633,"NCH998","Astrocytes",56
+"THBS2","NCH998__Astrocytes",5.82091127460988,"NCH998","Astrocytes",56
+"AEBP1","NCH998__Astrocytes",6.06129745206307,"NCH998","Astrocytes",56
+"SULF1","NCH998__Astrocytes",9.31740612442205,"NCH998","Astrocytes",56
+"COL14A1","NCH998__Astrocytes",6.41322690896748,"NCH998","Astrocytes",56
+"COL15A1","NCH998__Astrocytes",0.24278743574816,"NCH998","Astrocytes",56
+"CXCL12","NCH998__Astrocytes",3.12090263469097,"NCH998","Astrocytes",56
+"LUM","NCH998__Astrocytes",5.80336680419842,"NCH998","Astrocytes",56
+"POSTN","NCH998__Astrocytes",6.67677830103826,"NCH998","Astrocytes",56
+"MMP2","NCH998__Astrocytes",0.24278743574816,"NCH998","Astrocytes",56
+"CTSK","NCH7611__Tumor cells",2.8966158203899,"NCH7611","Tumor cells",155
+"DPT","NCH7611__Tumor cells",-1,"NCH7611","Tumor cells",155
+"COL6A3","NCH7611__Tumor cells",3.69276992426911,"NCH7611","Tumor cells",155
+"THBS4","NCH7611__Tumor cells",2.28907810971946,"NCH7611","Tumor cells",155
+"THBS2","NCH7611__Tumor cells",4.84060023719165,"NCH7611","Tumor cells",155
+"AEBP1","NCH7611__Tumor cells",-0.208194676998347,"NCH7611","Tumor cells",155
+"SULF1","NCH7611__Tumor cells",-0.208194676998347,"NCH7611","Tumor cells",155
+"COL14A1","NCH7611__Tumor cells",0.972677219316471,"NCH7611","Tumor cells",155
+"COL15A1","NCH7611__Tumor cells",3.42456647916468,"NCH7611","Tumor cells",155
+"CXCL12","NCH7611__Tumor cells",-1,"NCH7611","Tumor cells",155
+"LUM","NCH7611__Tumor cells",0.675237159563161,"NCH7611","Tumor cells",155
+"POSTN","NCH7611__Tumor cells",0.675237159563161,"NCH7611","Tumor cells",155
+"MMP2","NCH7611__Tumor cells",-0.208194676998347,"NCH7611","Tumor cells",155
+"CTSK","NCH7611__Pericytes",3.6008659944167,"NCH7611","Pericytes",67
+"DPT","NCH7611__Pericytes",-1,"NCH7611","Pericytes",67
+"COL6A3","NCH7611__Pericytes",6.7945929641152,"NCH7611","Pericytes",67
+"THBS4","NCH7611__Pericytes",2.95803218747312,"NCH7611","Pericytes",67
+"THBS2","NCH7611__Pericytes",5.25954718760102,"NCH7611","Pericytes",67
+"AEBP1","NCH7611__Pericytes",5.55557241329216,"NCH7611","Pericytes",67
+"SULF1","NCH7611__Pericytes",7.48669490686094,"NCH7611","Pericytes",67
+"COL14A1","NCH7611__Pericytes",6.83190104892221,"NCH7611","Pericytes",67
+"COL15A1","NCH7611__Pericytes",-1,"NCH7611","Pericytes",67
+"CXCL12","NCH7611__Pericytes",2.28166264533943,"NCH7611","Pericytes",67
+"LUM","NCH7611__Pericytes",1.76903257365829,"NCH7611","Pericytes",67
+"POSTN","NCH7611__Pericytes",2.28166264533943,"NCH7611","Pericytes",67
+"MMP2","NCH7611__Pericytes",0.966523985516125,"NCH7611","Pericytes",67
+"CTSK","NCH7611__Endothelial cells",2.0046781465303,"NCH7611","Endothelial cells",66
+"DPT","NCH7611__Endothelial cells",-1,"NCH7611","Endothelial cells",66
+"COL6A3","NCH7611__Endothelial cells",4.07843571483972,"NCH7611","Endothelial cells",66
+"THBS4","NCH7611__Endothelial cells",-1,"NCH7611","Endothelial cells",66
+"THBS2","NCH7611__Endothelial cells",3.12051459383331,"NCH7611","Endothelial cells",66
+"AEBP1","NCH7611__Endothelial cells",2.66788895778315,"NCH7611","Endothelial cells",66
+"SULF1","NCH7611__Endothelial cells",0.740709324168592,"NCH7611","Endothelial cells",66
+"COL14A1","NCH7611__Endothelial cells",4.71490151221462,"NCH7611","Endothelial cells",66
+"COL15A1","NCH7611__Endothelial cells",8.67245019610712,"NCH7611","Endothelial cells",66
+"CXCL12","NCH7611__Endothelial cells",8.20745998208687,"NCH7611","Endothelial cells",66
+"LUM","NCH7611__Endothelial cells",-1,"NCH7611","Endothelial cells",66
+"POSTN","NCH7611__Endothelial cells",7.78559943010819,"NCH7611","Endothelial cells",66
+"MMP2","NCH7611__Endothelial cells",4.58014211834853,"NCH7611","Endothelial cells",66
+"CTSK","NCH7611__Tumor cells (prol.)",2.62297436558955,"NCH7611","Tumor cells (prol.)",87
+"DPT","NCH7611__Tumor cells (prol.)",-1,"NCH7611","Tumor cells (prol.)",87
+"COL6A3","NCH7611__Tumor cells (prol.)",3.36888743720453,"NCH7611","Tumor cells (prol.)",87
+"THBS4","NCH7611__Tumor cells (prol.)",2.12854422295933,"NCH7611","Tumor cells (prol.)",87
+"THBS2","NCH7611__Tumor cells (prol.)",5.14383588649034,"NCH7611","Tumor cells (prol.)",87
+"AEBP1","NCH7611__Tumor cells (prol.)",0.131996695427111,"NCH7611","Tumor cells (prol.)",87
+"SULF1","NCH7611__Tumor cells (prol.)",2.31283052320001,"NCH7611","Tumor cells (prol.)",87
+"COL14A1","NCH7611__Tumor cells (prol.)",0.992422679796113,"NCH7611","Tumor cells (prol.)",87
+"COL15A1","NCH7611__Tumor cells (prol.)",2.55146269116323,"NCH7611","Tumor cells (prol.)",87
+"CXCL12","NCH7611__Tumor cells (prol.)",-1,"NCH7611","Tumor cells (prol.)",87
+"LUM","NCH7611__Tumor cells (prol.)",1.19372618775984,"NCH7611","Tumor cells (prol.)",87
+"POSTN","NCH7611__Tumor cells (prol.)",3.56320400691523,"NCH7611","Tumor cells (prol.)",87
+"MMP2","NCH7611__Tumor cells (prol.)",-0.325711780296643,"NCH7611","Tumor cells (prol.)",87
+"CTSK","NCH7611__Stromal cells",4.16599980892554,"NCH7611","Stromal cells",48
+"DPT","NCH7611__Stromal cells",1.9964678076573,"NCH7611","Stromal cells",48
+"COL6A3","NCH7611__Stromal cells",11.0191980302267,"NCH7611","Stromal cells",48
+"THBS4","NCH7611__Stromal cells",3.45557788866093,"NCH7611","Stromal cells",48
+"THBS2","NCH7611__Stromal cells",9.93847906183842,"NCH7611","Stromal cells",48
+"AEBP1","NCH7611__Stromal cells",7.11232103313714,"NCH7611","Stromal cells",48
+"SULF1","NCH7611__Stromal cells",9.99631665324587,"NCH7611","Stromal cells",48
+"COL14A1","NCH7611__Stromal cells",6.83203055132582,"NCH7611","Stromal cells",48
+"COL15A1","NCH7611__Stromal cells",5.8161772441383,"NCH7611","Stromal cells",48
+"CXCL12","NCH7611__Stromal cells",2.90312261600833,"NCH7611","Stromal cells",48
+"LUM","NCH7611__Stromal cells",7.26743861453516,"NCH7611","Stromal cells",48
+"POSTN","NCH7611__Stromal cells",10.1393475034657,"NCH7611","Stromal cells",48
+"MMP2","NCH7611__Stromal cells",2.90312261600833,"NCH7611","Stromal cells",48
+"CTSK","NCH7611__Astrocytes",-1,"NCH7611","Astrocytes",9
+"DPT","NCH7611__Astrocytes",-1,"NCH7611","Astrocytes",9
+"COL6A3","NCH7611__Astrocytes",2.67907299151494,"NCH7611","Astrocytes",9
+"THBS4","NCH7611__Astrocytes",4.5920246130698,"NCH7611","Astrocytes",9
+"THBS2","NCH7611__Astrocytes",5.16698271301112,"NCH7611","Astrocytes",9
+"AEBP1","NCH7611__Astrocytes",5.16698271301112,"NCH7611","Astrocytes",9
+"SULF1","NCH7611__Astrocytes",7.32120609396712,"NCH7611","Astrocytes",9
+"COL14A1","NCH7611__Astrocytes",-1,"NCH7611","Astrocytes",9
+"COL15A1","NCH7611__Astrocytes",4.18692261633372,"NCH7611","Astrocytes",9
+"CXCL12","NCH7611__Astrocytes",2.67907299151494,"NCH7611","Astrocytes",9
+"LUM","NCH7611__Astrocytes",-1,"NCH7611","Astrocytes",9
+"POSTN","NCH7611__Astrocytes",5.89589453387963,"NCH7611","Astrocytes",9
+"MMP2","NCH7611__Astrocytes",-1,"NCH7611","Astrocytes",9
+"CTSK","NCH6115__Stromal cells",5.08839552338826,"NCH6115","Stromal cells",9
+"DPT","NCH6115__Stromal cells",-1,"NCH6115","Stromal cells",9
+"COL6A3","NCH6115__Stromal cells",11.8287853359341,"NCH6115","Stromal cells",9
+"THBS4","NCH6115__Stromal cells",-1,"NCH6115","Stromal cells",9
+"THBS2","NCH6115__Stromal cells",9.29058053385909,"NCH6115","Stromal cells",9
+"AEBP1","NCH6115__Stromal cells",8.06972311401076,"NCH6115","Stromal cells",9
+"SULF1","NCH6115__Stromal cells",11.0215791321119,"NCH6115","Stromal cells",9
+"COL14A1","NCH6115__Stromal cells",4.82959537618404,"NCH6115","Stromal cells",9
+"COL15A1","NCH6115__Stromal cells",5.08839552338826,"NCH6115","Stromal cells",9
+"CXCL12","NCH6115__Stromal cells",6.8104425738623,"NCH6115","Stromal cells",9
+"LUM","NCH6115__Stromal cells",7.80722557308353,"NCH6115","Stromal cells",9
+"POSTN","NCH6115__Stromal cells",9.68262367728406,"NCH6115","Stromal cells",9
+"MMP2","NCH6115__Stromal cells",3.54522655866664,"NCH6115","Stromal cells",9
+"CTSK","NCH6115__Tumor cells",3.54530463786351,"NCH6115","Tumor cells",86
+"DPT","NCH6115__Tumor cells",1.1940494906008,"NCH6115","Tumor cells",86
+"COL6A3","NCH6115__Tumor cells",3.88786869358897,"NCH6115","Tumor cells",86
+"THBS4","NCH6115__Tumor cells",3.93078544778391,"NCH6115","Tumor cells",86
+"THBS2","NCH6115__Tumor cells",-0.0785863567080781,"NCH6115","Tumor cells",86
+"AEBP1","NCH6115__Tumor cells",-0.0785863567080781,"NCH6115","Tumor cells",86
+"SULF1","NCH6115__Tumor cells",4.12808170795439,"NCH6115","Tumor cells",86
+"COL14A1","NCH6115__Tumor cells",1.66989332301872,"NCH6115","Tumor cells",86
+"COL15A1","NCH6115__Tumor cells",0.479199736046066,"NCH6115","Tumor cells",86
+"CXCL12","NCH6115__Tumor cells",2.17723724402821,"NCH6115","Tumor cells",86
+"LUM","NCH6115__Tumor cells",-1,"NCH6115","Tumor cells",86
+"POSTN","NCH6115__Tumor cells",-0.0785863567080781,"NCH6115","Tumor cells",86
+"MMP2","NCH6115__Tumor cells",-1,"NCH6115","Tumor cells",86
+"CTSK","NCH6115__Tumor cells (prol.)",3.88223075960613,"NCH6115","Tumor cells (prol.)",23
+"DPT","NCH6115__Tumor cells (prol.)",-1,"NCH6115","Tumor cells (prol.)",23
+"COL6A3","NCH6115__Tumor cells (prol.)",0.944542546027988,"NCH6115","Tumor cells (prol.)",23
+"THBS4","NCH6115__Tumor cells (prol.)",4.24940900775032,"NCH6115","Tumor cells (prol.)",23
+"THBS2","NCH6115__Tumor cells (prol.)",-1,"NCH6115","Tumor cells (prol.)",23
+"AEBP1","NCH6115__Tumor cells (prol.)",0.944542546027988,"NCH6115","Tumor cells (prol.)",23
+"SULF1","NCH6115__Tumor cells (prol.)",2.25511866758613,"NCH6115","Tumor cells (prol.)",23
+"COL14A1","NCH6115__Tumor cells (prol.)",2.93033856737244,"NCH6115","Tumor cells (prol.)",23
+"COL15A1","NCH6115__Tumor cells (prol.)",2.63187587796097,"NCH6115","Tumor cells (prol.)",23
+"CXCL12","NCH6115__Tumor cells (prol.)",0.944542546027988,"NCH6115","Tumor cells (prol.)",23
+"LUM","NCH6115__Tumor cells (prol.)",-1,"NCH6115","Tumor cells (prol.)",23
+"POSTN","NCH6115__Tumor cells (prol.)",-1,"NCH6115","Tumor cells (prol.)",23
+"MMP2","NCH6115__Tumor cells (prol.)",0.944542546027988,"NCH6115","Tumor cells (prol.)",23
+"CTSK","NCH6115__Pericytes",5.60103269811903,"NCH6115","Pericytes",4
+"DPT","NCH6115__Pericytes",-1,"NCH6115","Pericytes",4
+"COL6A3","NCH6115__Pericytes",4.6158182773344,"NCH6115","Pericytes",4
+"THBS4","NCH6115__Pericytes",4.6158182773344,"NCH6115","Pericytes",4
+"THBS2","NCH6115__Pericytes",8.3955925304906,"NCH6115","Pericytes",4
+"AEBP1","NCH6115__Pericytes",10.0462080331669,"NCH6115","Pericytes",4
+"SULF1","NCH6115__Pericytes",10.2305507336708,"NCH6115","Pericytes",4
+"COL14A1","NCH6115__Pericytes",9.67443989945107,"NCH6115","Pericytes",4
+"COL15A1","NCH6115__Pericytes",4.6158182773344,"NCH6115","Pericytes",4
+"CXCL12","NCH6115__Pericytes",4.6158182773344,"NCH6115","Pericytes",4
+"LUM","NCH6115__Pericytes",-1,"NCH6115","Pericytes",4
+"POSTN","NCH6115__Pericytes",-1,"NCH6115","Pericytes",4
+"MMP2","NCH6115__Pericytes",4.6158182773344,"NCH6115","Pericytes",4
+"CTSK","NCH6115__Endothelial cells",5.45308675139002,"NCH6115","Endothelial cells",1
+"DPT","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"COL6A3","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"THBS4","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"THBS2","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"AEBP1","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"SULF1","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"COL14A1","NCH6115__Endothelial cells",5.45308675139002,"NCH6115","Endothelial cells",1
+"COL15A1","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"CXCL12","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"LUM","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"POSTN","NCH6115__Endothelial cells",-1,"NCH6115","Endothelial cells",1
+"MMP2","NCH6115__Endothelial cells",7.7617811183698,"NCH6115","Endothelial cells",1
+"CTSK","NCH747q__Pericytes",2.62508139427173,"NCH747q","Pericytes",27
+"DPT","NCH747q__Pericytes",-1,"NCH747q","Pericytes",27
+"COL6A3","NCH747q__Pericytes",8.95580751392723,"NCH747q","Pericytes",27
+"THBS4","NCH747q__Pericytes",-1,"NCH747q","Pericytes",27
+"THBS2","NCH747q__Pericytes",7.06313614573223,"NCH747q","Pericytes",27
+"AEBP1","NCH747q__Pericytes",6.59807115851885,"NCH747q","Pericytes",27
+"SULF1","NCH747q__Pericytes",9.84377818466001,"NCH747q","Pericytes",27
+"COL14A1","NCH747q__Pericytes",7.34049064321266,"NCH747q","Pericytes",27
+"COL15A1","NCH747q__Pericytes",3.56540009477072,"NCH747q","Pericytes",27
+"CXCL12","NCH747q__Pericytes",3.17053193094974,"NCH747q","Pericytes",27
+"LUM","NCH747q__Pericytes",4.70106998599284,"NCH747q","Pericytes",27
+"POSTN","NCH747q__Pericytes",-1,"NCH747q","Pericytes",27
+"MMP2","NCH747q__Pericytes",3.56540009477072,"NCH747q","Pericytes",27
+"CTSK","NCH747q__Tumor cells",1.97546118821014,"NCH747q","Tumor cells",700
+"DPT","NCH747q__Tumor cells",-1,"NCH747q","Tumor cells",700
+"COL6A3","NCH747q__Tumor cells",3.67591333534668,"NCH747q","Tumor cells",700
+"THBS4","NCH747q__Tumor cells",3.8614861498801,"NCH747q","Tumor cells",700
+"THBS2","NCH747q__Tumor cells",0.0481672023069944,"NCH747q","Tumor cells",700
+"AEBP1","NCH747q__Tumor cells",0.576882433668619,"NCH747q","Tumor cells",700
+"SULF1","NCH747q__Tumor cells",3.70151565949992,"NCH747q","Tumor cells",700
+"COL14A1","NCH747q__Tumor cells",3.59626192799949,"NCH747q","Tumor cells",700
+"COL15A1","NCH747q__Tumor cells",-0.182142235359751,"NCH747q","Tumor cells",700
+"CXCL12","NCH747q__Tumor cells",0.336610758567042,"NCH747q","Tumor cells",700
+"LUM","NCH747q__Tumor cells",0.150857557466453,"NCH747q","Tumor cells",700
+"POSTN","NCH747q__Tumor cells",0.576882433668619,"NCH747q","Tumor cells",700
+"MMP2","NCH747q__Tumor cells",-0.062396611313082,"NCH747q","Tumor cells",700
+"CTSK","NCH747q__Endothelial cells",2.51359485606652,"NCH747q","Endothelial cells",53
+"DPT","NCH747q__Endothelial cells",-1,"NCH747q","Endothelial cells",53
+"COL6A3","NCH747q__Endothelial cells",2.96247071344097,"NCH747q","Endothelial cells",53
+"THBS4","NCH747q__Endothelial cells",0.62487986984383,"NCH747q","Endothelial cells",53
+"THBS2","NCH747q__Endothelial cells",1.36969809376588,"NCH747q","Endothelial cells",53
+"AEBP1","NCH747q__Endothelial cells",4.10209695209301,"NCH747q","Endothelial cells",53
+"SULF1","NCH747q__Endothelial cells",2.22290644130081,"NCH747q","Endothelial cells",53
+"COL14A1","NCH747q__Endothelial cells",2.75542055638763,"NCH747q","Endothelial cells",53
+"COL15A1","NCH747q__Endothelial cells",8.57705928298743,"NCH747q","Endothelial cells",53
+"CXCL12","NCH747q__Endothelial cells",7.73528395916452,"NCH747q","Endothelial cells",53
+"LUM","NCH747q__Endothelial cells",-1,"NCH747q","Endothelial cells",53
+"POSTN","NCH747q__Endothelial cells",7.45590127054305,"NCH747q","Endothelial cells",53
+"MMP2","NCH747q__Endothelial cells",3.44900982840695,"NCH747q","Endothelial cells",53
+"CTSK","NCH747q__Tumor cells (prol.)",1.76040470856024,"NCH747q","Tumor cells (prol.)",133
+"DPT","NCH747q__Tumor cells (prol.)",-1,"NCH747q","Tumor cells (prol.)",133
+"COL6A3","NCH747q__Tumor cells (prol.)",3.36722666666949,"NCH747q","Tumor cells (prol.)",133
+"THBS4","NCH747q__Tumor cells (prol.)",3.90107517242752,"NCH747q","Tumor cells (prol.)",133
+"THBS2","NCH747q__Tumor cells (prol.)",-0.34228107032803,"NCH747q","Tumor cells (prol.)",133
+"AEBP1","NCH747q__Tumor cells (prol.)",-0.34228107032803,"NCH747q","Tumor cells (prol.)",133
+"SULF1","NCH747q__Tumor cells (prol.)",2.83637711185473,"NCH747q","Tumor cells (prol.)",133
+"COL14A1","NCH747q__Tumor cells (prol.)",2.71471944966507,"NCH747q","Tumor cells (prol.)",133
+"COL15A1","NCH747q__Tumor cells (prol.)",0.107803416193205,"NCH747q","Tumor cells (prol.)",133
+"CXCL12","NCH747q__Tumor cells (prol.)",0.107803416193205,"NCH747q","Tumor cells (prol.)",133
+"LUM","NCH747q__Tumor cells (prol.)",-0.34228107032803,"NCH747q","Tumor cells (prol.)",133
+"POSTN","NCH747q__Tumor cells (prol.)",-0.34228107032803,"NCH747q","Tumor cells (prol.)",133
+"MMP2","NCH747q__Tumor cells (prol.)",0.107803416193205,"NCH747q","Tumor cells (prol.)",133
+"CTSK","NCH747q__Stromal cells",4.57510998052799,"NCH747q","Stromal cells",57
+"DPT","NCH747q__Stromal cells",3.2978755569152,"NCH747q","Stromal cells",57
+"COL6A3","NCH747q__Stromal cells",11.6574494277911,"NCH747q","Stromal cells",57
+"THBS4","NCH747q__Stromal cells",2.99416877300748,"NCH747q","Stromal cells",57
+"THBS2","NCH747q__Stromal cells",10.3159210318285,"NCH747q","Stromal cells",57
+"AEBP1","NCH747q__Stromal cells",6.88406973914163,"NCH747q","Stromal cells",57
+"SULF1","NCH747q__Stromal cells",10.1692534625649,"NCH747q","Stromal cells",57
+"COL14A1","NCH747q__Stromal cells",5.79635139919099,"NCH747q","Stromal cells",57
+"COL15A1","NCH747q__Stromal cells",4.96829292465852,"NCH747q","Stromal cells",57
+"CXCL12","NCH747q__Stromal cells",7.42842543081917,"NCH747q","Stromal cells",57
+"LUM","NCH747q__Stromal cells",8.59602210746369,"NCH747q","Stromal cells",57
+"POSTN","NCH747q__Stromal cells",9.0893467382913,"NCH747q","Stromal cells",57
+"MMP2","NCH747q__Stromal cells",5.53106470934473,"NCH747q","Stromal cells",57
+"CTSK","NCH747q__Astrocytes",3.90991242454691,"NCH747q","Astrocytes",8
+"DPT","NCH747q__Astrocytes",-1,"NCH747q","Astrocytes",8
+"COL6A3","NCH747q__Astrocytes",4.69655253456321,"NCH747q","Astrocytes",8
+"THBS4","NCH747q__Astrocytes",6.04202116072736,"NCH747q","Astrocytes",8
+"THBS2","NCH747q__Astrocytes",6.19292908863779,"NCH747q","Astrocytes",8
+"AEBP1","NCH747q__Astrocytes",5.87346394814881,"NCH747q","Astrocytes",8
+"SULF1","NCH747q__Astrocytes",7.03653700055221,"NCH747q","Astrocytes",8
+"COL14A1","NCH747q__Astrocytes",3.90991242454691,"NCH747q","Astrocytes",8
+"COL15A1","NCH747q__Astrocytes",6.86729866029169,"NCH747q","Astrocytes",8
+"CXCL12","NCH747q__Astrocytes",-1,"NCH747q","Astrocytes",8
+"LUM","NCH747q__Astrocytes",-1,"NCH747q","Astrocytes",8
+"POSTN","NCH747q__Astrocytes",-1,"NCH747q","Astrocytes",8
+"MMP2","NCH747q__Astrocytes",-1,"NCH747q","Astrocytes",8
+"CTSK","NCH1638__Tumor cells",4.45377655086895,"NCH1638","Tumor cells",288
+"DPT","NCH1638__Tumor cells",2.19663873153022,"NCH1638","Tumor cells",288
+"COL6A3","NCH1638__Tumor cells",3.62184999262892,"NCH1638","Tumor cells",288
+"THBS4","NCH1638__Tumor cells",2.4507888217574,"NCH1638","Tumor cells",288
+"THBS2","NCH1638__Tumor cells",1.37697982900171,"NCH1638","Tumor cells",288
+"AEBP1","NCH1638__Tumor cells",2.74013781694242,"NCH1638","Tumor cells",288
+"SULF1","NCH1638__Tumor cells",7.19943402665943,"NCH1638","Tumor cells",288
+"COL14A1","NCH1638__Tumor cells",6.86021037915615,"NCH1638","Tumor cells",288
+"COL15A1","NCH1638__Tumor cells",0.216965853384296,"NCH1638","Tumor cells",288
+"CXCL12","NCH1638__Tumor cells",-0.712217805010167,"NCH1638","Tumor cells",288
+"LUM","NCH1638__Tumor cells",-0.712217805010167,"NCH1638","Tumor cells",288
+"POSTN","NCH1638__Tumor cells",1.37697982900171,"NCH1638","Tumor cells",288
+"MMP2","NCH1638__Tumor cells",3.2389196709317,"NCH1638","Tumor cells",288
+"CTSK","NCH1638__Tumor cells (prol.)",4.80797547442257,"NCH1638","Tumor cells (prol.)",240
+"DPT","NCH1638__Tumor cells (prol.)",1.83493172347802,"NCH1638","Tumor cells (prol.)",240
+"COL6A3","NCH1638__Tumor cells (prol.)",3.42721787826997,"NCH1638","Tumor cells (prol.)",240
+"THBS4","NCH1638__Tumor cells (prol.)",3.04696662093761,"NCH1638","Tumor cells (prol.)",240
+"THBS2","NCH1638__Tumor cells (prol.)",0.722754066017082,"NCH1638","Tumor cells (prol.)",240
+"AEBP1","NCH1638__Tumor cells (prol.)",2.79132916922249,"NCH1638","Tumor cells (prol.)",240
+"SULF1","NCH1638__Tumor cells (prol.)",7.2949944034053,"NCH1638","Tumor cells (prol.)",240
+"COL14A1","NCH1638__Tumor cells (prol.)",7.00533432906955,"NCH1638","Tumor cells (prol.)",240
+"COL15A1","NCH1638__Tumor cells (prol.)",0.636421544649435,"NCH1638","Tumor cells (prol.)",240
+"CXCL12","NCH1638__Tumor cells (prol.)",-0.531736634832064,"NCH1638","Tumor cells (prol.)",240
+"LUM","NCH1638__Tumor cells (prol.)",0.104557720086453,"NCH1638","Tumor cells (prol.)",240
+"POSTN","NCH1638__Tumor cells (prol.)",-0.344497285310103,"NCH1638","Tumor cells (prol.)",240
+"MMP2","NCH1638__Tumor cells (prol.)",2.29560439500451,"NCH1638","Tumor cells (prol.)",240
+"CTSK","NCH1638__Pericytes",4.01736155437786,"NCH1638","Pericytes",17
+"DPT","NCH1638__Pericytes",1.86343968477088,"NCH1638","Pericytes",17
+"COL6A3","NCH1638__Pericytes",4.8454236219969,"NCH1638","Pericytes",17
+"THBS4","NCH1638__Pericytes",1.86343968477088,"NCH1638","Pericytes",17
+"THBS2","NCH1638__Pericytes",4.27295263813535,"NCH1638","Pericytes",17
+"AEBP1","NCH1638__Pericytes",6.0534063175164,"NCH1638","Pericytes",17
+"SULF1","NCH1638__Pericytes",5.25417456833886,"NCH1638","Pericytes",17
+"COL14A1","NCH1638__Pericytes",8.22245910278441,"NCH1638","Pericytes",17
+"COL15A1","NCH1638__Pericytes",4.49000479049739,"NCH1638","Pericytes",17
+"CXCL12","NCH1638__Pericytes",-1,"NCH1638","Pericytes",17
+"LUM","NCH1638__Pericytes",1.86343968477088,"NCH1638","Pericytes",17
+"POSTN","NCH1638__Pericytes",-1,"NCH1638","Pericytes",17
+"MMP2","NCH1638__Pericytes",1.86343968477088,"NCH1638","Pericytes",17
+"CTSK","NCH1638__Endothelial cells",2.58432027966517,"NCH1638","Endothelial cells",15
+"DPT","NCH1638__Endothelial cells",-1,"NCH1638","Endothelial cells",15
+"COL6A3","NCH1638__Endothelial cells",4.30309787059757,"NCH1638","Endothelial cells",15
+"THBS4","NCH1638__Endothelial cells",1.69984690885591,"NCH1638","Endothelial cells",15
+"THBS2","NCH1638__Endothelial cells",-1,"NCH1638","Endothelial cells",15
+"AEBP1","NCH1638__Endothelial cells",4.08678283358064,"NCH1638","Endothelial cells",15
+"SULF1","NCH1638__Endothelial cells",2.58432027966517,"NCH1638","Endothelial cells",15
+"COL14A1","NCH1638__Endothelial cells",5.17921813707227,"NCH1638","Endothelial cells",15
+"COL15A1","NCH1638__Endothelial cells",7.27076467686148,"NCH1638","Endothelial cells",15
+"CXCL12","NCH1638__Endothelial cells",7.04915057496832,"NCH1638","Endothelial cells",15
+"LUM","NCH1638__Endothelial cells",1.69984690885591,"NCH1638","Endothelial cells",15
+"POSTN","NCH1638__Endothelial cells",2.58432027966517,"NCH1638","Endothelial cells",15
+"MMP2","NCH1638__Endothelial cells",4.6575247407302,"NCH1638","Endothelial cells",15
+"CTSK","NCH1638__Stromal cells",4.14233786350495,"NCH1638","Stromal cells",19
+"DPT","NCH1638__Stromal cells",4.51139196786857,"NCH1638","Stromal cells",19
+"COL6A3","NCH1638__Stromal cells",10.6787688293647,"NCH1638","Stromal cells",19
+"THBS4","NCH1638__Stromal cells",2.88041713120011,"NCH1638","Stromal cells",19
+"THBS2","NCH1638__Stromal cells",9.40938959279734,"NCH1638","Stromal cells",19
+"AEBP1","NCH1638__Stromal cells",6.80779264892304,"NCH1638","Stromal cells",19
+"SULF1","NCH1638__Stromal cells",11.0808010456878,"NCH1638","Stromal cells",19
+"COL14A1","NCH1638__Stromal cells",6.37266589118469,"NCH1638","Stromal cells",19
+"COL15A1","NCH1638__Stromal cells",4.39854806403131,"NCH1638","Stromal cells",19
+"CXCL12","NCH1638__Stromal cells",4.27612309563777,"NCH1638","Stromal cells",19
+"LUM","NCH1638__Stromal cells",5.69980770037743,"NCH1638","Stromal cells",19
+"POSTN","NCH1638__Stromal cells",9.82142840839854,"NCH1638","Stromal cells",19
+"MMP2","NCH1638__Stromal cells",4.14233786350495,"NCH1638","Stromal cells",19
+"CTSK","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"DPT","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"COL6A3","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"THBS4","NCH1638__Astrocytes",7.3603668151543,"NCH1638","Astrocytes",1
+"THBS2","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"AEBP1","NCH1638__Astrocytes",7.3603668151543,"NCH1638","Astrocytes",1
+"SULF1","NCH1638__Astrocytes",6.36475003693196,"NCH1638","Astrocytes",1
+"COL14A1","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"COL15A1","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"CXCL12","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"LUM","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"POSTN","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"MMP2","NCH1638__Astrocytes",-1,"NCH1638","Astrocytes",1
+"CTSK","NCH5557__Tumor cells",2.51852937080723,"NCH5557","Tumor cells",486
+"DPT","NCH5557__Tumor cells",-1,"NCH5557","Tumor cells",486
+"COL6A3","NCH5557__Tumor cells",3.51367047089781,"NCH5557","Tumor cells",486
+"THBS4","NCH5557__Tumor cells",2.39739460319871,"NCH5557","Tumor cells",486
+"THBS2","NCH5557__Tumor cells",0.656963073099066,"NCH5557","Tumor cells",486
+"AEBP1","NCH5557__Tumor cells",0.343821983189541,"NCH5557","Tumor cells",486
+"SULF1","NCH5557__Tumor cells",0.971822825835098,"NCH5557","Tumor cells",486
+"COL14A1","NCH5557__Tumor cells",1.67441544143395,"NCH5557","Tumor cells",486
+"COL15A1","NCH5557__Tumor cells",-0.452581199942811,"NCH5557","Tumor cells",486
+"CXCL12","NCH5557__Tumor cells",-0.176972756393702,"NCH5557","Tumor cells",486
+"LUM","NCH5557__Tumor cells",0.253629727476195,"NCH5557","Tumor cells",486
+"POSTN","NCH5557__Tumor cells",0.971822825835098,"NCH5557","Tumor cells",486
+"MMP2","NCH5557__Tumor cells",-0.308205528132441,"NCH5557","Tumor cells",486
+"CTSK","NCH5557__Endothelial cells",1.35418928235795,"NCH5557","Endothelial cells",79
+"DPT","NCH5557__Endothelial cells",-1,"NCH5557","Endothelial cells",79
+"COL6A3","NCH5557__Endothelial cells",4.76738697441265,"NCH5557","Endothelial cells",79
+"THBS4","NCH5557__Endothelial cells",-1,"NCH5557","Endothelial cells",79
+"THBS2","NCH5557__Endothelial cells",3.68248393942639,"NCH5557","Endothelial cells",79
+"AEBP1","NCH5557__Endothelial cells",4.71186250135348,"NCH5557","Endothelial cells",79
+"SULF1","NCH5557__Endothelial cells",5.66917097150891,"NCH5557","Endothelial cells",79
+"COL14A1","NCH5557__Endothelial cells",3.2860536599753,"NCH5557","Endothelial cells",79
+"COL15A1","NCH5557__Endothelial cells",6.91656318202351,"NCH5557","Endothelial cells",79
+"CXCL12","NCH5557__Endothelial cells",6.02858738192656,"NCH5557","Endothelial cells",79
+"LUM","NCH5557__Endothelial cells",2.94445920072092,"NCH5557","Endothelial cells",79
+"POSTN","NCH5557__Endothelial cells",8.31394653716967,"NCH5557","Endothelial cells",79
+"MMP2","NCH5557__Endothelial cells",5.01686527723319,"NCH5557","Endothelial cells",79
+"CTSK","NCH5557__Tumor cells (prol.)",1.998281227941,"NCH5557","Tumor cells (prol.)",35
+"DPT","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"COL6A3","NCH5557__Tumor cells (prol.)",3.92409960394821,"NCH5557","Tumor cells (prol.)",35
+"THBS4","NCH5557__Tumor cells (prol.)",1.998281227941,"NCH5557","Tumor cells (prol.)",35
+"THBS2","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"AEBP1","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"SULF1","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"COL14A1","NCH5557__Tumor cells (prol.)",0.924552167729999,"NCH5557","Tumor cells (prol.)",35
+"COL15A1","NCH5557__Tumor cells (prol.)",0.924552167729999,"NCH5557","Tumor cells (prol.)",35
+"CXCL12","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"LUM","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"POSTN","NCH5557__Tumor cells (prol.)",0.261888785344541,"NCH5557","Tumor cells (prol.)",35
+"MMP2","NCH5557__Tumor cells (prol.)",-1,"NCH5557","Tumor cells (prol.)",35
+"CTSK","NCH5557__Stromal cells",5.37758550817194,"NCH5557","Stromal cells",62
+"DPT","NCH5557__Stromal cells",0.563583613581239,"NCH5557","Stromal cells",62
+"COL6A3","NCH5557__Stromal cells",11.0655220706112,"NCH5557","Stromal cells",62
+"THBS4","NCH5557__Stromal cells",4.01319182921785,"NCH5557","Stromal cells",62
+"THBS2","NCH5557__Stromal cells",10.6398049282322,"NCH5557","Stromal cells",62
+"AEBP1","NCH5557__Stromal cells",7.75904804384093,"NCH5557","Stromal cells",62
+"SULF1","NCH5557__Stromal cells",9.44052542619098,"NCH5557","Stromal cells",62
+"COL14A1","NCH5557__Stromal cells",6.90458247104336,"NCH5557","Stromal cells",62
+"COL15A1","NCH5557__Stromal cells",5.50732045024483,"NCH5557","Stromal cells",62
+"CXCL12","NCH5557__Stromal cells",2.87687065162098,"NCH5557","Stromal cells",62
+"LUM","NCH5557__Stromal cells",7.1125849368832,"NCH5557","Stromal cells",62
+"POSTN","NCH5557__Stromal cells",10.1912237088999,"NCH5557","Stromal cells",62
+"MMP2","NCH5557__Stromal cells",4.64087511847437,"NCH5557","Stromal cells",62
+"CTSK","NCH5557__Pericytes",2.894730421529,"NCH5557","Pericytes",22
+"DPT","NCH5557__Pericytes",-1,"NCH5557","Pericytes",22
+"COL6A3","NCH5557__Pericytes",5.71501126362796,"NCH5557","Pericytes",22
+"THBS4","NCH5557__Pericytes",1.98860284699362,"NCH5557","Pericytes",22
+"THBS2","NCH5557__Pericytes",8.8071607517578,"NCH5557","Pericytes",22
+"AEBP1","NCH5557__Pericytes",5.13689880577848,"NCH5557","Pericytes",22
+"SULF1","NCH5557__Pericytes",5.13689880577848,"NCH5557","Pericytes",22
+"COL14A1","NCH5557__Pericytes",7.79756809939432,"NCH5557","Pericytes",22
+"COL15A1","NCH5557__Pericytes",2.894730421529,"NCH5557","Pericytes",22
+"CXCL12","NCH5557__Pericytes",2.894730421529,"NCH5557","Pericytes",22
+"LUM","NCH5557__Pericytes",3.84539967109535,"NCH5557","Pericytes",22
+"POSTN","NCH5557__Pericytes",3.44699388226489,"NCH5557","Pericytes",22
+"MMP2","NCH5557__Pericytes",1.98860284699362,"NCH5557","Pericytes",22
+"CTSK","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"DPT","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"COL6A3","NCH5557__Astrocytes",7.96148568987326,"NCH5557","Astrocytes",1
+"THBS4","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"THBS2","NCH5557__Astrocytes",7.96148568987326,"NCH5557","Astrocytes",1
+"AEBP1","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"SULF1","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"COL14A1","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"COL15A1","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"CXCL12","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"LUM","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"POSTN","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"MMP2","NCH5557__Astrocytes",-1,"NCH5557","Astrocytes",1
+"CTSK","NCH6077__Tumor cells",3.08218091159388,"NCH6077","Tumor cells",278
+"DPT","NCH6077__Tumor cells",-0.310257890268909,"NCH6077","Tumor cells",278
+"COL6A3","NCH6077__Tumor cells",3.86778664559671,"NCH6077","Tumor cells",278
+"THBS4","NCH6077__Tumor cells",1.31743968852787,"NCH6077","Tumor cells",278
+"THBS2","NCH6077__Tumor cells",0.653281592943252,"NCH6077","Tumor cells",278
+"AEBP1","NCH6077__Tumor cells",2.82572416870771,"NCH6077","Tumor cells",278
+"SULF1","NCH6077__Tumor cells",3.27723009537768,"NCH6077","Tumor cells",278
+"COL14A1","NCH6077__Tumor cells",5.75035403634902,"NCH6077","Tumor cells",278
+"COL15A1","NCH6077__Tumor cells",0.340555376331389,"NCH6077","Tumor cells",278
+"CXCL12","NCH6077__Tumor cells",-0.614295547477484,"NCH6077","Tumor cells",278
+"LUM","NCH6077__Tumor cells",0.340555376331389,"NCH6077","Tumor cells",278
+"POSTN","NCH6077__Tumor cells",0.505375470794004,"NCH6077","Tumor cells",278
+"MMP2","NCH6077__Tumor cells",0.653281592943252,"NCH6077","Tumor cells",278
+"CTSK","NCH6077__Tumor cells (prol.)",3.83678799994863,"NCH6077","Tumor cells (prol.)",118
+"DPT","NCH6077__Tumor cells (prol.)",-1,"NCH6077","Tumor cells (prol.)",118
+"COL6A3","NCH6077__Tumor cells (prol.)",3.62638521732033,"NCH6077","Tumor cells (prol.)",118
+"THBS4","NCH6077__Tumor cells (prol.)",1.52100433254058,"NCH6077","Tumor cells (prol.)",118
+"THBS2","NCH6077__Tumor cells (prol.)",1.15287732152732,"NCH6077","Tumor cells (prol.)",118
+"AEBP1","NCH6077__Tumor cells (prol.)",2.50352878917856,"NCH6077","Tumor cells (prol.)",118
+"SULF1","NCH6077__Tumor cells (prol.)",2.65925011039658,"NCH6077","Tumor cells (prol.)",118
+"COL14A1","NCH6077__Tumor cells (prol.)",6.12667683490039,"NCH6077","Tumor cells (prol.)",118
+"COL15A1","NCH6077__Tumor cells (prol.)",2.19958657837112,"NCH6077","Tumor cells (prol.)",118
+"CXCL12","NCH6077__Tumor cells (prol.)",-1,"NCH6077","Tumor cells (prol.)",118
+"LUM","NCH6077__Tumor cells (prol.)",-0.10331382004738,"NCH6077","Tumor cells (prol.)",118
+"POSTN","NCH6077__Tumor cells (prol.)",1.40841923560275,"NCH6077","Tumor cells (prol.)",118
+"MMP2","NCH6077__Tumor cells (prol.)",-0.483084905287446,"NCH6077","Tumor cells (prol.)",118
+"CTSK","NCH6077__Pericytes",3.28792729733495,"NCH6077","Pericytes",37
+"DPT","NCH6077__Pericytes",-1,"NCH6077","Pericytes",37
+"COL6A3","NCH6077__Pericytes",5.07024822427718,"NCH6077","Pericytes",37
+"THBS4","NCH6077__Pericytes",1.65431505679056,"NCH6077","Pericytes",37
+"THBS2","NCH6077__Pericytes",6.41324859111613,"NCH6077","Pericytes",37
+"AEBP1","NCH6077__Pericytes",6.34440212009912,"NCH6077","Pericytes",37
+"SULF1","NCH6077__Pericytes",9.22614382942853,"NCH6077","Pericytes",37
+"COL14A1","NCH6077__Pericytes",6.85395279906208,"NCH6077","Pericytes",37
+"COL15A1","NCH6077__Pericytes",2.1607929683611,"NCH6077","Pericytes",37
+"CXCL12","NCH6077__Pericytes",0.867001759756532,"NCH6077","Pericytes",37
+"LUM","NCH6077__Pericytes",2.1607929683611,"NCH6077","Pericytes",37
+"POSTN","NCH6077__Pericytes",6.34440212009912,"NCH6077","Pericytes",37
+"MMP2","NCH6077__Pericytes",-1,"NCH6077","Pericytes",37
+"CTSK","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"DPT","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"COL6A3","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"THBS4","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"THBS2","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"AEBP1","NCH6077__Endothelial cells",5.29444699298081,"NCH6077","Endothelial cells",7
+"SULF1","NCH6077__Endothelial cells",3.04422878845939,"NCH6077","Endothelial cells",7
+"COL14A1","NCH6077__Endothelial cells",3.04422878845939,"NCH6077","Endothelial cells",7
+"COL15A1","NCH6077__Endothelial cells",7.95692639764536,"NCH6077","Endothelial cells",7
+"CXCL12","NCH6077__Endothelial cells",6.42188979440347,"NCH6077","Endothelial cells",7
+"LUM","NCH6077__Endothelial cells",-1,"NCH6077","Endothelial cells",7
+"POSTN","NCH6077__Endothelial cells",8.88628288360189,"NCH6077","Endothelial cells",7
+"MMP2","NCH6077__Endothelial cells",4.97710671922828,"NCH6077","Endothelial cells",7
+"CTSK","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"DPT","NCH6077__Astrocytes",2.22323537215749,"NCH6077","Astrocytes",6
+"COL6A3","NCH6077__Astrocytes",4.41595945149358,"NCH6077","Astrocytes",6
+"THBS4","NCH6077__Astrocytes",6.15744194233332,"NCH6077","Astrocytes",6
+"THBS2","NCH6077__Astrocytes",2.22323537215749,"NCH6077","Astrocytes",6
+"AEBP1","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"SULF1","NCH6077__Astrocytes",2.22323537215749,"NCH6077","Astrocytes",6
+"COL14A1","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"COL15A1","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"CXCL12","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"LUM","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"POSTN","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"MMP2","NCH6077__Astrocytes",-1,"NCH6077","Astrocytes",6
+"CTSK","NCH6077__Stromal cells",-1,"NCH6077","Stromal cells",9
+"DPT","NCH6077__Stromal cells",-1,"NCH6077","Stromal cells",9
+"COL6A3","NCH6077__Stromal cells",7.93699206660708,"NCH6077","Stromal cells",9
+"THBS4","NCH6077__Stromal cells",3.74109875458992,"NCH6077","Stromal cells",9
+"THBS2","NCH6077__Stromal cells",7.08376288644347,"NCH6077","Stromal cells",9
+"AEBP1","NCH6077__Stromal cells",5.70006086286357,"NCH6077","Stromal cells",9
+"SULF1","NCH6077__Stromal cells",5.5093966688093,"NCH6077","Stromal cells",9
+"COL14A1","NCH6077__Stromal cells",7.27574310544609,"NCH6077","Stromal cells",9
+"COL15A1","NCH6077__Stromal cells",5.03029045441918,"NCH6077","Stromal cells",9
+"CXCL12","NCH6077__Stromal cells",2.79406090578626,"NCH6077","Stromal cells",9
+"LUM","NCH6077__Stromal cells",-1,"NCH6077","Stromal cells",9
+"POSTN","NCH6077__Stromal cells",10.99935336991,"NCH6077","Stromal cells",9
+"MMP2","NCH6077__Stromal cells",-1,"NCH6077","Stromal cells",9
+"CTSK","NCH5616__Tumor cells",1.98925086797627,"NCH5616","Tumor cells",90
+"DPT","NCH5616__Tumor cells",-1,"NCH5616","Tumor cells",90
+"COL6A3","NCH5616__Tumor cells",3.88898864892745,"NCH5616","Tumor cells",90
+"THBS4","NCH5616__Tumor cells",4.52713296339768,"NCH5616","Tumor cells",90
+"THBS2","NCH5616__Tumor cells",1.63353856425754,"NCH5616","Tumor cells",90
+"AEBP1","NCH5616__Tumor cells",-0.0988323065597238,"NCH5616","Tumor cells",90
+"SULF1","NCH5616__Tumor cells",3.19782916209935,"NCH5616","Tumor cells",90
+"COL14A1","NCH5616__Tumor cells",1.16037418007518,"NCH5616","Tumor cells",90
+"COL15A1","NCH5616__Tumor cells",2.51234364879078,"NCH5616","Tumor cells",90
+"CXCL12","NCH5616__Tumor cells",-1,"NCH5616","Tumor cells",90
+"LUM","NCH5616__Tumor cells",-0.0988323065597238,"NCH5616","Tumor cells",90
+"POSTN","NCH5616__Tumor cells",1.41626816656532,"NCH5616","Tumor cells",90
+"MMP2","NCH5616__Tumor cells",-0.0988323065597238,"NCH5616","Tumor cells",90
+"CTSK","NCH5616__Stromal cells",5.06413397100318,"NCH5616","Stromal cells",21
+"DPT","NCH5616__Stromal cells",3.68459279590248,"NCH5616","Stromal cells",21
+"COL6A3","NCH5616__Stromal cells",11.426375668671,"NCH5616","Stromal cells",21
+"THBS4","NCH5616__Stromal cells",4.08553639422889,"NCH5616","Stromal cells",21
+"THBS2","NCH5616__Stromal cells",9.47804934087763,"NCH5616","Stromal cells",21
+"AEBP1","NCH5616__Stromal cells",7.43889001899065,"NCH5616","Stromal cells",21
+"SULF1","NCH5616__Stromal cells",8.29263904729559,"NCH5616","Stromal cells",21
+"COL14A1","NCH5616__Stromal cells",6.95512517003918,"NCH5616","Stromal cells",21
+"COL15A1","NCH5616__Stromal cells",7.6897634582427,"NCH5616","Stromal cells",21
+"CXCL12","NCH5616__Stromal cells",8.25422707227211,"NCH5616","Stromal cells",21
+"LUM","NCH5616__Stromal cells",8.13244499005456,"NCH5616","Stromal cells",21
+"POSTN","NCH5616__Stromal cells",10.0929184564661,"NCH5616","Stromal cells",21
+"MMP2","NCH5616__Stromal cells",7.00224333796591,"NCH5616","Stromal cells",21
+"CTSK","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"DPT","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"COL6A3","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"THBS4","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"THBS2","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"AEBP1","NCH5616__Pericytes",5.90831482940438,"NCH5616","Pericytes",2
+"SULF1","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"COL14A1","NCH5616__Pericytes",9.06752404758037,"NCH5616","Pericytes",2
+"COL15A1","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"CXCL12","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"LUM","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"POSTN","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"MMP2","NCH5616__Pericytes",-1,"NCH5616","Pericytes",2
+"CTSK","NCH5616__Astrocytes",1.83168899016246,"NCH5616","Astrocytes",19
+"DPT","NCH5616__Astrocytes",1.02131466133186,"NCH5616","Astrocytes",19
+"COL6A3","NCH5616__Astrocytes",3.02659448336584,"NCH5616","Astrocytes",19
+"THBS4","NCH5616__Astrocytes",5.33177548373589,"NCH5616","Astrocytes",19
+"THBS2","NCH5616__Astrocytes",4.55130167443265,"NCH5616","Astrocytes",19
+"AEBP1","NCH5616__Astrocytes",1.83168899016246,"NCH5616","Astrocytes",19
+"SULF1","NCH5616__Astrocytes",3.98164057126475,"NCH5616","Astrocytes",19
+"COL14A1","NCH5616__Astrocytes",3.02659448336584,"NCH5616","Astrocytes",19
+"COL15A1","NCH5616__Astrocytes",1.02131466133186,"NCH5616","Astrocytes",19
+"CXCL12","NCH5616__Astrocytes",-1,"NCH5616","Astrocytes",19
+"LUM","NCH5616__Astrocytes",-1,"NCH5616","Astrocytes",19
+"POSTN","NCH5616__Astrocytes",-1,"NCH5616","Astrocytes",19
+"MMP2","NCH5616__Astrocytes",-1,"NCH5616","Astrocytes",19
+"CTSK","NCH5616__Tumor cells (prol.)",0.446043815236219,"NCH5616","Tumor cells (prol.)",24
+"DPT","NCH5616__Tumor cells (prol.)",-1,"NCH5616","Tumor cells (prol.)",24
+"COL6A3","NCH5616__Tumor cells (prol.)",3.43930303532688,"NCH5616","Tumor cells (prol.)",24
+"THBS4","NCH5616__Tumor cells (prol.)",4.57180323773557,"NCH5616","Tumor cells (prol.)",24
+"THBS2","NCH5616__Tumor cells (prol.)",-1,"NCH5616","Tumor cells (prol.)",24
+"AEBP1","NCH5616__Tumor cells (prol.)",0.446043815236219,"NCH5616","Tumor cells (prol.)",24
+"SULF1","NCH5616__Tumor cells (prol.)",2.50431439308874,"NCH5616","Tumor cells (prol.)",24
+"COL14A1","NCH5616__Tumor cells (prol.)",0.446043815236219,"NCH5616","Tumor cells (prol.)",24
+"COL15A1","NCH5616__Tumor cells (prol.)",2.50431439308874,"NCH5616","Tumor cells (prol.)",24
+"CXCL12","NCH5616__Tumor cells (prol.)",-1,"NCH5616","Tumor cells (prol.)",24
+"LUM","NCH5616__Tumor cells (prol.)",-1,"NCH5616","Tumor cells (prol.)",24
+"POSTN","NCH5616__Tumor cells (prol.)",1.98155956665,"NCH5616","Tumor cells (prol.)",24
+"MMP2","NCH5616__Tumor cells (prol.)",-1,"NCH5616","Tumor cells (prol.)",24
+"CTSK","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"DPT","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"COL6A3","NCH5616__Endothelial cells",3.26440541837258,"NCH5616","Endothelial cells",9
+"THBS4","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"THBS2","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"AEBP1","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"SULF1","NCH5616__Endothelial cells",3.26440541837258,"NCH5616","Endothelial cells",9
+"COL14A1","NCH5616__Endothelial cells",4.22637401775023,"NCH5616","Endothelial cells",9
+"COL15A1","NCH5616__Endothelial cells",7.71431372769746,"NCH5616","Endothelial cells",9
+"CXCL12","NCH5616__Endothelial cells",8.14406140295116,"NCH5616","Endothelial cells",9
+"LUM","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"POSTN","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9
+"MMP2","NCH5616__Endothelial cells",-1,"NCH5616","Endothelial cells",9

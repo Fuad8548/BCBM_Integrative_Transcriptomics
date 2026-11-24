@@ -1,0 +1,13 @@
+"Var1","Var2","Freq"
+"discovery_GO","EntrezID",0
+"discovery_KEGG","EntrezID",0
+"purity_GO","EntrezID",264
+"purity_KEGG","EntrezID",228
+"validation_GO","EntrezID",190
+"validation_KEGG","EntrezID",256
+"discovery_GO","GeneSymbol",297
+"discovery_KEGG","GeneSymbol",300
+"purity_GO","GeneSymbol",0
+"purity_KEGG","GeneSymbol",0
+"validation_GO","GeneSymbol",0
+"validation_KEGG","GeneSymbol",0

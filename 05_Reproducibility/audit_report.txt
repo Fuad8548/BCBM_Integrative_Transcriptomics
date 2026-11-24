@@ -1,0 +1,27 @@
+BCBM INTEGRATIVE TRANSCRIPTOMICS
+REPRODUCIBILITY AUDIT
+
+Audit date: 2026-11-21
+Repository root: E:/computational-biology/BCBM_Integrative_Transcriptomics
+
+TOTAL FILES:
+339
+
+EXPECTED OUTPUTS:
+02_Single_Nucleus_Transcriptomics/results/cellular_composition/celltype_composition_summary.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/cellular_composition/sample_cell_proportions.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_pseudobulk/ECM_pseudobulk_logCPM_long.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_signature_scoring_v2/ECM_signature_scores_long.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_signature_scoring_v2/ECM_signature_score_validation.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_composition_association/stromal_core_ECM_vs_cell_composition.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_composition_association/ECM_high_vs_low_cell_composition.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_composition_association/stromal_ECM_gene_summary.csv [FOUND]
+02_Single_Nucleus_Transcriptomics/results/ECM_composition_association/stromal_ECM_genes_high_vs_low.csv [FOUND]
+
+ECM SCORE FILES:
+Old  [FOUND] E:/computational-biology/BCBM_Integrative_Transcriptomics/02_Single_Nucleus_Transcriptomics/results/ECM_signature_scoring/ECM_signature_scores_long.csv
+Validated_v2  [FOUND] E:/computational-biology/BCBM_Integrative_Transcriptomics/02_Single_Nucleus_Transcriptomics/results/ECM_signature_scoring_v2/ECM_signature_scores_long.csv
+
+LARGE FILES (>100 MB):
+.git/objects/8a/414139556d5199b20f1777e8f18b836f1b9b4e
+02_single_nucleus_transcriptomics/data/raw/GSE324453_seurat_filtered_annotated.rds

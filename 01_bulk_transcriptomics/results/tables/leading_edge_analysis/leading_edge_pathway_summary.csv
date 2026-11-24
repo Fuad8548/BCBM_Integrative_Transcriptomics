@@ -1,0 +1,8 @@
+"pathway_id","pathway","discovery_genes","purity_genes","validation_genes","union_genes","shared_all_three","shared_at_least_two"
+"hsa00190","Oxidative phosphorylation",85,89,68,111,43,88
+"GO:0009060","Aerobic respiration",134,142,71,180,42,125
+"GO:0030198","Extracellular matrix organization",130,103,95,162,53,113
+"GO:0030199","Collagen fibril organization",33,19,24,35,15,26
+"hsa04512","ECM-receptor interaction",35,29,29,50,15,28
+"hsa04518","Integrin signaling",67,52,41,88,21,51
+"hsa04060","Cytokine-cytokine receptor interaction",113,58,118,186,28,75

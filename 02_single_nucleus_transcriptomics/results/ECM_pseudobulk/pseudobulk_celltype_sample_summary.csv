@@ -1,0 +1,7 @@
+"cell_type","n_samples","total_nuclei","median_nuclei_per_sample","min_nuclei_per_sample","max_nuclei_per_sample"
+"Astrocytes",20,441,12,1,97
+"Endothelial cells",26,1584,33,1,422
+"Pericytes",28,1616,26,2,529
+"Stromal cells",28,1977,30,1,463
+"Tumor cells",28,32887,756,86,4407
+"Tumor cells (prol.)",28,7157,111.5,19,1515
